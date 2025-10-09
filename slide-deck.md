@@ -1,8 +1,21 @@
+---
+marp: true
+---
+
 TALK Extension
 
 ---
 
 Sommaire
+
+
+---
+
+|||
+|---|---|
+|Théo Bougé|https://theobouge.eu|
+|Benoît Masson||
+
 
 ---
 
@@ -48,22 +61,55 @@ http://gw2sdev-docker:21119/b/MYNpkPzyRaEcHo5KE/prez-extension
 
 ### 1b. DNS (Théo)
 
-- DNS vs NDD
-     - https://uz/
-     - **quizz**
-         - comment trouver toto.fr ? (root => fr)
-         - comment trouver toto.gouv.fr ? (root => fr)
-         - comment trouver toto.fr.com ? (root => com => fr.com)
-     - DNS racine
-- alternatives
-     - opennic
-     - .onion
+![URI](assets/dns.svg)
+
+---
+
+# Record DNS
+
+- TXT
+- A / AAAA
+- NS
+- MX
+- CNAME / DNAME
+- DNSKEY
+
+
+---
+
+# Quizz
+
+- comment trouver toto.fr ? 
+- comment trouver toto.gouv.fr ?
+- comment trouver toto.co.uk ?
+- comment trouver toto.fr.com ? 
+
+---
+
+
+# Les DNS racines alternatifs
+
+## https://opennic.org/
+
+```
+~ 
+❯ dig +short be.libre
+
+~ 
+❯ dig @94.247.43.254 +short be.libre
+161.97.219.84
+
+```
+
+## .onion
+
+https://www.torproject.org/fr/download/
 
 ---
 
 ### 1c. Whois/RDAP (Théo)
 
-- démo https://client.rdap.org/?type=domain&object=adatechschool.fr
+https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 ---
 
@@ -106,15 +152,24 @@ mobi, tel, travel)
 
 - B .ευ (langues chine/arabe/hébreu)
 - T .leclerc / .cuisinella (entreprises, usage interne)
+
+---
+
 - B .ovh (entreprise, en vente publique)
 - T .sncf / .goodyear (plus utilisés / supprimés)
+
+---
+
 - B .app (HTTPS only)
 - T .security, .auto (cher)
+
+---
+
 - B .sucks (racket)
 - T .example / .local (non routés) + .corp / .home (dossiers refusés)
 - B .amazon / .web (conflits)
 
-(Théo)
+---
 
 - Bilan
      => chiffres (stats, top 5 coût réel)
