@@ -1,0 +1,78 @@
+/* @theme deck */
+
+h2 {
+    font-weight: bold;
+}
+
+h2 + ul,
+h2 + :has(ul) {
+    margin-top: 1em !important;
+}
+
+section {
+    justify-content: start !important;
+    text-shadow: 5px 5px 10px black;
+}
+
+.horizontal {
+    display: flex;
+    flex-direction: row !important;
+    margin-bottom: 0.5em;
+}
+
+.vertical {
+    display: flex;
+    flex-direction: column !important;
+}
+
+.space-around {
+    justify-content: space-around !important;
+}
+
+.space-between {
+    justify-content: space-between !important;
+}
+
+.start {
+    justify-content: start !important;
+}
+
+.center {
+    justify-content: center !important;
+}
+
+.end {
+    justify-content: end !important;
+}
+
+.flex {
+    flex: 1 auto;
+    height: 100%;
+}
+
+.bottom-align {
+    align-items: flex-end;
+}
+
+.center-align {
+    align-items: center;
+}
+
+div > ul > li + li {
+    margin-top: 0.5em;
+}
+
+.pros ul {
+    margin: 0;
+    list-style: "+ ";
+}
+
+.cons ul {
+    margin: 0;
+    list-style: "- ";
+}
+
+.footnotes {
+    font-size: 50%;
+    text-align: right;
+}
