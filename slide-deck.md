@@ -19,13 +19,15 @@ class:
 
 <div class="flex vertical center">
 
-<div class="horizontal space-around center-align">
+![bg cover opacity:0.7](./assets/network.jpg)
 
-<!-- insert images -->
+# La grande histoire
 
-</div>
+## des petites **extensions**
 
-# TALK Extension
+### de **noms de domaines**
+
+<div class="spacer"/>
 
 Théo Bougé & Benoît Masson – OVHcloud
 
@@ -283,3 +285,20 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 - NFT, Web 3 - .agi ? https://domainincite.com/31315-ai-rival-lines-up-gtld-bid
   /
   https://unstoppabledomains.com/blog/categories/announcements/article/agi-tld
+
+</div>
+
+---
+
+![bg cover](./assets/question.jpg)
+
+<div class="flex vertical space-between">
+
+# Questions
+
+<div class="footnotes">
+
+Images credits: [Unsplash](https://unsplash.com)
+Slides: [https://github.com/Preovaleo/talk-extensions](https://https://github.com/Preovaleo/talk-extensions/)
+
+</div>
