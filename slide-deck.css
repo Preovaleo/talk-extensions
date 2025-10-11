@@ -58,6 +58,11 @@ section {
     align-items: center;
 }
 
+ul {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
 div > ul > li + li {
     margin-top: 0.5em;
 }
@@ -74,6 +79,10 @@ div > ul > li + li {
 
 .spacer {
     margin: 2em;
+}
+
+.hspacer {
+    margin: 0 2em;
 }
 
 .footnotes {
