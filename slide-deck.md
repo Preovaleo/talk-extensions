@@ -615,17 +615,35 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 <div class="flex vertical start">
 
-## Acteurs (Benoît)
+## Principaux acteurs
 
-- Icann, gouvernements
-- registry, backend
-- registrar (OVHcloud)
-- registrant
+![height:500px](./assets/actors.png)
 
-- proxy (RRPproxy)
+<!-- ICANN (Internet Corporation for Assigned Names and Numbers) : créée en 1998, "indépendante" en 2016 -->
 
-- domainer
-- spammers, phishers
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Autres acteurs
+
+- 🗂️ Dépositaire des données
+- 👨‍👦‍👦 Bureau d'enregistrement _proxy_
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Autres acteurs
+
+- 🗂️ Dépositaire des données
+- 👨‍👦‍👦 Bureau d'enregistrement _proxy_
+- 🏴‍☠️ Spammer, phisher
+- 💰 Domainer
 
 </div>
 
@@ -789,7 +807,7 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 <div class="footnotes">
 
-Images credits: [Unsplash](https://unsplash.com)
+Crédits images: [Unsplash](https://unsplash.com) et [Freepik](https://www.freepik.com)
 Slides: [https://github.com/Preovaleo/talk-extensions](https://https://github.com/Preovaleo/talk-extensions/)
 
 </div>
