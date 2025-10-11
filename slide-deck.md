@@ -29,7 +29,7 @@ class:
 
 ### de **noms de domaines**
 
-<div class="spacer"/>
+<div class="spacer"></div>
 
 Théo Bougé & Benoît Masson – OVHcloud
 
@@ -76,7 +76,7 @@ Développeur Domaines
 
 <div class="flex vertical space-around">
 
-# 1. Noms de domaines
+# 1. Noms de domaines et extensions
 
 </div>
 
@@ -84,25 +84,424 @@ Développeur Domaines
 
 <div class="flex vertical start">
 
-## Histoire (Benoît)
+## Nom de domaine
 
-- c'est quoi un NDD
-- illustrer sur une URL type
-  http://gw2sdev-docker:21119/b/MYNpkPzyRaEcHo5KE/prez-extension
-- **quizz**
-  - toto.fr
-  - com.toto.fr (fr)
-  - toto.gouv.fr (gouv.fr)
-  - toto.com.fr (com.fr)
-  - toto.fr.com (com)
-  - toto.notaires.fr (fr mais…)
-- tld vs sld vs extension
-  https://publicsuffix.org/list/
-- ccTLDs vs gTLDs
-  - **quizz** - fr - com - co - gouv.fr - bzh - paris - eu - asia - ευ - yt - dev - ai - tv - radio
-    => règle 2 caractères
-- IDN
-  (- extension .arpa)
+URL : `https://www.ovhcloud.com:8080/mail`
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Nom de domaine
+
+URL : `https://www.ovhcloud.com:8080/mail`
+
+- `https` : protocole
+- `www` : nom d'hôte (machine) / sous-domaine
+- `ovhcloud.com` : **nom de domaine**
+  - `ovhcloud` : étiquette / `com` : extension
+- `8080` : port
+- `/mail` : chemin d'accès
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : quelle est l'extension ?
+
+- `toto.fr`
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : quelle est l'extension ?
+
+- `toto.fr` => `fr`
+- `com.toto.fr`
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : quelle est l'extension ?
+
+- `toto.fr` => `fr`
+- `com.toto.fr` => `fr`
+- `toto.gouv.fr`
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : quelle est l'extension ?
+
+- `toto.fr` => `fr`
+- `com.toto.fr` => `fr`
+- `toto.gouv.fr` => `gouv.fr`
+- `toto.com.fr`
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : quelle est l'extension ?
+
+- `toto.fr` => `fr`
+- `com.toto.fr` => `fr`
+- `toto.gouv.fr` => `gouv.fr`
+- `toto.com.fr` => `com.fr`
+- `toto.fr.com`
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : quelle est l'extension ?
+
+- `toto.fr` => `fr`
+- `com.toto.fr` => `fr`
+- `toto.gouv.fr` => `gouv.fr`
+- `toto.com.fr` => `com.fr`
+- `toto.fr.com` => `com`
+- `toto.notaires.fr`
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : quelle est l'extension ?
+
+- `toto.fr` => `fr`
+- `com.toto.fr` => `fr`
+- `toto.gouv.fr` => `gouv.fr`
+- `toto.com.fr` => `com.fr`
+- `toto.fr.com` => `com`
+- `toto.notaires.fr` => `fr`
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Types d'extensions (1)
+
+- **TLD** (Top-Level Domain)
+- SLD (Second-Level Domain)
+- 3LD (Third-Level Domain)
+
+<div class="spacer"></div>
+
+Liste publique (_non officielle_) sur https://publicsuffix.org/list/
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Types d'extensions (2)
+
+- **ccTLD** (Country-Code TLD)
+- **gTLD** (Generic TLD)
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
+
+<div class="horizontal start">
+
+- `fr`
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
+
+<div class="horizontal start">
+
+- `fr` => 🇫🇷
+- `com`
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
+
+<div class="horizontal start">
+
+- `fr` => 🇫🇷
+- `com` => 🌍
+- `co`
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
+
+<div class="horizontal start">
+
+- `fr` => 🇫🇷
+- `com` => 🌍
+- `co` => 🇨🇴
+- `gouv.fr`
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
+
+<div class="horizontal start">
+
+- `fr` => 🇫🇷
+- `com` => 🌍
+- `co` => 🇨🇴
+- `gouv.fr` => 🇫🇷
+- `bzh`
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
+
+<div class="horizontal start">
+
+- `fr` => 🇫🇷
+- `com` => 🌍
+- `co` => 🇨🇴
+- `gouv.fr` => 🇫🇷
+- `bzh` => 🌍
+- `eu`
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
+
+<div class="horizontal start">
+
+- `fr` => 🇫🇷
+- `com` => 🌍
+- `co` => 🇨🇴
+- `gouv.fr` => 🇫🇷
+- `bzh` => 🌍
+- `eu` => 🇪🇺
+
+<div class="hspacer"></div>
+
+- `ευ`
+
+</div>
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
+
+<div class="horizontal start">
+
+- `fr` => 🇫🇷
+- `com` => 🌍
+- `co` => 🇨🇴
+- `gouv.fr` => 🇫🇷
+- `bzh` => 🌍
+- `eu` => 🇪🇺
+
+<div class="hspacer"></div>
+
+- `ευ` => 🇪🇺
+- `asia`
+
+</div>
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
+
+<div class="horizontal start">
+
+- `fr` => 🇫🇷
+- `com` => 🌍
+- `co` => 🇨🇴
+- `gouv.fr` => 🇫🇷
+- `bzh` => 🌍
+- `eu` => 🇪🇺
+
+<div class="hspacer"></div>
+
+- `ευ` => 🇪🇺
+- `asia` => 🌍
+- `dev`
+
+</div>
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
+
+<div class="horizontal start">
+
+- `fr` => 🇫🇷
+- `com` => 🌍
+- `co` => 🇨🇴
+- `gouv.fr` => 🇫🇷
+- `bzh` => 🌍
+- `eu` => 🇪🇺
+
+<div class="hspacer"></div>
+
+- `ευ` => 🇪🇺
+- `asia` => 🌍
+- `dev` => 🌍
+- `ai`
+
+</div>
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
+
+<div class="horizontal start">
+
+- `fr` => 🇫🇷
+- `com` => 🌍
+- `co` => 🇨🇴
+- `gouv.fr` => 🇫🇷
+- `bzh` => 🌍
+- `eu` => 🇪🇺
+
+<div class="hspacer"></div>
+
+- `ευ` => 🇪🇺
+- `asia` => 🌍
+- `dev` => 🌍
+- `ai` => 🇦🇮
+- `tv`
+
+</div>
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
+
+<div class="horizontal start">
+
+- `fr` => 🇫🇷
+- `com` => 🌍
+- `co` => 🇨🇴
+- `gouv.fr` => 🇫🇷
+- `bzh` => 🌍
+- `eu` => 🇪🇺
+
+<div class="hspacer"></div>
+
+- `ευ` => 🇪🇺
+- `asia` => 🌍
+- `dev` => 🌍
+- `ai` => 🇦🇮
+- `tv` => 🇹🇻
+- `radio`
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
+
+<div class="horizontal start">
+
+- `fr` => 🇫🇷
+- `com` => 🌍
+- `co` => 🇨🇴
+- `gouv.fr` => 🇫🇷
+- `bzh` => 🌍
+- `eu` => 🇪🇺
+
+<div class="hspacer"></div>
+
+- `ευ` => 🇪🇺
+- `asia` => 🌍
+- `dev` => 🌍
+- `ai` => 🇦🇮
+- `tv` => 🇹🇻
+- `radio` => 🌍
+
+</div>
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Caractères spéciaux (non-ASCII)
+
+- **IDN** (International Domain Name) depuis 2003
+
+  - pour l'extension et/ou l'étiquette
+
+- Conversion avec l'encodage _Punycode_
+  - `ευ` <=> `xn--qxa6a`
 
 </div>
 
