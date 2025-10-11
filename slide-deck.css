@@ -72,7 +72,11 @@ div > ul > li + li {
     list-style: "- ";
 }
 
+.spacer {
+    margin: 2em;
+}
+
 .footnotes {
     font-size: 50%;
-    text-align: right;
+    text-align: left;
 }
