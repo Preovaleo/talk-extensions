@@ -21,6 +21,8 @@ class:
 
 ![bg cover opacity:0.7](./assets/network.jpg)
 
+<!-- Photo de <a href="https://unsplash.com/fr/@choys_">Conny Schneider</a> sur <a href="https://unsplash.com/fr/photos/a-blue-background-with-lines-and-dots-xuTJZ7uD7PI">Unsplash</a> -->
+
 # La grande histoire
 
 ## des petites **extensions**
@@ -40,15 +42,7 @@ Théo Bougé & Benoît Masson – OVHcloud
 ## Qui sommes-nous ?
 
 <div class="horizontal space-around">
-<div class="vertical start">
 
-### Benoît
-
-![width:200px](./assets/benoit.jpg)
-
-Développeur Domaines
-
-</div>
 <div class="vertical start">
 
 ### Théo
@@ -58,6 +52,16 @@ Développeur Domaines
 SRE Domaines
 
 </div>
+<div class="vertical start">
+
+### Benoît
+
+![width:200px](./assets/benoit.jpg)
+
+Développeur Domaines
+
+</div>
+
 </div>
 
 ![width:300px](./assets/logo%20ovhcloud.png)
@@ -66,9 +70,13 @@ SRE Domaines
 
 ---
 
-<div class="flex vertical start">
+![bg cover opacity:0.5](./assets/dictionary.jpg)
 
-## 1. Histoire + Tech
+<!-- Photo de <a href="https://unsplash.com/fr/@joshua_hoehne">Joshua Hoehne</a> sur <a href="https://unsplash.com/fr/photos/papier-dimprimante-blanc-avec-texte-noir-1UDjq8s8cy0">Unsplash</a> -->
+
+<div class="flex vertical space-around">
+
+# 1. Noms de domaines
 
 </div>
 
@@ -76,7 +84,7 @@ SRE Domaines
 
 <div class="flex vertical start">
 
-### 1a. Histoire (Benoît)
+## Histoire (Benoît)
 
 - c'est quoi un NDD
 - illustrer sur une URL type
@@ -100,11 +108,13 @@ SRE Domaines
 
 ---
 
-<div class="flex vertical start">
+![bg cover opacity:0.5](./assets/directions.jpg)
 
-### 1b. DNS (Théo)
+<!-- Photo de <a href="https://unsplash.com/fr/@j_harris_391">Joshua Harris</a> sur <a href="https://unsplash.com/fr/photos/un-poteau-avec-un-tas-de-panneaux-de-signalisation-jaunes-dessus-BwH31YGYXho">Unsplash</a> -->
 
-![URI](assets/dns.svg)
+<div class="flex vertical space-around">
+
+# 2. DNS
 
 </div>
 
@@ -112,7 +122,17 @@ SRE Domaines
 
 <div class="flex vertical start">
 
-# Record DNS
+## DNS (Théo)
+
+![URI height:500px](assets/dns.svg)
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Record DNS
 
 - TXT
 - A / AAAA
@@ -127,7 +147,7 @@ SRE Domaines
 
 <div class="flex vertical start">
 
-# Quizz
+## Quizz
 
 - comment trouver toto.fr ?
 - comment trouver toto.gouv.fr ?
@@ -140,9 +160,9 @@ SRE Domaines
 
 <div class="flex vertical start">
 
-# Les DNS racines alternatifs
+## Les DNS racines alternatifs
 
-## https://opennic.org/
+### https://opennic.org/
 
 ```sh
 ~
@@ -154,7 +174,7 @@ SRE Domaines
 
 ```
 
-## .onion
+### .onion
 
 https://www.torproject.org/fr/download/
 
@@ -162,9 +182,19 @@ https://www.torproject.org/fr/download/
 
 ---
 
-<div class="flex vertical start">
+![bg cover opacity:0.3](./assets/phone-book.jpg)
 
-### 1c. Whois/RDAP (Théo)
+<!-- Photo de <a href="https://unsplash.com/fr/@portmorien">Port Morien Digital Archive</a> sur <a href="https://unsplash.com/fr/photos/xPUzCnR_Vrw">Unsplash</a> -->
+
+<div class="flex vertical space-around">
+
+# 3. Annuaire Whois/RDAP
+
+</div>
+
+---
+
+## Whois/RDAP (Théo)
 
 https://client.rdap.org/?type=domain&object=adatechschool.fr
 
@@ -172,9 +202,21 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 ---
 
+![bg cover opacity:0.8](./assets/actors.jpg)
+
+<!-- Photo de <a href="https://unsplash.com/fr/@kyleunderscorehead">Kyle Head</a> sur <a href="https://unsplash.com/fr/photos/silhouette-de-trois-interpretes-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
+
+<div class="flex vertical space-around">
+
+# 4. Acteurs
+
+</div>
+
+---
+
 <div class="flex vertical start">
 
-## 2. Acteurs (Benoît)
+## Acteurs (Benoît)
 
 - Icann, gouvernements
 - registry, backend
@@ -190,9 +232,21 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 ---
 
+![bg cover opacity:0.7](./assets/countries.jpg)
+
+<!-- Photo de <a href="https://unsplash.com/fr/@lemonvlad">Vladislav Klapin</a> sur <a href="https://unsplash.com/fr/photos/pavillon-assorti-YeO44yVTl20">Unsplash</a> -->
+
+<div class="flex vertical space-around">
+
+# 5. Country-Codes TLDs (ccTLDs)
+
+</div>
+
+---
+
 <div class="flex vertical start">
 
-## 3. ccTLDs (Théo)
+## ccTLDs (Théo)
 
 **quizz** pays correspondant ?
 
@@ -205,9 +259,21 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 ---
 
+![bg cover opacity:0.8](./assets/earth.jpg)
+
+<!-- Photo de <a href="https://unsplash.com/fr/@carl_wang">Carl Wang</a> sur <a href="https://unsplash.com/fr/photos/une-vue-de-la-terre-depuis-lespace-OCe8cTGymSQ">Unsplash</a> -->
+
+<div class="flex vertical space-around">
+
+# 6. Generic TLDs (gTLDs)
+
+</div>
+
+---
+
 <div class="flex vertical start">
 
-## 4. gTLDs 2012
+## gTLDs 2012
 
 (Benoît)
 
@@ -262,9 +328,21 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 ---
 
+![bg cover opacity:0.7](./assets/2026.jpg)
+
+<!-- Photo de <a href="https://unsplash.com/fr/@simonesecci">Simone Secci</a> sur <a href="https://unsplash.com/fr/photos/lettres-rouges-neon-49uySSA678U">Unsplash</a> -->
+
+<div class="flex vertical space-around">
+
+# 7. Nouveau round gTLDs
+
+</div>
+
+---
+
 <div class="flex vertical start">
 
-## 5. New round 2026 (Benoît)
+## New round 2026 (Benoît)
 
 - roadmap
 - prix
@@ -277,9 +355,21 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 ---
 
+![bg cover opacity:0.7](./assets/ideas.jpg)
+
+<!-- Photo de <a href="https://unsplash.com/fr/@impatrickt">Patrick Tomasso</a> sur <a href="https://unsplash.com/fr/photos/ampoules-vintage-allumees-1NTFSnV-KLs">Unsplash</a> -->
+
+<div class="flex vertical space-around">
+
+# 8. Autres marchés
+
+</div>
+
+---
+
 <div class="flex vertical start">
 
-## 6. Ouvertures (Théo)
+## Ouvertures (Théo)
 
 - Aftermarket
 - NFT, Web 3 - .agi ? https://domainincite.com/31315-ai-rival-lines-up-gtld-bid
@@ -291,6 +381,8 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 ---
 
 ![bg cover](./assets/question.jpg)
+
+<!-- Photo de <a href="https://unsplash.com/fr/@simonesecci">Simone Secci</a> sur <a href="https://unsplash.com/fr/photos/lettres-rouges-neon-49uySSA678U">Unsplash</a> -->
 
 <div class="flex vertical space-between">
 
