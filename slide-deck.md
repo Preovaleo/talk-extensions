@@ -646,23 +646,46 @@ https://www.torproject.org/fr/download/
 
 ---
 
-## Whois/RDAP (Théo)
+<div class="flex vertical start">
 
-https://client.rdap.org/?type=domain&object=adatechschool.fr
+<!-- Whois : né en 1982, protocole texte libre, utilisé pour connaître les infos d'un domaine -->
+<!-- Obsolète (pas de sécurité, pas de structure), non conforme RGPD -->
+<!-- Mort programmée en 2025 -->
+<!-- RDAP le remplace : structuré, sécurisé, conforme, arrive en 2015, devient obligatoire en 2025 -->
+
+## Whois 👶 1982 → ☠️ 2025  
+📝 texte libre,  
+pas de standard pour les clés ni le contenu
+
+```txt
+domain:                        adatechschool.fr
+status:                        ACTIVE
+eppstatus:                     active
+hold:                          NO
+Expiry Date:                   2026-02-15T14:32:02Z
+created:                       2019-02-15T14:32:02Z
+nic-hdl:                       ANO00-FRNIC
+type:                          PERSON
+contact:                       Ano Nymous
+nserver:                       dns110.ovh.net
+nserver:                       ns110.ovh.net
+```
 
 </div>
 
 ---
 
-![bg cover opacity:0.8](./assets/actors.jpg)
+<div class="flex vertical start">
 
-<!-- Photo de <a href="https://unsplash.com/fr/@kyleunderscorehead">Kyle Head</a> sur <a href="https://unsplash.com/fr/photos/silhouette-de-trois-interpretes-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
+## RDAP 🚀 2015 → ✅ 2025+  
+🧾 JSON + jCard via HTTPs
+structuré, machine-readable, 
 
-<div class="flex vertical space-around">
-
-# 4. Acteurs
+🔗 [Voir RDAP pour adatechschool.fr](https://client.rdap.org/?type=domain&object=adatechschool.fr)
 
 </div>
+
+
 
 ---
 
