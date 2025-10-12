@@ -5,8 +5,15 @@ h2 {
 }
 
 h2 + ul,
-h2 + :has(ul) {
+h2 + :has(ul),
+h3 + ul,
+h3 + :has(ul) {
     margin-top: 1em !important;
+}
+
+h1 + h2,
+h2 + h3 {
+    margin-top: -0.5em !important;
 }
 
 section {
