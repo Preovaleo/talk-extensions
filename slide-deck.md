@@ -659,6 +659,30 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 </div>
 
+<!-- Je te proposerais bien d'afficher pour chacun son drapeau (emoji) + en background, sa position sur la carte du monde
+     (par ex. 🇹🇻 + screenshot de https://www.openstreetmap.org/?mlat=-8.45&mlon=179.12#map=4/-8.45/179.12 pour Tuvalu (tv)
+     Je te mets l'exemple ci-dessous, fais-en ce que tu veux -->
+
+---
+
+<div class="flex vertical start">
+
+## `tv` ?
+
+</div>
+
+---
+
+![bg cover opacity:1](./assets/tuvalu.png)
+
+<!-- Source : https://www.openstreetmap.org/?mlat=-8.45&mlon=179.12#map=4/-8.45/179.12 -->
+
+<div class="flex vertical start">
+
+## `tv` : Tuvalu 🇹🇻
+
+</div>
+
 ---
 
 <div class="flex vertical start">
