@@ -546,14 +546,67 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 <div class="flex vertical start">
 
-## Quizz
+## Quizz ❓🧭
 
-- comment trouver toto.fr ?
-- comment trouver toto.gouv.fr ?
-- comment trouver toto.co.uk ?
-- comment trouver toto.fr.com ?
+- www.toto.fr ? 🔍
 
 </div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz ❓🧭
+
+- www.toto.fr ? 🔍
+  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.fr ✅  
+- toto.gouv.fr ? 🏛️
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz ❓🧭
+
+- www.toto.fr ?  🔍
+  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.fr ✅  
+- www.toto.gouv.fr ? 🏛️  
+  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.gouv.fr ✅  
+- www.toto.notaires.fr ? 👩‍⚖️
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz ❓🧭
+
+- www.toto.gouv.fr ? 🏛️  
+  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.gouv.fr ✅  
+- www.toto.notaires.fr ? 👩‍⚖️  
+  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS notaires.fr 👩‍⚖️ 
+-> DNS toto.notaires.fr ✅  
+- toto.co.uk ? 🇬🇧
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz ❓🧭
+
+- www.toto.notaires.fr ? 👩‍⚖️  
+  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS notaires.fr 👩‍⚖️ 
+  -> DNS toto.notaires.fr ✅  
+- toto.co.uk ? 🇬🇧  
+  DNS root 🌐 -> DNS uk 🇬🇧 -> DNS toto.co.uk ✅
+
+</div>
+
 
 ---
 
