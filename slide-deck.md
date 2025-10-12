@@ -774,16 +774,132 @@ structuré, machine-readable,
 
 ---
 
+<!-- Théo -->
 <div class="flex vertical start">
 
-## ccTLDs (Théo)
+## `ai` ?
 
-**quizz** pays correspondant ?
+</div>
 
-- tv, ai, yt
-- ly, io
-- af
-- hr
+---
+
+<!-- Théo -->
+![bg cover opacity:1](./assets/anguilla.png)
+
+<!-- Source : https://www.openstreetmap.org/?mlat=18.22&mlon=-63.06#map=8/18.22/-63.06 -->
+
+<div class="flex vertical start">
+
+## `ai` : Anguilla 🇦🇮
+
+</div>
+
+---
+
+<!-- Théo -->
+<div class="flex vertical start">
+
+## `yt` ?
+
+</div>
+
+---
+
+<!-- Théo -->
+![bg cover opacity:1](./assets/mayotte.png)
+
+<!-- Source : https://www.openstreetmap.org/?mlat=-12.83&mlon=45.17#map=8/-12.83/45.17 -->
+
+<div class="flex vertical start">
+
+## `yt` : Mayotte 🇾🇹
+
+</div>
+
+---
+
+<!-- Théo -->
+<div class="flex vertical start">
+
+## `ly` ?
+
+</div>
+
+---
+
+<!-- Théo -->
+![bg cover opacity:1](./assets/libya.png)
+
+<!-- Source : https://www.openstreetmap.org/?mlat=26.34&mlon=17.23#map=5/26.34/17.23 -->
+
+<div class="flex vertical start">
+
+## `ly` : Libye 🇱🇾
+
+</div>
+
+---
+
+<!-- Théo -->
+<div class="flex vertical start">
+
+## `io` ?
+
+</div>
+
+---
+
+<!-- Théo -->
+![bg cover opacity:1](./assets/british-indian-ocean-territory.png)
+<!-- Source : https://www.openstreetmap.org/?mlat=-6.30&mlon=71.87#map=7/-6.30/71.87 -->
+
+<div class="flex vertical start">
+
+## `io` : Territoire britannique de l’océan Indien 🇮🇴
+
+</div>
+
+---
+
+<!-- Théo -->
+<div class="flex vertical start">
+
+## `af` ?
+
+</div>
+
+---
+
+<!-- Théo -->
+![bg cover opacity:1](./assets/afghanistan.png)
+
+<!-- Source : https://www.openstreetmap.org/?mlat=33.81&mlon=66.54#map=5/33.81/66.54 -->
+
+<div class="flex vertical start">
+
+## `af` : Afghanistan 🇦🇫
+
+</div>
+
+---
+
+<!-- Théo -->
+<div class="flex vertical start">
+
+## `hr` ?
+
+</div>
+
+---
+
+<!-- Théo -->
+![bg cover opacity:1](./assets/croatia.png)
+
+<!-- Source : https://www.openstreetmap.org/?mlat=45.10&mlon=15.20#map=7/45.10/15.20 -->
+
+<div class="flex vertical start">
+
+## `hr` : Croatie 🇭🇷
 
 </div>
 
