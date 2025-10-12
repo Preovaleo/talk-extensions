@@ -1099,7 +1099,7 @@ structuré, machine-readable,
 
 <div class="flex vertical start">
 
-- `example` / `local` (non routés)
+- `example` / `local` / `invalid` (non routés)
 - `corp` / `home` (dossiers refusés)
 
 <!-- Liste complète : https://www.iana.org/assignments/special-use-domain-names/special-use-domain-names.xhtml -->
