@@ -518,6 +518,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -528,6 +529,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -543,6 +545,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -553,6 +556,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -565,6 +569,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -579,6 +584,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -594,6 +600,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -609,6 +616,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 
 ---
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -629,6 +637,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 
 ------
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -658,6 +667,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -687,6 +697,7 @@ nserver:                       ns110.ovh.net
 </div>
 
 ---
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -1007,6 +1018,7 @@ structuré, machine-readable,
 </div>
 
 ---
+<!-- Théo -->
 
 <!-- _backgroundColor: darkslategray -->
 
@@ -1016,7 +1028,7 @@ structuré, machine-readable,
 
 ### (usage interne)
 
-- T `leclerc` / `cuisinella` (entreprises, usage interne)
+- `leclerc` / `cuisinella` (entreprises, usage interne)
 
 </div>
 
@@ -1033,6 +1045,7 @@ structuré, machine-readable,
 </div>
 
 ---
+<!-- Théo -->
 
 <!-- _backgroundColor: darkslategray -->
 
@@ -1040,7 +1053,7 @@ structuré, machine-readable,
 
 ## Extensions supprimées
 
-- T `sncf` / `goodyear` (plus utilisés / supprimés)
+- `sncf` / `goodyear` (plus utilisés / supprimés)
 
 </div>
 
@@ -1055,6 +1068,7 @@ structuré, machine-readable,
 </div>
 
 ---
+<!-- Théo -->
 
 <!-- _backgroundColor: darkslategray -->
 
@@ -1062,7 +1076,7 @@ structuré, machine-readable,
 
 <div class="flex vertical start">
 
-- T `security`, `auto` (cher)
+- `security`, `auto` (cher)
 
 </div>
 
@@ -1077,6 +1091,7 @@ structuré, machine-readable,
 </div>
 
 ---
+<!-- Théo -->
 
 <!-- _backgroundColor: darkslategray -->
 
@@ -1084,7 +1099,8 @@ structuré, machine-readable,
 
 <div class="flex vertical start">
 
-- T `example` / `local` (non routés) + `corp` / `home` (dossiers refusés)
+- `example` / `local` (non routés)
+- `corp` / `home` (dossiers refusés)
 
 </div>
 
