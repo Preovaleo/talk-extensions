@@ -1099,7 +1099,7 @@ structuré, machine-readable,
 
 <div class="flex vertical start">
 
-- `example` / `local` (non routés)
+- `example` / `local` / `invalid` (non routés)
 - `corp` / `home` (dossiers refusés)
 
 </div>
