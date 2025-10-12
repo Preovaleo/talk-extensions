@@ -612,9 +612,11 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 <div class="flex vertical start">
 
-## Les DNS racines alternatifs
+## 🌐 Les DNS racines alternatifs
 
-### https://opennic.org/
+### 🆓 .libre / 🤓 .geek
+
+🔗 [opennic.org](https://opennic.org/)
 
 ```sh
 ~
@@ -623,14 +625,25 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 ~
 ❯ dig @94.247.43.254 +short be.libre
 161.97.219.84
-
 ```
 
-### .onion
 
-https://www.torproject.org/fr/download/
+------
+
+<div class="flex vertical start">
+
+## 🧅 .onion
+
+🔗 [torproject.org](https://www.torproject.org/fr/download/)
+
+###
+
+- Services cachés sur Tor  
+- Anonyme et sécurisé 🔒  
+- Pas accessible via DNS classique  
 
 </div>
+
 
 ---
 
