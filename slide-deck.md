@@ -984,14 +984,31 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 <div class="flex vertical start">
 
-## New round 2026 (Benoît)
+## Processus
 
-- roadmap
-- prix
-  (http://gw2sdev-docker:21119/b/MYNpkPzyRaEcHo5KE/prez-extension/ZzcXw5kX67FFzpuav)
-- perspectives ? - de vente pour les demandeurs de dossier => vente forcée auprès
-  des grosses marques - grand public => pas d'extension révolutionnaire a priori, ça va
-  pas changer grand chose
+<!-- Infos : https://newgtldprogram.icann.org/en/resources/ChampionsToolkit -->
+
+**Pré-requis** : capacité technique, vision long-terme
+
+<div class="spacer"/>
+
+- 🗓️ À partir d'avril 2026, pendant ~3 mois
+  - 🧰 évaluation technique distincte
+- 💰 **227 000$** (réductions possibles… pour ≃40 organisations)
+  - 🔨 enchères internes/externes ? [RFI en cours](https://www.icann.org/fr/announcements/details/icann-rfi-new-gtld-program-next-round-auctions-18-08-2025-fr)
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Perspectives
+
+- 👫 **Grand public** : pas grand chose
+- 🏢 **Demandeurs** :
+  - réservation de sa marque
+  - vente aux grosses marques
 
 <!-- Témoignage Google : https://domainnamewire.com/2025/10/10/google-pitches-dot-brand-top-level-domain-names/ -->
 
