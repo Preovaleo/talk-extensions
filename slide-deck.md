@@ -29,7 +29,7 @@ class:
 
 ### de **noms de domaines**
 
-<div class="spacer"/>
+<div class="spacer"></div>
 
 Théo Bougé & Benoît Masson – OVHcloud
 
@@ -76,7 +76,7 @@ Développeur Domaines
 
 <div class="flex vertical space-around">
 
-# 1. Noms de domaines
+# 1. Noms de domaines et extensions
 
 </div>
 
@@ -84,25 +84,424 @@ Développeur Domaines
 
 <div class="flex vertical start">
 
-## Histoire (Benoît)
+## Nom de domaine
 
-- c'est quoi un NDD
-- illustrer sur une URL type
-  http://gw2sdev-docker:21119/b/MYNpkPzyRaEcHo5KE/prez-extension
-- **quizz**
-  - toto.fr
-  - com.toto.fr (fr)
-  - toto.gouv.fr (gouv.fr)
-  - toto.com.fr (com.fr)
-  - toto.fr.com (com)
-  - toto.notaires.fr (fr mais…)
-- tld vs sld vs extension
-  https://publicsuffix.org/list/
-- ccTLDs vs gTLDs
-  - **quizz** - fr - com - co - gouv.fr - bzh - paris - eu - asia - ευ - yt - dev - ai - tv - radio
-    => règle 2 caractères
-- IDN
-  (- extension .arpa)
+URL : `https://www.ovhcloud.com:8080/mail`
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Nom de domaine
+
+URL : `https://www.ovhcloud.com:8080/mail`
+
+- `https` : protocole
+- `www` : nom d'hôte (machine) / sous-domaine
+- `ovhcloud.com` : **nom de domaine**
+  - `ovhcloud` : étiquette / `com` : extension
+- `8080` : port
+- `/mail` : chemin d'accès
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : quelle est l'extension ?
+
+- `toto.fr`
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : quelle est l'extension ?
+
+- `toto.fr` => `fr`
+- `com.toto.fr`
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : quelle est l'extension ?
+
+- `toto.fr` => `fr`
+- `com.toto.fr` => `fr`
+- `toto.gouv.fr`
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : quelle est l'extension ?
+
+- `toto.fr` => `fr`
+- `com.toto.fr` => `fr`
+- `toto.gouv.fr` => `gouv.fr`
+- `toto.com.fr`
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : quelle est l'extension ?
+
+- `toto.fr` => `fr`
+- `com.toto.fr` => `fr`
+- `toto.gouv.fr` => `gouv.fr`
+- `toto.com.fr` => `com.fr`
+- `toto.fr.com`
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : quelle est l'extension ?
+
+- `toto.fr` => `fr`
+- `com.toto.fr` => `fr`
+- `toto.gouv.fr` => `gouv.fr`
+- `toto.com.fr` => `com.fr`
+- `toto.fr.com` => `com`
+- `toto.notaires.fr`
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : quelle est l'extension ?
+
+- `toto.fr` => `fr`
+- `com.toto.fr` => `fr`
+- `toto.gouv.fr` => `gouv.fr`
+- `toto.com.fr` => `com.fr`
+- `toto.fr.com` => `com`
+- `toto.notaires.fr` => `fr`
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Types d'extensions (1)
+
+- **TLD** (Top-Level Domain)
+- SLD (Second-Level Domain)
+- 3LD (Third-Level Domain)
+
+<div class="spacer"></div>
+
+Liste publique (_non officielle_) sur https://publicsuffix.org/list/
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Types d'extensions (2)
+
+- **ccTLD** (Country-Code TLD)
+- **gTLD** (Generic TLD)
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
+
+<div class="horizontal start">
+
+- `fr`
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
+
+<div class="horizontal start">
+
+- `fr` => 🇫🇷
+- `com`
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
+
+<div class="horizontal start">
+
+- `fr` => 🇫🇷
+- `com` => 🌍
+- `co`
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
+
+<div class="horizontal start">
+
+- `fr` => 🇫🇷
+- `com` => 🌍
+- `co` => 🇨🇴
+- `gouv.fr`
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
+
+<div class="horizontal start">
+
+- `fr` => 🇫🇷
+- `com` => 🌍
+- `co` => 🇨🇴
+- `gouv.fr` => 🇫🇷
+- `bzh`
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
+
+<div class="horizontal start">
+
+- `fr` => 🇫🇷
+- `com` => 🌍
+- `co` => 🇨🇴
+- `gouv.fr` => 🇫🇷
+- `bzh` => 🌍
+- `eu`
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
+
+<div class="horizontal start">
+
+- `fr` => 🇫🇷
+- `com` => 🌍
+- `co` => 🇨🇴
+- `gouv.fr` => 🇫🇷
+- `bzh` => 🌍
+- `eu` => 🇪🇺
+
+<div class="hspacer"></div>
+
+- `ευ`
+
+</div>
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
+
+<div class="horizontal start">
+
+- `fr` => 🇫🇷
+- `com` => 🌍
+- `co` => 🇨🇴
+- `gouv.fr` => 🇫🇷
+- `bzh` => 🌍
+- `eu` => 🇪🇺
+
+<div class="hspacer"></div>
+
+- `ευ` => 🇪🇺
+- `asia`
+
+</div>
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
+
+<div class="horizontal start">
+
+- `fr` => 🇫🇷
+- `com` => 🌍
+- `co` => 🇨🇴
+- `gouv.fr` => 🇫🇷
+- `bzh` => 🌍
+- `eu` => 🇪🇺
+
+<div class="hspacer"></div>
+
+- `ευ` => 🇪🇺
+- `asia` => 🌍
+- `dev`
+
+</div>
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
+
+<div class="horizontal start">
+
+- `fr` => 🇫🇷
+- `com` => 🌍
+- `co` => 🇨🇴
+- `gouv.fr` => 🇫🇷
+- `bzh` => 🌍
+- `eu` => 🇪🇺
+
+<div class="hspacer"></div>
+
+- `ευ` => 🇪🇺
+- `asia` => 🌍
+- `dev` => 🌍
+- `ai`
+
+</div>
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
+
+<div class="horizontal start">
+
+- `fr` => 🇫🇷
+- `com` => 🌍
+- `co` => 🇨🇴
+- `gouv.fr` => 🇫🇷
+- `bzh` => 🌍
+- `eu` => 🇪🇺
+
+<div class="hspacer"></div>
+
+- `ευ` => 🇪🇺
+- `asia` => 🌍
+- `dev` => 🌍
+- `ai` => 🇦🇮
+- `tv`
+
+</div>
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
+
+<div class="horizontal start">
+
+- `fr` => 🇫🇷
+- `com` => 🌍
+- `co` => 🇨🇴
+- `gouv.fr` => 🇫🇷
+- `bzh` => 🌍
+- `eu` => 🇪🇺
+
+<div class="hspacer"></div>
+
+- `ευ` => 🇪🇺
+- `asia` => 🌍
+- `dev` => 🌍
+- `ai` => 🇦🇮
+- `tv` => 🇹🇻
+- `radio`
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
+
+<div class="horizontal start">
+
+- `fr` => 🇫🇷
+- `com` => 🌍
+- `co` => 🇨🇴
+- `gouv.fr` => 🇫🇷
+- `bzh` => 🌍
+- `eu` => 🇪🇺
+
+<div class="hspacer"></div>
+
+- `ευ` => 🇪🇺
+- `asia` => 🌍
+- `dev` => 🌍
+- `ai` => 🇦🇮
+- `tv` => 🇹🇻
+- `radio` => 🌍
+
+</div>
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Caractères spéciaux (non-ASCII)
+
+- **IDN** (International Domain Name) depuis 2003
+
+  - pour l'extension et/ou l'étiquette
+
+- Conversion avec l'encodage _Punycode_
+  - `ευ` <=> `xn--qxa6a`
 
 </div>
 
@@ -216,17 +615,35 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 <div class="flex vertical start">
 
-## Acteurs (Benoît)
+## Principaux acteurs
 
-- Icann, gouvernements
-- registry, backend
-- registrar (OVHcloud)
-- registrant
+![height:500px](./assets/actors.png)
 
-- proxy (RRPproxy)
+<!-- ICANN (Internet Corporation for Assigned Names and Numbers) : créée en 1998, "indépendante" en 2016 -->
 
-- domainer
-- spammers, phishers
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Autres acteurs
+
+- 🗂️ Dépositaire des données
+- 👨‍👦‍👦 Bureau d'enregistrement _proxy_
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Autres acteurs
+
+- 🗂️ Dépositaire des données
+- 👨‍👦‍👦 Bureau d'enregistrement _proxy_
+- 🏴‍☠️ Spammer, phisher
+- 💰 Domainer
 
 </div>
 
@@ -239,6 +656,30 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 <div class="flex vertical space-around">
 
 # 5. Country-Codes TLDs (ccTLDs)
+
+</div>
+
+<!-- Je te proposerais bien d'afficher pour chacun son drapeau (emoji) + en background, sa position sur la carte du monde
+     (par ex. 🇹🇻 + screenshot de https://www.openstreetmap.org/?mlat=-8.45&mlon=179.12#map=4/-8.45/179.12 pour Tuvalu (tv)
+     Je te mets l'exemple ci-dessous, fais-en ce que tu veux -->
+
+---
+
+<div class="flex vertical start">
+
+## `tv` ?
+
+</div>
+
+---
+
+![bg cover opacity:1](./assets/tuvalu.png)
+
+<!-- Source : https://www.openstreetmap.org/?mlat=-8.45&mlon=179.12#map=4/-8.45/179.12 -->
+
+<div class="flex vertical start">
+
+## `tv` : Tuvalu 🇹🇻
 
 </div>
 
@@ -273,19 +714,11 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 <div class="flex vertical start">
 
-## gTLDs 2012
+## Les premiers gTLDs
 
-(Benoît)
-
-- intro (7 en 1985 : com, net, org, edu, gov, mil, int + 7 en 2000 :
-  aero, biz, coop, info, museum, name, pro + 6 en 2004 : asia, cat, jobs,
-  mobi, tel, travel)
-  => ouverture massive en 2012 (objectifs, process, coût 180k$, …)
-  => dernières validations en 2022
-  (https://newgtlds.icann.org/en/program-status/delegated-strings) - .yun (validé 2016, arrive bientôt)
-
-- B .ευ (langues chine/arabe/hébreu)
-- T .leclerc / .cuisinella (entreprises, usage interne)
+- **1985** : com, net, org, edu, gov, mil, int
+- **2000** : aero, biz, coop, info, museum, name, pro
+- **2004** : asia, cat, jobs, mobi, tel, travel
 
 </div>
 
@@ -293,8 +726,20 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 <div class="flex vertical start">
 
-- B .ovh (entreprise, en vente publique)
-- T .sncf / .goodyear (plus utilisés / supprimés)
+## Nouveaux gTLDs (2012)
+
+<div class="horizontal start">
+
+- Frais de dossier
+  **185 000$**
+- Processus ➡️
+
+<div class="hspacer"></div>
+
+![width:550px](./assets/validation%201.png)
+
+<!-- Source : https://newgtlds.icann.org/en/applicants/agb / https://archive.icann.org/fr/topics/new-gtlds/intro-redline-12nov10-fr.pdf -->
+</div>
 
 </div>
 
@@ -302,8 +747,21 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 <div class="flex vertical start">
 
-- B .app (HTTPS only)
-- T .security, .auto (cher)
+## Nouveaux gTLDs (2012)
+
+<div class="horizontal start">
+
+- Frais de dossier
+  **185 000$**
+- Processus ➡️
+  (si conflits)
+
+<div class="hspacer"></div>
+
+![width:550px](./assets/validation%202.png)
+
+<!-- Source : https://newgtlds.icann.org/en/applicants/agb / https://archive.icann.org/fr/topics/new-gtlds/intro-redline-12nov10-fr.pdf -->
+</div>
 
 </div>
 
@@ -311,9 +769,14 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 <div class="flex vertical start">
 
-- B .sucks (racket)
-- T .example / .local (non routés) + .corp / .home (dossiers refusés)
-- B .amazon / .web (conflits)
+## Dernières validations
+
+![height:400px](./assets/delegated%20strings.png)
+
+<!-- Source : https://newgtlds.icann.org/en/program-status/delegated-strings -->
+
+- Exemple : `yun` validé 2016, ouvre fin octobre 2025
+  <!-- https://domainincite.com/31303-cloud-gtld-gets-launch-dates -->
 
 </div>
 
@@ -321,8 +784,187 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 <div class="flex vertical start">
 
-- Bilan
-  => chiffres (stats, top 5 coût réel)
+## Extensions internationales
+
+<div class="horizontal start">
+
+- `paris`
+- `bzh`
+- `asia`
+
+<div class="hspacer"></div>
+
+- `عرب` <!-- Arab -->
+- `中国` <!-- China -->
+- `コム` <!-- Japan -->
+- `католик` <!-- catholic -->
+
+</div>
+
+---
+
+<!-- _backgroundColor: darkslategray -->
+
+<div class="flex vertical start">
+
+## Extensions d'entreprise
+
+### (usage interne)
+
+- T `leclerc` / `cuisinella` (entreprises, usage interne)
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Extensions d'entreprise
+
+### (vente publique)
+
+- `ovh`
+
+</div>
+
+---
+
+<!-- _backgroundColor: darkslategray -->
+
+<div class="flex vertical start">
+
+## Extensions supprimées
+
+- T `sncf` / `goodyear` (plus utilisés / supprimés)
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Extensions avec contraintes
+
+- `dev`, `app` (HTTPS obligatoire)
+
+</div>
+
+---
+
+<!-- _backgroundColor: darkslategray -->
+
+## Tarification
+
+<div class="flex vertical start">
+
+- T `security`, `auto` (cher)
+
+</div>
+
+---
+
+## Business model
+
+<div class="flex vertical start">
+
+- `sucks`
+
+</div>
+
+---
+
+<!-- _backgroundColor: darkslategray -->
+
+## Extensions réservées
+
+<div class="flex vertical start">
+
+- T `example` / `local` (non routés) + `corp` / `home` (dossiers refusés)
+
+<!-- Liste complète : https://www.iana.org/assignments/special-use-domain-names/special-use-domain-names.xhtml -->
+
+</div>
+
+---
+
+## Conflits
+
+<div class="flex vertical start">
+
+- 🍷🍾 [`wine`](https://www.larvf.com/,vin-internet-nom-wine-lancement-donuts-domaine,4477645.asp)
+
+</div>
+
+---
+
+## Conflits
+
+<div class="flex vertical start">
+
+- 🍷🍾 [`wine`](https://www.larvf.com/,vin-internet-nom-wine-lancement-donuts-domaine,4477645.asp) : délégué en 2015
+- 🌳🌴 [`amazon`](https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.bna.com%2Famazon-internet-domain-b73014471531%2F)
+
+</div>
+
+---
+
+## Conflits
+
+<div class="flex vertical start">
+
+- 🍷🍾 [`wine`](https://www.larvf.com/,vin-internet-nom-wine-lancement-donuts-domaine,4477645.asp) : délégué en 2015
+- 🌳🌴 [`amazon`](https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.bna.com%2Famazon-internet-domain-b73014471531%2F) : délégué en 2020
+- 🌎🕸️ [`web`](https://domainincite.com/27950-verisign-and-afilias-spar-over-web-delays)
+
+</div>
+
+---
+
+## Conflits
+
+<div class="flex vertical start">
+
+- 🍷🍾 [`wine`](https://www.larvf.com/,vin-internet-nom-wine-lancement-donuts-domaine,4477645.asp) : délégué en 2015
+- 🌳🌴 [`amazon`](https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.bna.com%2Famazon-internet-domain-b73014471531%2F) : délégué en 2020
+- 🌎🕸️ [`web`](https://domainincite.com/tag/web) : toujours non résolu !
+
+<!--
+
+### Histoire du `web`
+
+- https://domainincite.com/tag/web
+- https://domainincite.com/23758-verisign-says-afilias-tried-to-rig-web-auction
+- https://domainincite.com/26737-web-ruling-hands-afilias-a-chance-verisign-a-problem-and-icann-its-own-ass-on-a-plate
+
+  > The case came about due to a dispute about the .web auction, which was run by ICANN in July 2016.
+  >
+  > Six of the seven .web applicants had been keen for the contention set to be settled privately, in an auction that would have seen the winning bid distributed evenly among the losing bidders.
+  >
+  > But Nu Dot Co (NDC), an application vehicle not known to be particularly well-funded, held out for a “last resort” auction, in which the winning bid would be deposited directly into ICANN’s coffers.
+  >
+  > This raised suspicions that NDC [had a secret sugar daddy](http://domainincite.com/20748-is-verisign-web-applicants-secret-sugar-daddy), likely Verisign, that was covertly bankrolling its bid.
+  >
+  > It was not known until after NDC won, [with a $135 million bid](http://domainincite.com/20820-verisign-likely-135-million-winner-of-web-gtld), that these suspicions were correct. NDC and Verisign had a “Domain Acquisition Agreement” or DAA that would see NDC transfer its .web contract to Verisign in exchange for the money needed to win the auction (and presumably other considerations, though almost all references to the terms of the DAA have been redacted by ICANN throughout the IRP).
+  >
+  > Afilias and fellow .web applicant Donuts both approached ICANN before and after the auction, complaining that the NDC/Verisign bid was bogus, in violation of program rules requiring applicants to notify ICANN if there’s any change of control of their applications, including agreements to transfer the gTLD post-contracting.
+
+- https://domainincite.com/28757-verisign-will-get-web-icann-rules : Icann dit que c'est OK
+- https://domainincite.com/28948-web-hit-by-second-icann-complaint / https://domainincite.com/29159-web-fight-back-in-court / https://domainnamewire.com/2023/05/16/web-may-face-more-delays-as-altanovo-fights-on/ : Afilias re-conteste
+
+-->
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Bilan (Théo)
+
+- chiffres (stats, top 5 coût réel)
+<!-- voir anciens slides, tout est dessus -->
+
+<!-- témoignage Radix : https://domainincite.com/28352-interview-sandeep-ramchandani-on-10-years-of-radix-and-new-gtlds -->
 
 </div>
 
@@ -342,14 +984,33 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 <div class="flex vertical start">
 
-## New round 2026 (Benoît)
+## Processus
 
-- roadmap
-- prix
-  (http://gw2sdev-docker:21119/b/MYNpkPzyRaEcHo5KE/prez-extension/ZzcXw5kX67FFzpuav)
-- perspectives ? - de vente pour les demandeurs de dossier => vente forcée auprès
-  des grosses marques - grand public => pas d'extension révolutionnaire a priori, ça va
-  pas changer grand chose
+<!-- Infos : https://newgtldprogram.icann.org/en/resources/ChampionsToolkit -->
+
+**Pré-requis** : capacité technique, vision long-terme
+
+<div class="spacer"/>
+
+- 🗓️ À partir d'avril 2026, pendant ~3 mois
+  - 🧰 évaluation technique distincte
+- 💰 **227 000$** (réductions possibles… pour ≃40 organisations)
+  - 🔨 enchères internes/externes ? [RFI en cours](https://www.icann.org/fr/announcements/details/icann-rfi-new-gtld-program-next-round-auctions-18-08-2025-fr)
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Perspectives
+
+- 👫 **Grand public** : pas grand chose
+- 🏢 **Demandeurs** :
+  - réservation de sa marque
+  - vente aux grosses marques
+
+<!-- Témoignage Google : https://domainnamewire.com/2025/10/10/google-pitches-dot-brand-top-level-domain-names/ -->
 
 </div>
 
@@ -390,7 +1051,7 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 <div class="footnotes">
 
-Images credits: [Unsplash](https://unsplash.com)
+Crédits images: [Unsplash](https://unsplash.com) et [Freepik](https://www.freepik.com)
 Slides: [https://github.com/Preovaleo/talk-extensions](https://https://github.com/Preovaleo/talk-extensions/)
 
 </div>
