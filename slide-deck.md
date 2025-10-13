@@ -719,7 +719,18 @@ structuré, machine-readable,
 
 </div>
 
+---
 
+![bg cover opacity:0.8](./assets/actors.jpg)
+
+<!-- Photo de <a href="https://unsplash.com/fr/@kyleunderscorehead">Kyle Head</a> sur <a href="https://unsplash.com/fr/photos/silhouette-de-trois-interprete
+s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
+
+<div class="flex vertical space-around">
+
+# 4. Acteurs
+
+</div>
 
 ---
 
