@@ -1057,7 +1057,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ### (usage interne)
 
-- `leclerc` / `cuisinella` (entreprises, usage interne)
+- `leclerc` / `cuisinella`
 
 </div>
 
@@ -1083,7 +1083,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ## Extensions supprimées
 
-- `sncf` / `goodyear` (plus utilisés / supprimés)
+- `sncf` / `goodyear`
 
 </div>
 
@@ -1107,7 +1107,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="flex vertical start">
 
-- `security`, `auto` (cher)
+- `security`, `auto` (≃2500€/an)
 
 </div>
 
