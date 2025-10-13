@@ -518,6 +518,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
+
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -529,6 +530,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
+
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -545,6 +547,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
+
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -556,6 +559,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
+
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -563,27 +567,29 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 ## Quizz ❓🧭
 
 - www.toto.fr ? 🔍
-  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.fr ✅  
+  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.fr ✅
 - toto.gouv.fr ? 🏛️
 
 </div>
 
 ---
+
 <!-- Théo -->
 
 <div class="flex vertical start">
 
 ## Quizz ❓🧭
 
-- www.toto.fr ?  🔍
-  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.fr ✅  
+- www.toto.fr ? 🔍
+  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.fr ✅
 - www.toto.gouv.fr ? 🏛️  
-  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.gouv.fr ✅  
+  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.gouv.fr ✅
 - www.toto.notaires.fr ? 👩‍⚖️
 
 </div>
 
 ---
+
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -591,15 +597,16 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 ## Quizz ❓🧭
 
 - www.toto.gouv.fr ? 🏛️  
-  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.gouv.fr ✅  
+  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.gouv.fr ✅
 - www.toto.notaires.fr ? 👩‍⚖️  
-  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS notaires.fr 👩‍⚖️ 
--> DNS toto.notaires.fr ✅  
+  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS notaires.fr 👩‍⚖️
+  -> DNS toto.notaires.fr ✅
 - toto.co.uk ? 🇬🇧
 
 </div>
 
 ---
+
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -607,15 +614,15 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 ## Quizz ❓🧭
 
 - www.toto.notaires.fr ? 👩‍⚖️  
-  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS notaires.fr 👩‍⚖️ 
-  -> DNS toto.notaires.fr ✅  
+  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS notaires.fr 👩‍⚖️
+  -> DNS toto.notaires.fr ✅
 - toto.co.uk ? 🇬🇧  
   DNS root 🌐 -> DNS uk 🇬🇧 -> DNS toto.co.uk ✅
 
 </div>
 
-
 ---
+
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -635,8 +642,8 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 161.97.219.84
 ```
 
+---
 
-------
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -647,12 +654,11 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 ###
 
-- Services cachés sur Tor  
-- Anonyme et sécurisé 🔒  
-- Pas accessible via DNS classique  
+- Services cachés sur Tor
+- Anonyme et sécurisé 🔒
+- Pas accessible via DNS classique
 
 </div>
-
 
 ---
 
@@ -667,6 +673,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
+
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -676,7 +683,8 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 <!-- Mort programmée en 2025 -->
 <!-- RDAP le remplace : structuré, sécurisé, conforme, arrive en 2015, devient obligatoire en 2025 -->
 
-## Whois 👶 1982 → ☠️ 2025  
+## Whois 👶 1982 → ☠️ 2025
+
 📝 texte libre,  
 pas de standard pour les clés ni le contenu
 
@@ -697,13 +705,15 @@ nserver:                       ns110.ovh.net
 </div>
 
 ---
+
 <!-- Théo -->
 
 <div class="flex vertical start">
 
-## RDAP 🚀 2015 → ✅ 2025+  
+## RDAP 🚀 2015 → ✅ 2025+
+
 🧾 JSON + jCard via HTTPs
-structuré, machine-readable, 
+structuré, machine-readable,
 
 🔗 [Voir RDAP pour adatechschool.fr](https://client.rdap.org/?type=domain&object=adatechschool.fr)
 
@@ -795,6 +805,7 @@ structuré, machine-readable,
 ---
 
 <!-- Théo -->
+
 ![bg cover opacity:1](./assets/anguilla.png)
 
 <!-- Source : https://www.openstreetmap.org/?mlat=18.22&mlon=-63.06#map=8/18.22/-63.06 -->
@@ -817,6 +828,7 @@ structuré, machine-readable,
 ---
 
 <!-- Théo -->
+
 ![bg cover opacity:1](./assets/mayotte.png)
 
 <!-- Source : https://www.openstreetmap.org/?mlat=-12.83&mlon=45.17#map=8/-12.83/45.17 -->
@@ -839,6 +851,7 @@ structuré, machine-readable,
 ---
 
 <!-- Théo -->
+
 ![bg cover opacity:1](./assets/libya.png)
 
 <!-- Source : https://www.openstreetmap.org/?mlat=26.34&mlon=17.23#map=5/26.34/17.23 -->
@@ -861,7 +874,9 @@ structuré, machine-readable,
 ---
 
 <!-- Théo -->
+
 ![bg cover opacity:1](./assets/british-indian-ocean-territory.png)
+
 <!-- Source : https://www.openstreetmap.org/?mlat=-6.30&mlon=71.87#map=7/-6.30/71.87 -->
 
 <div class="flex vertical start">
@@ -882,6 +897,7 @@ structuré, machine-readable,
 ---
 
 <!-- Théo -->
+
 ![bg cover opacity:1](./assets/afghanistan.png)
 
 <!-- Source : https://www.openstreetmap.org/?mlat=33.81&mlon=66.54#map=5/33.81/66.54 -->
@@ -904,6 +920,7 @@ structuré, machine-readable,
 ---
 
 <!-- Théo -->
+
 ![bg cover opacity:1](./assets/croatia.png)
 
 <!-- Source : https://www.openstreetmap.org/?mlat=45.10&mlon=15.20#map=7/45.10/15.20 -->
@@ -1018,6 +1035,7 @@ structuré, machine-readable,
 </div>
 
 ---
+
 <!-- Théo -->
 
 <!-- _backgroundColor: darkslategray -->
@@ -1045,6 +1063,7 @@ structuré, machine-readable,
 </div>
 
 ---
+
 <!-- Théo -->
 
 <!-- _backgroundColor: darkslategray -->
@@ -1068,6 +1087,7 @@ structuré, machine-readable,
 </div>
 
 ---
+
 <!-- Théo -->
 
 <!-- _backgroundColor: darkslategray -->
@@ -1091,6 +1111,7 @@ structuré, machine-readable,
 </div>
 
 ---
+
 <!-- Théo -->
 
 <!-- _backgroundColor: darkslategray -->
