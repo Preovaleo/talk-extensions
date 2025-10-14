@@ -523,7 +523,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 <div class="flex vertical start">
 
-## DNS (Théo)
+## DNS
 
 ![URI height:500px](assets/dns.svg)
 
@@ -582,7 +582,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 - www.toto.fr ? 🔍
   DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.fr ✅
-- www.toto.gouv.fr ? 🏛️  
+- www.toto.gouv.fr ? 🏛️
   DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.gouv.fr ✅
 - www.toto.notaires.fr ? 👩‍⚖️
 
@@ -596,9 +596,9 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 ## Quizz ❓🧭
 
-- www.toto.gouv.fr ? 🏛️  
+- www.toto.gouv.fr ? 🏛️
   DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.gouv.fr ✅
-- www.toto.notaires.fr ? 👩‍⚖️  
+- www.toto.notaires.fr ? 👩‍⚖️
   DNS root 🌐 -> DNS fr 🇫🇷 -> DNS notaires.fr 👩‍⚖️
   -> DNS toto.notaires.fr ✅
 - toto.co.uk ? 🇬🇧
@@ -613,10 +613,10 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 ## Quizz ❓🧭
 
-- www.toto.notaires.fr ? 👩‍⚖️  
+- www.toto.notaires.fr ? 👩‍⚖️
   DNS root 🌐 -> DNS fr 🇫🇷 -> DNS notaires.fr 👩‍⚖️
   -> DNS toto.notaires.fr ✅
-- toto.co.uk ? 🇬🇧  
+- toto.co.uk ? 🇬🇧
   DNS root 🌐 -> DNS uk 🇬🇧 -> DNS toto.co.uk ✅
 
 </div>
@@ -631,8 +631,6 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 ### 🆓 .libre / 🤓 .geek
 
-🔗 [opennic.org](https://opennic.org/)
-
 ```sh
 ~
 ❯ dig +short be.libre
@@ -642,6 +640,12 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 161.97.219.84
 ```
 
+<div class="spacer"></div>
+
+🔗 [opennic.org](https://opennic.org/)
+
+</div>
+
 ---
 
 <!-- Théo -->
@@ -650,13 +654,15 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 ## 🧅 .onion
 
-🔗 [torproject.org](https://www.torproject.org/fr/download/)
-
 ###
 
-- Services cachés sur Tor
+- Services "cachés" sur Tor
 - Anonyme et sécurisé 🔒
 - Pas accessible via DNS classique
+
+<div class="spacer"></div>
+
+🔗 [torproject.org](https://www.torproject.org/fr/download/)
 
 </div>
 
@@ -685,19 +691,18 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 ## Whois 👶 1982 → ☠️ 2025
 
-📝 texte libre,  
-pas de standard pour les clés ni le contenu
+- 📝 texte libre,
+- pas de standard pour les clés ni le contenu
 
 ```txt
 domain:                        adatechschool.fr
 status:                        ACTIVE
-eppstatus:                     active
-hold:                          NO
 Expiry Date:                   2026-02-15T14:32:02Z
 created:                       2019-02-15T14:32:02Z
-nic-hdl:                       ANO00-FRNIC
+
 type:                          PERSON
 contact:                       Ano Nymous
+
 nserver:                       dns110.ovh.net
 nserver:                       ns110.ovh.net
 ```
@@ -712,8 +717,10 @@ nserver:                       ns110.ovh.net
 
 ## RDAP 🚀 2015 → ✅ 2025+
 
-🧾 JSON + jCard via HTTPs
-structuré, machine-readable,
+- 🧾 JSON + jCard via HTTPs
+- structuré, machine-readable,
+
+<div class="spacer"></div>
 
 🔗 [Voir RDAP pour adatechschool.fr](https://client.rdap.org/?type=domain&object=adatechschool.fr)
 
