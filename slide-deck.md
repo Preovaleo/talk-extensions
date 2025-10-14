@@ -1219,10 +1219,103 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="flex vertical start">
 
-## Bilan (Théo)
+## Bilan
 
-- chiffres (stats, top 5 coût réel)
-<!-- voir anciens slides, tout est dessus -->
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Adoption des nouveaux gTLD
+
+| Extension   | Nombre de domaines actifs (2025) |
+| ----------- | --------------------------------- |
+| **.xyz**    | ~ 6_048_000                       |
+| **.top**    | ~ 5_207_000                       |
+| **.shop**   | ~ 3_521_000                       |
+| **.online** | ~ 3_078_000                       |
+| **.store**  | ~ 1_997_000                       |
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Adoption des nouveaux gTLD
+
+| Extension   | Nombre de domaines actifs (2025) |
+| ----------- | --------------------------------- |
+| **.xyz**    | ~ 6_048_000                       |
+| **.top**    | ~ 5_207_000                       |
+| **.shop**   | ~ 3_521_000                       |
+| **.online** | ~ 3_078_000                       |
+| **.store**  | ~ 1_997_000                       |
+|             |                                   |
+| _.com_      | ~ 157_250_000                     |
+
+
+<!--https://abtdomain.com/top-tlds/ -->
+
+</div>
+
+---
+
+## Principales enchères gTLD
+
+| Extension   | Montant de l'enchère | Candidat gagnant |
+| ----------- | -------------------- | ---------------- |
+| **.INFO**   | $ 600_000            | Beijing Telecom  |
+
+</div>
+
+---
+
+## Principales enchères gTLD
+
+| Extension   | Montant de l'enchère | Candidat gagnant |
+| ----------- | -------------------- | ---------------- |
+| **.INFO**   | $ 600_000            | Beijing Telecom  |
+| **.HOTELS** | $ 2_200_000          | Booking.com      |
+
+</div>
+
+---
+
+## Principales enchères gTLD
+
+| Extension   | Montant de l'enchère | Candidat gagnant |
+| ----------- | -------------------- | ---------------- |
+| **.INFO**   | $ 600_000            | Beijing Telecom  |
+| **.HOTELS** | $ 2_200_000          | Booking.com      |
+| **.BUY**    | $ 4_588_888          | Amazon           |
+
+</div>
+
+---
+
+## Principales enchères gTLD
+
+| Extension   | Montant de l'enchère | Candidat gagnant |
+| ----------- | -------------------- | ---------------- |
+| **.INFO**   | $ 600_000            | Beijing Telecom  |
+| **.HOTELS** | $ 2_200_000          | Booking.com      |
+| **.BUY**    | $ 4_588_888          | Amazon           |
+| **.APP**    | $ 25_001_000         | Google           |
+</div>
+
+---
+
+## Principales enchères gTLD
+
+| Extension   | Montant de l'enchère | Candidat gagnant |
+| ----------- | -------------------- | ---------------- |
+| **.INFO**   | $ 600_000            | Beijing Telecom  |
+| **.HOTELS** | $ 2_200_000          | Booking.com      |
+| **.BUY**    | $ 4_588_888          | Amazon           |
+| **.APP**    | $ 25_001_000         | Google           |
+| **.WEB**    | $ 135_000_000        | Verisign (?)     |
 
 <!-- témoignage Radix : https://domainincite.com/28352-interview-sandeep-ramchandani-on-10-years-of-radix-and-new-gtlds -->
 
