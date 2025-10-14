@@ -1288,14 +1288,19 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
+<!-- Théo -->
+
 <div class="flex vertical start">
 
-## Ouvertures (Théo)
+## Ouvertures
 
-- Aftermarket
-- NFT, Web 3 - .agi ? https://domainincite.com/31315-ai-rival-lines-up-gtld-bid
-  /
-  https://unstoppabledomains.com/blog/categories/announcements/article/agi-tld
+- 🛍️ Aftermarket
+<!-- SEDO / Afternic -->
+- 🔐 NFT / Web 3 : `.eth`, `web3.js`
+<!-- basé sur les smart contract -->
+- ⚔️ Bataille a venir : `.agi`
+<!--https://domainincite.com/31315-ai-rival-lines-up-gtld-bid-->
+<!--https://unstoppabledomains.com/blog/categories/announcements/article/agi-tld-->
 
 </div>
 
