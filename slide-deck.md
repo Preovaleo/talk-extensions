@@ -519,6 +519,8 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 ---
 
+<!-- Théo -->
+
 <div class="flex vertical start">
 
 ## DNS (Théo)
@@ -528,6 +530,8 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
+
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -544,24 +548,90 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 ---
 
+<!-- Théo -->
+
 <div class="flex vertical start">
 
-## Quizz
+## Quizz ❓🧭
 
-- comment trouver toto.fr ?
-- comment trouver toto.gouv.fr ?
-- comment trouver toto.co.uk ?
-- comment trouver toto.fr.com ?
+- www.toto.fr ? 🔍
 
 </div>
 
 ---
 
+<!-- Théo -->
+
 <div class="flex vertical start">
 
-## Les DNS racines alternatifs
+## Quizz ❓🧭
 
-### https://opennic.org/
+- www.toto.fr ? 🔍
+  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.fr ✅
+- toto.gouv.fr ? 🏛️
+
+</div>
+
+---
+
+<!-- Théo -->
+
+<div class="flex vertical start">
+
+## Quizz ❓🧭
+
+- www.toto.fr ? 🔍
+  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.fr ✅
+- www.toto.gouv.fr ? 🏛️  
+  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.gouv.fr ✅
+- www.toto.notaires.fr ? 👩‍⚖️
+
+</div>
+
+---
+
+<!-- Théo -->
+
+<div class="flex vertical start">
+
+## Quizz ❓🧭
+
+- www.toto.gouv.fr ? 🏛️  
+  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.gouv.fr ✅
+- www.toto.notaires.fr ? 👩‍⚖️  
+  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS notaires.fr 👩‍⚖️
+  -> DNS toto.notaires.fr ✅
+- toto.co.uk ? 🇬🇧
+
+</div>
+
+---
+
+<!-- Théo -->
+
+<div class="flex vertical start">
+
+## Quizz ❓🧭
+
+- www.toto.notaires.fr ? 👩‍⚖️  
+  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS notaires.fr 👩‍⚖️
+  -> DNS toto.notaires.fr ✅
+- toto.co.uk ? 🇬🇧  
+  DNS root 🌐 -> DNS uk 🇬🇧 -> DNS toto.co.uk ✅
+
+</div>
+
+---
+
+<!-- Théo -->
+
+<div class="flex vertical start">
+
+## 🌐 Les DNS racines alternatifs
+
+### 🆓 .libre / 🤓 .geek
+
+🔗 [opennic.org](https://opennic.org/)
 
 ```sh
 ~
@@ -570,12 +640,23 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 ~
 ❯ dig @94.247.43.254 +short be.libre
 161.97.219.84
-
 ```
 
-### .onion
+---
 
-https://www.torproject.org/fr/download/
+<!-- Théo -->
+
+<div class="flex vertical start">
+
+## 🧅 .onion
+
+🔗 [torproject.org](https://www.torproject.org/fr/download/)
+
+###
+
+- Services cachés sur Tor
+- Anonyme et sécurisé 🔒
+- Pas accessible via DNS classique
 
 </div>
 
@@ -593,9 +674,48 @@ https://www.torproject.org/fr/download/
 
 ---
 
-## Whois/RDAP (Théo)
+<!-- Théo -->
 
-https://client.rdap.org/?type=domain&object=adatechschool.fr
+<div class="flex vertical start">
+
+<!-- Whois : né en 1982, protocole texte libre, utilisé pour connaître les infos d'un domaine -->
+<!-- Obsolète (pas de sécurité, pas de structure), non conforme RGPD -->
+<!-- Mort programmée en 2025 -->
+<!-- RDAP le remplace : structuré, sécurisé, conforme, arrive en 2015, devient obligatoire en 2025 -->
+
+## Whois 👶 1982 → ☠️ 2025
+
+📝 texte libre,  
+pas de standard pour les clés ni le contenu
+
+```txt
+domain:                        adatechschool.fr
+status:                        ACTIVE
+eppstatus:                     active
+hold:                          NO
+Expiry Date:                   2026-02-15T14:32:02Z
+created:                       2019-02-15T14:32:02Z
+nic-hdl:                       ANO00-FRNIC
+type:                          PERSON
+contact:                       Ano Nymous
+nserver:                       dns110.ovh.net
+nserver:                       ns110.ovh.net
+```
+
+</div>
+
+---
+
+<!-- Théo -->
+
+<div class="flex vertical start">
+
+## RDAP 🚀 2015 → ✅ 2025+
+
+🧾 JSON + jCard via HTTPs
+structuré, machine-readable,
+
+🔗 [Voir RDAP pour adatechschool.fr](https://client.rdap.org/?type=domain&object=adatechschool.fr)
 
 </div>
 
@@ -603,7 +723,8 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 ![bg cover opacity:0.8](./assets/actors.jpg)
 
-<!-- Photo de <a href="https://unsplash.com/fr/@kyleunderscorehead">Kyle Head</a> sur <a href="https://unsplash.com/fr/photos/silhouette-de-trois-interpretes-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
+<!-- Photo de <a href="https://unsplash.com/fr/@kyleunderscorehead">Kyle Head</a> sur <a href="https://unsplash.com/fr/photos/silhouette-de-trois-interprete
+s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="flex vertical space-around">
 
@@ -685,16 +806,139 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 ---
 
+<!-- Théo -->
 <div class="flex vertical start">
 
-## ccTLDs (Théo)
+## `ai` ?
 
-**quizz** pays correspondant ?
+</div>
 
-- tv, ai, yt
-- ly, io
-- af
-- hr
+---
+
+<!-- Théo -->
+
+![bg cover opacity:1](./assets/anguilla.png)
+
+<!-- Source : https://www.openstreetmap.org/?mlat=18.22&mlon=-63.06#map=8/18.22/-63.06 -->
+
+<div class="flex vertical start">
+
+## `ai` : Anguilla 🇦🇮
+
+</div>
+
+---
+
+<!-- Théo -->
+<div class="flex vertical start">
+
+## `yt` ?
+
+</div>
+
+---
+
+<!-- Théo -->
+
+![bg cover opacity:1](./assets/mayotte.png)
+
+<!-- Source : https://www.openstreetmap.org/?mlat=-12.83&mlon=45.17#map=8/-12.83/45.17 -->
+
+<div class="flex vertical start">
+
+## `yt` : Mayotte 🇾🇹
+
+</div>
+
+---
+
+<!-- Théo -->
+<div class="flex vertical start">
+
+## `ly` ?
+
+</div>
+
+---
+
+<!-- Théo -->
+
+![bg cover opacity:1](./assets/libya.png)
+
+<!-- Source : https://www.openstreetmap.org/?mlat=26.34&mlon=17.23#map=5/26.34/17.23 -->
+
+<div class="flex vertical start">
+
+## `ly` : Libye 🇱🇾
+
+</div>
+
+---
+
+<!-- Théo -->
+<div class="flex vertical start">
+
+## `io` ?
+
+</div>
+
+---
+
+<!-- Théo -->
+
+![bg cover opacity:1](./assets/british-indian-ocean-territory.png)
+
+<!-- Source : https://www.openstreetmap.org/?mlat=-6.30&mlon=71.87#map=7/-6.30/71.87 -->
+
+<div class="flex vertical start">
+
+## `io` : Territoire britannique de l’océan Indien 🇮🇴
+
+</div>
+
+---
+
+<!-- Théo -->
+<div class="flex vertical start">
+
+## `af` ?
+
+</div>
+
+---
+
+<!-- Théo -->
+
+![bg cover opacity:1](./assets/afghanistan.png)
+
+<!-- Source : https://www.openstreetmap.org/?mlat=33.81&mlon=66.54#map=5/33.81/66.54 -->
+
+<div class="flex vertical start">
+
+## `af` : Afghanistan 🇦🇫
+
+</div>
+
+---
+
+<!-- Théo -->
+<div class="flex vertical start">
+
+## `hr` ?
+
+</div>
+
+---
+
+<!-- Théo -->
+
+![bg cover opacity:1](./assets/croatia.png)
+
+<!-- Source : https://www.openstreetmap.org/?mlat=45.10&mlon=15.20#map=7/45.10/15.20 -->
+
+<div class="flex vertical start">
+
+## `hr` : Croatie 🇭🇷
 
 </div>
 
@@ -788,20 +1032,22 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 <div class="horizontal start">
 
-- `paris`
-- `bzh`
-- `asia`
-
-<div class="hspacer"></div>
-
 - `عرب` <!-- Arab -->
 - `中国` <!-- China -->
 - `コム` <!-- Japan -->
 - `католик` <!-- catholic -->
 
+<div class="hspacer"></div>
+
+- `paris`
+- `bzh`
+- `asia`
+
 </div>
 
 ---
+
+<!-- Théo -->
 
 <!-- _backgroundColor: darkslategray -->
 
@@ -811,7 +1057,7 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 ### (usage interne)
 
-- T `leclerc` / `cuisinella` (entreprises, usage interne)
+- `leclerc` / `cuisinella`
 
 </div>
 
@@ -829,13 +1075,15 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 ---
 
+<!-- Théo -->
+
 <!-- _backgroundColor: darkslategray -->
 
 <div class="flex vertical start">
 
 ## Extensions supprimées
 
-- T `sncf` / `goodyear` (plus utilisés / supprimés)
+- `sncf` / `goodyear`
 
 </div>
 
@@ -845,11 +1093,13 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 ## Extensions avec contraintes
 
-- `dev`, `app` (HTTPS obligatoire)
+- `dev`, `app` (HTTPS only)
 
 </div>
 
 ---
+
+<!-- Théo -->
 
 <!-- _backgroundColor: darkslategray -->
 
@@ -857,7 +1107,7 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 <div class="flex vertical start">
 
-- T `security`, `auto` (cher)
+- `security`, `auto` (≃2500€/an)
 
 </div>
 
@@ -873,15 +1123,16 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 ---
 
+<!-- Théo -->
+
 <!-- _backgroundColor: darkslategray -->
 
 ## Extensions réservées
 
 <div class="flex vertical start">
 
-- T `example` / `local` (non routés) + `corp` / `home` (dossiers refusés)
-
-<!-- Liste complète : https://www.iana.org/assignments/special-use-domain-names/special-use-domain-names.xhtml -->
+- `example` / `local` / `invalid` (non routés)
+- `corp` / `home` (dossiers refusés)
 
 </div>
 
@@ -984,31 +1235,14 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 <div class="flex vertical start">
 
-## Processus
+## New round 2026 (Benoît)
 
-<!-- Infos : https://newgtldprogram.icann.org/en/resources/ChampionsToolkit -->
-
-**Pré-requis** : capacité technique, vision long-terme
-
-<div class="spacer"/>
-
-- 🗓️ À partir d'avril 2026, pendant ~3 mois
-  - 🧰 évaluation technique distincte
-- 💰 **227 000$** (réductions possibles… pour ≃40 organisations)
-  - 🔨 enchères internes/externes ? [RFI en cours](https://www.icann.org/fr/announcements/details/icann-rfi-new-gtld-program-next-round-auctions-18-08-2025-fr)
-
-</div>
-
----
-
-<div class="flex vertical start">
-
-## Perspectives
-
-- 👫 **Grand public** : pas grand chose
-- 🏢 **Demandeurs** :
-  - réservation de sa marque
-  - vente aux grosses marques
+- roadmap
+- prix
+  (http://gw2sdev-docker:21119/b/MYNpkPzyRaEcHo5KE/prez-extension/ZzcXw5kX67FFzpuav)
+- perspectives ? - de vente pour les demandeurs de dossier => vente forcée auprès
+  des grosses marques - grand public => pas d'extension révolutionnaire a priori, ça va
+  pas changer grand chose
 
 <!-- Témoignage Google : https://domainnamewire.com/2025/10/10/google-pitches-dot-brand-top-level-domain-names/ -->
 
