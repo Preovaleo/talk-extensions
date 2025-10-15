@@ -519,15 +519,19 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 ---
 
+<!-- Théo -->
+
 <div class="flex vertical start">
 
-## DNS (Théo)
+## DNS
 
 ![URI height:500px](assets/dns.svg)
 
 </div>
 
 ---
+
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -544,24 +548,88 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 ---
 
+<!-- Théo -->
+
 <div class="flex vertical start">
 
-## Quizz
+## Quizz ❓🧭
 
-- comment trouver toto.fr ?
-- comment trouver toto.gouv.fr ?
-- comment trouver toto.co.uk ?
-- comment trouver toto.fr.com ?
+- www.toto.fr ? 🔍
 
 </div>
 
 ---
 
+<!-- Théo -->
+
 <div class="flex vertical start">
 
-## Les DNS racines alternatifs
+## Quizz ❓🧭
 
-### https://opennic.org/
+- www.toto.fr ? 🔍
+  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.fr ✅
+- toto.gouv.fr ? 🏛️
+
+</div>
+
+---
+
+<!-- Théo -->
+
+<div class="flex vertical start">
+
+## Quizz ❓🧭
+
+- www.toto.fr ? 🔍
+  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.fr ✅
+- www.toto.gouv.fr ? 🏛️
+  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.gouv.fr ✅
+- www.toto.notaires.fr ? 👩‍⚖️
+
+</div>
+
+---
+
+<!-- Théo -->
+
+<div class="flex vertical start">
+
+## Quizz ❓🧭
+
+- www.toto.gouv.fr ? 🏛️
+  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.gouv.fr ✅
+- www.toto.notaires.fr ? 👩‍⚖️
+  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS notaires.fr 👩‍⚖️
+  -> DNS toto.notaires.fr ✅
+- toto.co.uk ? 🇬🇧
+
+</div>
+
+---
+
+<!-- Théo -->
+
+<div class="flex vertical start">
+
+## Quizz ❓🧭
+
+- www.toto.notaires.fr ? 👩‍⚖️
+  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS notaires.fr 👩‍⚖️
+  -> DNS toto.notaires.fr ✅
+- toto.co.uk ? 🇬🇧
+  DNS root 🌐 -> DNS uk 🇬🇧 -> DNS toto.co.uk ✅
+
+</div>
+
+---
+
+<!-- Théo -->
+
+<div class="flex vertical start">
+
+## 🌐 Les DNS racines alternatifs
+
+### 🆓 .libre / 🤓 .geek
 
 ```sh
 ~
@@ -570,12 +638,31 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 ~
 ❯ dig @94.247.43.254 +short be.libre
 161.97.219.84
-
 ```
 
-### .onion
+<div class="spacer"></div>
 
-https://www.torproject.org/fr/download/
+🔗 [opennic.org](https://opennic.org/)
+
+</div>
+
+---
+
+<!-- Théo -->
+
+<div class="flex vertical start">
+
+## 🧅 .onion
+
+###
+
+- Services "cachés" sur Tor
+- Anonyme et sécurisé 🔒
+- Pas accessible via DNS classique
+
+<div class="spacer"></div>
+
+🔗 [torproject.org](https://www.torproject.org/fr/download/)
 
 </div>
 
@@ -593,9 +680,49 @@ https://www.torproject.org/fr/download/
 
 ---
 
-## Whois/RDAP (Théo)
+<!-- Théo -->
 
-https://client.rdap.org/?type=domain&object=adatechschool.fr
+<div class="flex vertical start">
+
+<!-- Whois : né en 1982, protocole texte libre, utilisé pour connaître les infos d'un domaine -->
+<!-- Obsolète (pas de sécurité, pas de structure), non conforme RGPD -->
+<!-- Mort programmée en 2025 -->
+<!-- RDAP le remplace : structuré, sécurisé, conforme, arrive en 2015, devient obligatoire en 2025 -->
+
+## Whois 👶 1982 → ☠️ 2025
+
+- 📝 texte libre,
+- pas de standard pour les clés ni le contenu
+
+```txt
+domain:                        adatechschool.fr
+status:                        ACTIVE
+Expiry Date:                   2026-02-15T14:32:02Z
+created:                       2019-02-15T14:32:02Z
+
+type:                          PERSON
+contact:                       Ano Nymous
+
+nserver:                       dns110.ovh.net
+nserver:                       ns110.ovh.net
+```
+
+</div>
+
+---
+
+<!-- Théo -->
+
+<div class="flex vertical start">
+
+## RDAP 🚀 2015 → ✅ 2025+
+
+- 🧾 JSON + jCard via HTTPs
+- structuré, machine-readable,
+
+<div class="spacer"></div>
+
+🔗 [Voir RDAP pour adatechschool.fr](https://client.rdap.org/?type=domain&object=adatechschool.fr)
 
 </div>
 
@@ -603,7 +730,8 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 ![bg cover opacity:0.8](./assets/actors.jpg)
 
-<!-- Photo de <a href="https://unsplash.com/fr/@kyleunderscorehead">Kyle Head</a> sur <a href="https://unsplash.com/fr/photos/silhouette-de-trois-interpretes-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
+<!-- Photo de <a href="https://unsplash.com/fr/@kyleunderscorehead">Kyle Head</a> sur <a href="https://unsplash.com/fr/photos/silhouette-de-trois-interprete
+s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="flex vertical space-around">
 
@@ -685,16 +813,139 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 ---
 
+<!-- Théo -->
 <div class="flex vertical start">
 
-## ccTLDs (Théo)
+## `ai` ?
 
-**quizz** pays correspondant ?
+</div>
 
-- tv, ai, yt
-- ly, io
-- af
-- hr
+---
+
+<!-- Théo -->
+
+![bg cover opacity:1](./assets/anguilla.png)
+
+<!-- Source : https://www.openstreetmap.org/?mlat=18.22&mlon=-63.06#map=8/18.22/-63.06 -->
+
+<div class="flex vertical start">
+
+## `ai` : Anguilla 🇦🇮
+
+</div>
+
+---
+
+<!-- Théo -->
+<div class="flex vertical start">
+
+## `yt` ?
+
+</div>
+
+---
+
+<!-- Théo -->
+
+![bg cover opacity:1](./assets/mayotte.png)
+
+<!-- Source : https://www.openstreetmap.org/?mlat=-12.83&mlon=45.17#map=8/-12.83/45.17 -->
+
+<div class="flex vertical start">
+
+## `yt` : Mayotte 🇾🇹
+
+</div>
+
+---
+
+<!-- Théo -->
+<div class="flex vertical start">
+
+## `ly` ?
+
+</div>
+
+---
+
+<!-- Théo -->
+
+![bg cover opacity:1](./assets/libya.png)
+
+<!-- Source : https://www.openstreetmap.org/?mlat=26.34&mlon=17.23#map=5/26.34/17.23 -->
+
+<div class="flex vertical start">
+
+## `ly` : Libye 🇱🇾
+
+</div>
+
+---
+
+<!-- Théo -->
+<div class="flex vertical start">
+
+## `io` ?
+
+</div>
+
+---
+
+<!-- Théo -->
+
+![bg cover opacity:1](./assets/british-indian-ocean-territory.png)
+
+<!-- Source : https://www.openstreetmap.org/?mlat=-6.30&mlon=71.87#map=7/-6.30/71.87 -->
+
+<div class="flex vertical start">
+
+## `io` : Territoire britannique de l’océan Indien 🇮🇴
+
+</div>
+
+---
+
+<!-- Théo -->
+<div class="flex vertical start">
+
+## `af` ?
+
+</div>
+
+---
+
+<!-- Théo -->
+
+![bg cover opacity:1](./assets/afghanistan.png)
+
+<!-- Source : https://www.openstreetmap.org/?mlat=33.81&mlon=66.54#map=5/33.81/66.54 -->
+
+<div class="flex vertical start">
+
+## `af` : Afghanistan 🇦🇫
+
+</div>
+
+---
+
+<!-- Théo -->
+<div class="flex vertical start">
+
+## `hr` ?
+
+</div>
+
+---
+
+<!-- Théo -->
+
+![bg cover opacity:1](./assets/croatia.png)
+
+<!-- Source : https://www.openstreetmap.org/?mlat=45.10&mlon=15.20#map=7/45.10/15.20 -->
+
+<div class="flex vertical start">
+
+## `hr` : Croatie 🇭🇷
 
 </div>
 
@@ -803,6 +1054,8 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 ---
 
+<!-- Théo -->
+
 <!-- _backgroundColor: darkslategray -->
 
 <div class="flex vertical start">
@@ -811,7 +1064,7 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 ### (usage interne)
 
-- T `leclerc` / `cuisinella` (entreprises, usage interne)
+- `leclerc` / `cuisinella`
 
 </div>
 
@@ -829,13 +1082,15 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 ---
 
+<!-- Théo -->
+
 <!-- _backgroundColor: darkslategray -->
 
 <div class="flex vertical start">
 
 ## Extensions supprimées
 
-- T `sncf` / `goodyear` (plus utilisés / supprimés)
+- `sncf` / `goodyear`
 
 </div>
 
@@ -851,13 +1106,15 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 ---
 
+<!-- Théo -->
+
 <!-- _backgroundColor: darkslategray -->
 
 ## Tarification
 
 <div class="flex vertical start">
 
-- T `security`, `auto` (cher)
+- `security`, `auto` (≃2500€/an)
 
 </div>
 
@@ -873,13 +1130,16 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 ---
 
+<!-- Théo -->
+
 <!-- _backgroundColor: darkslategray -->
 
 ## Extensions réservées
 
 <div class="flex vertical start">
 
-- T `example` / `local` (non routés) + `corp` / `home` (dossiers refusés)
+- `example` / `local` / `invalid` (non routés)
+- `corp` / `home` (dossiers refusés)
 
 <!-- Liste complète : https://www.iana.org/assignments/special-use-domain-names/special-use-domain-names.xhtml -->
 
@@ -959,10 +1219,103 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 <div class="flex vertical start">
 
-## Bilan (Théo)
+## Bilan
 
-- chiffres (stats, top 5 coût réel)
-<!-- voir anciens slides, tout est dessus -->
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Adoption des nouveaux gTLD
+
+| Extension   | Nombre de domaines actifs (2025) |
+| ----------- | --------------------------------- |
+| **.xyz**    | ~ 6_048_000                       |
+| **.top**    | ~ 5_207_000                       |
+| **.shop**   | ~ 3_521_000                       |
+| **.online** | ~ 3_078_000                       |
+| **.store**  | ~ 1_997_000                       |
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## Adoption des nouveaux gTLD
+
+| Extension   | Nombre de domaines actifs (2025) |
+| ----------- | --------------------------------- |
+| **.xyz**    | ~ 6_048_000                       |
+| **.top**    | ~ 5_207_000                       |
+| **.shop**   | ~ 3_521_000                       |
+| **.online** | ~ 3_078_000                       |
+| **.store**  | ~ 1_997_000                       |
+|             |                                   |
+| _.com_      | ~ 157_250_000                     |
+
+
+<!--https://abtdomain.com/top-tlds/ -->
+
+</div>
+
+---
+
+## Principales enchères gTLD
+
+| Extension   | Montant de l'enchère | Candidat gagnant |
+| ----------- | -------------------- | ---------------- |
+| **.INFO**   | $ 600_000            | Beijing Telecom  |
+
+</div>
+
+---
+
+## Principales enchères gTLD
+
+| Extension   | Montant de l'enchère | Candidat gagnant |
+| ----------- | -------------------- | ---------------- |
+| **.INFO**   | $ 600_000            | Beijing Telecom  |
+| **.HOTELS** | $ 2_200_000          | Booking.com      |
+
+</div>
+
+---
+
+## Principales enchères gTLD
+
+| Extension   | Montant de l'enchère | Candidat gagnant |
+| ----------- | -------------------- | ---------------- |
+| **.INFO**   | $ 600_000            | Beijing Telecom  |
+| **.HOTELS** | $ 2_200_000          | Booking.com      |
+| **.BUY**    | $ 4_588_888          | Amazon           |
+
+</div>
+
+---
+
+## Principales enchères gTLD
+
+| Extension   | Montant de l'enchère | Candidat gagnant |
+| ----------- | -------------------- | ---------------- |
+| **.INFO**   | $ 600_000            | Beijing Telecom  |
+| **.HOTELS** | $ 2_200_000          | Booking.com      |
+| **.BUY**    | $ 4_588_888          | Amazon           |
+| **.APP**    | $ 25_001_000         | Google           |
+</div>
+
+---
+
+## Principales enchères gTLD
+
+| Extension   | Montant de l'enchère | Candidat gagnant |
+| ----------- | -------------------- | ---------------- |
+| **.INFO**   | $ 600_000            | Beijing Telecom  |
+| **.HOTELS** | $ 2_200_000          | Booking.com      |
+| **.BUY**    | $ 4_588_888          | Amazon           |
+| **.APP**    | $ 25_001_000         | Google           |
+| **.WEB**    | $ 135_000_000        | Verisign (?)     |
 
 <!-- témoignage Radix : https://domainincite.com/28352-interview-sandeep-ramchandani-on-10-years-of-radix-and-new-gtlds -->
 
@@ -1028,14 +1381,19 @@ https://client.rdap.org/?type=domain&object=adatechschool.fr
 
 ---
 
+<!-- Théo -->
+
 <div class="flex vertical start">
 
-## Ouvertures (Théo)
+## Ouvertures
 
-- Aftermarket
-- NFT, Web 3 - .agi ? https://domainincite.com/31315-ai-rival-lines-up-gtld-bid
-  /
-  https://unstoppabledomains.com/blog/categories/announcements/article/agi-tld
+- 🛍️ Aftermarket
+<!-- SEDO / Afternic -->
+- 🔐 NFT / Web 3 : `.eth`, `web3.js`
+<!-- basé sur les smart contract -->
+- ⚔️ Bataille a venir : `.agi`
+<!--https://domainincite.com/31315-ai-rival-lines-up-gtld-bid-->
+<!--https://unstoppabledomains.com/blog/categories/announcements/article/agi-tld-->
 
 </div>
 
