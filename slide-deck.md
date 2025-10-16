@@ -1330,57 +1330,49 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 | Extension | Montant de l'enchère | Candidat gagnant |
 | --------- | -------------------- | ---------------- |
-| **.INFO** | $ 600_000            | Beijing Telecom  |
-
-</div>
+| **.TECH** | $ 6_760_000          | XYZ.com          |
 
 ---
 
 ## Principales enchères gTLD
 
-| Extension   | Montant de l'enchère | Candidat gagnant |
-| ----------- | -------------------- | ---------------- |
-| **.INFO**   | $ 600_000            | Beijing Telecom  |
-| **.HOTELS** | $ 2_200_000          | Booking.com      |
-
-</div>
+| Extension | Montant de l'enchère | Candidat gagnant |
+| --------- | -------------------- | ---------------- |
+| **.TECH** | $ 6_760_000          | XYZ.com          |
+| **.BLOG** | $ 8_000_000          | Automattic       |
 
 ---
 
 ## Principales enchères gTLD
 
-| Extension   | Montant de l'enchère | Candidat gagnant |
-| ----------- | -------------------- | ---------------- |
-| **.INFO**   | $ 600_000            | Beijing Telecom  |
-| **.HOTELS** | $ 2_200_000          | Booking.com      |
-| **.BUY**    | $ 4_588_888          | Amazon           |
-
-</div>
+| Extension | Montant de l'enchère | Candidat gagnant |
+| --------- | -------------------- | ---------------- |
+| **.TECH** | $ 6_760_000          | XYZ.com          |
+| **.BLOG** | $ 8_000_000          | Automattic       |
+| **.APP**  | $ 25_001_000         | Google           |
 
 ---
 
 ## Principales enchères gTLD
 
-| Extension   | Montant de l'enchère | Candidat gagnant |
-| ----------- | -------------------- | ---------------- |
-| **.INFO**   | $ 600_000            | Beijing Telecom  |
-| **.HOTELS** | $ 2_200_000          | Booking.com      |
-| **.BUY**    | $ 4_588_888          | Amazon           |
-| **.APP**    | $ 25_001_000         | Google           |
-
-</div>
+| Extension | Montant de l'enchère | Candidat gagnant |
+| --------- | -------------------- | ---------------- |
+| **.TECH** | $ 6_760_000          | XYZ.com          |
+| **.BLOG** | $ 8_000_000          | Automattic       |
+| **.APP**  | $ 25_001_000         | Google           |
+| **.SHOP** | $ 41_500_000         | GMO Registry     |
 
 ---
 
 ## Principales enchères gTLD
 
-| Extension   | Montant de l'enchère | Candidat gagnant |
-| ----------- | -------------------- | ---------------- |
-| **.INFO**   | $ 600_000            | Beijing Telecom  |
-| **.HOTELS** | $ 2_200_000          | Booking.com      |
-| **.BUY**    | $ 4_588_888          | Amazon           |
-| **.APP**    | $ 25_001_000         | Google           |
-| **.WEB**    | $ 135_000_000        | Verisign (?)     |
+| Extension | Montant de l'enchère | Candidat gagnant |
+| --------- | -------------------- | ---------------- |
+| **.TECH** | $ 6_760_000          | XYZ.com          |
+| **.BLOG** | $ 8_000_000          | Automattic       |
+| **.APP**  | $ 25_001_000         | Google           |
+| **.SHOP** | $ 41_500_000         | GMO Registry     |
+| **.WEB**  | $ 135_000_000        | Verisign (?)     |
 
 <!-- témoignage Radix : https://domainincite.com/28352-interview-sandeep-ramchandani-on-10-years-of-radix-and-new-gtlds -->
 
