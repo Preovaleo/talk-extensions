@@ -1441,7 +1441,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="flex vertical space-around">
 
-# 8. Autres marchés
+# 8. Autres horizons
 
 </div>
 
@@ -1451,11 +1451,11 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="flex vertical start">
 
-## Ouvertures
+## #PasAssezDeTempsPourToutDire
 
 - 🛍️ Aftermarket
 <!-- SEDO / Afternic -->
-- 🔐 NFT / Web 3 : `.eth`, `web3.js`
+- 🔐 NFT / Web 3 : `.eth` -> `web3.js`
 <!-- basé sur les smart contract -->
 - ⚔️ Bataille à venir : `.agi`
   <!--https://domainincite.com/31315-ai-rival-lines-up-gtld-bid-->
