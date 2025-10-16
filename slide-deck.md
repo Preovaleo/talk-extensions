@@ -78,9 +78,13 @@ Développeur Domaines
 
 # 1. Noms de domaines et extensions
 
+<!-- CHECKPOINT < 02:00 -->
+
 </div>
 
 ---
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -91,6 +95,8 @@ URL : `https://www.ovhcloud.com:8080/mail`
 </div>
 
 ---
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -108,6 +114,8 @@ URL : `https://www.ovhcloud.com:8080/mail`
 
 ---
 
+<!-- CHECKPOINT < 08:00 -->
+
 <div class="flex vertical start">
 
 ## `ovhcloud.com`
@@ -119,6 +127,8 @@ URL : `https://www.ovhcloud.com:8080/mail`
 
 ---
 
+<!-- CHECKPOINT < 08:00 -->
+
 <div class="flex vertical start">
 
 ## Quizz : quelle est l'extension ?
@@ -128,6 +138,8 @@ URL : `https://www.ovhcloud.com:8080/mail`
 </div>
 
 ---
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -140,6 +152,8 @@ URL : `https://www.ovhcloud.com:8080/mail`
 
 ---
 
+<!-- CHECKPOINT < 08:00 -->
+
 <div class="flex vertical start">
 
 ## Quizz : quelle est l'extension ?
@@ -151,6 +165,8 @@ URL : `https://www.ovhcloud.com:8080/mail`
 </div>
 
 ---
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -165,6 +181,8 @@ URL : `https://www.ovhcloud.com:8080/mail`
 
 ---
 
+<!-- CHECKPOINT < 08:00 -->
+
 <div class="flex vertical start">
 
 ## Quizz : quelle est l'extension ?
@@ -178,6 +196,8 @@ URL : `https://www.ovhcloud.com:8080/mail`
 </div>
 
 ---
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -194,6 +214,8 @@ URL : `https://www.ovhcloud.com:8080/mail`
 
 ---
 
+<!-- CHECKPOINT < 08:00 -->
+
 <div class="flex vertical start">
 
 ## Quizz : quelle est l'extension ?
@@ -208,6 +230,8 @@ URL : `https://www.ovhcloud.com:8080/mail`
 </div>
 
 ---
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -225,6 +249,8 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 ---
 
+<!-- CHECKPOINT < 08:00 -->
+
 <div class="flex vertical start">
 
 ## Types d'extensions (2)
@@ -235,6 +261,8 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -248,6 +276,8 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 ---
 
+<!-- CHECKPOINT < 08:00 -->
+
 <div class="flex vertical start">
 
 ## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
@@ -260,6 +290,8 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -275,6 +307,8 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 ---
 
+<!-- CHECKPOINT < 08:00 -->
+
 <div class="flex vertical start">
 
 ## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
@@ -289,6 +323,8 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -306,6 +342,8 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 ---
 
+<!-- CHECKPOINT < 08:00 -->
+
 <div class="flex vertical start">
 
 ## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
@@ -322,6 +360,8 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -346,6 +386,8 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 ---
 
+<!-- CHECKPOINT < 08:00 -->
+
 <div class="flex vertical start">
 
 ## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
@@ -369,6 +411,8 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -395,6 +439,8 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 ---
 
+<!-- CHECKPOINT < 08:00 -->
+
 <div class="flex vertical start">
 
 ## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
@@ -420,6 +466,8 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -448,6 +496,8 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 ---
 
+<!-- CHECKPOINT < 08:00 -->
+
 <div class="flex vertical start">
 
 ## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
@@ -473,6 +523,8 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -502,6 +554,8 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 ---
 
+<!-- CHECKPOINT < 08:00 -->
+
 <div class="flex vertical start">
 
 ## Caractères spéciaux (non-ASCII)
@@ -517,6 +571,8 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 ---
 
+<!-- CHECKPOINT < 08:00 -->
+
 ![bg cover opacity:0.5](./assets/directions.jpg)
 
 <!-- Photo de <a href="https://unsplash.com/fr/@j_harris_391">Joshua Harris</a> sur <a href="https://unsplash.com/fr/photos/un-poteau-avec-un-tas-de-panneaux-de-signalisation-jaunes-dessus-BwH31YGYXho">Unsplash</a> -->
@@ -529,6 +585,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 ---
 
+<!-- CHECKPOINT < 15:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -541,6 +598,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 ---
 
+<!-- CHECKPOINT < 15:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -550,6 +608,8 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
+
+<!-- CHECKPOINT < 15:00 -->
 
 <!-- Théo -->
 
@@ -561,6 +621,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 ---
 
+<!-- CHECKPOINT < 15:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -571,6 +632,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 ---
 
+<!-- CHECKPOINT < 15:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -581,6 +643,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 ---
 
+<!-- CHECKPOINT < 15:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -591,6 +654,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 ---
 
+<!-- CHECKPOINT < 15:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -601,6 +665,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 ---
 
+<!-- CHECKPOINT < 15:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -632,6 +697,7 @@ mail3         IN  A     192.0.2.5
 
 ---
 
+<!-- CHECKPOINT < 15:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -644,6 +710,7 @@ mail3         IN  A     192.0.2.5
 
 ---
 
+<!-- CHECKPOINT < 15:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -658,6 +725,7 @@ mail3         IN  A     192.0.2.5
 
 ---
 
+<!-- CHECKPOINT < 15:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -674,6 +742,7 @@ mail3         IN  A     192.0.2.5
 
 ---
 
+<!-- CHECKPOINT < 15:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -691,6 +760,7 @@ mail3         IN  A     192.0.2.5
 
 ---
 
+<!-- CHECKPOINT < 15:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -707,6 +777,7 @@ mail3         IN  A     192.0.2.5
 
 ---
 
+<!-- CHECKPOINT < 15:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -732,6 +803,7 @@ mail3         IN  A     192.0.2.5
 
 ---
 
+<!-- CHECKPOINT < 15:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -752,6 +824,8 @@ mail3         IN  A     192.0.2.5
 
 ---
 
+<!-- CHECKPOINT < 15:00 -->
+
 ![bg cover opacity:0.3](./assets/phone-book.jpg)
 
 <!-- Photo de <a href="https://unsplash.com/fr/@portmorien">Port Morien Digital Archive</a> sur <a href="https://unsplash.com/fr/photos/xPUzCnR_Vrw">Unsplash</a> -->
@@ -764,6 +838,7 @@ mail3         IN  A     192.0.2.5
 
 ---
 
+<!-- CHECKPOINT < 17:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -795,6 +870,7 @@ nserver:                       ns110.ovh.net
 
 ---
 
+<!-- CHECKPOINT < 17:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -812,6 +888,8 @@ nserver:                       ns110.ovh.net
 
 ---
 
+<!-- CHECKPOINT < 17:00 -->
+
 ![bg cover opacity:0.8](./assets/actors.jpg)
 
 <!-- Photo de <a href="https://unsplash.com/fr/@kyleunderscorehead">Kyle Head</a> sur <a href="https://unsplash.com/fr/photos/silhouette-de-trois-interprete
@@ -825,6 +903,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
+<!-- CHECKPOINT < 20:00 -->
+
 <div class="flex vertical start">
 
 ## Principaux acteurs
@@ -837,6 +917,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
+<!-- CHECKPOINT < 20:00 -->
+
 <div class="flex vertical start">
 
 ## Autres acteurs
@@ -847,6 +929,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
+
+<!-- CHECKPOINT < 20:00 -->
 
 <div class="flex vertical start">
 
@@ -860,6 +944,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
+
+<!-- CHECKPOINT < 20:00 -->
 
 ![bg cover opacity:0.7](./assets/countries.jpg)
 
@@ -877,6 +963,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
+<!-- CHECKPOINT < 25:00 -->
+<!-- Théo -->
+
 <div class="flex vertical start">
 
 ## `tv` ?
@@ -884,6 +973,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
+
+<!-- CHECKPOINT < 25:00 -->
+<!-- Théo -->
 
 ![bg cover opacity:1](./assets/tuvalu.png)
 
@@ -899,7 +991,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
+<!-- CHECKPOINT < 25:00 -->
 <!-- Théo -->
+
 <div class="flex vertical start">
 
 ## `ai` ?
@@ -908,6 +1002,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
+<!-- CHECKPOINT < 25:00 -->
 <!-- Théo -->
 
 ![bg cover opacity:1](./assets/anguilla.png)
@@ -924,7 +1019,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
+<!-- CHECKPOINT < 25:00 -->
 <!-- Théo -->
+
 <div class="flex vertical start">
 
 ## `yt` ?
@@ -933,6 +1030,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
+<!-- CHECKPOINT < 25:00 -->
 <!-- Théo -->
 
 ![bg cover opacity:1](./assets/mayotte.png)
@@ -947,7 +1045,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
+<!-- CHECKPOINT < 25:00 -->
 <!-- Théo -->
+
 <div class="flex vertical start">
 
 ## `ly` ?
@@ -956,6 +1056,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
+<!-- CHECKPOINT < 25:00 -->
 <!-- Théo -->
 
 ![bg cover opacity:1](./assets/libya.png)
@@ -972,7 +1073,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
+<!-- CHECKPOINT < 25:00 -->
 <!-- Théo -->
+
 <div class="flex vertical start">
 
 ## `io` ?
@@ -981,6 +1084,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
+<!-- CHECKPOINT < 25:00 -->
 <!-- Théo -->
 
 ![bg cover opacity:1](./assets/british-indian-ocean-territory.png)
@@ -995,7 +1099,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
+<!-- CHECKPOINT < 25:00 -->
 <!-- Théo -->
+
 <div class="flex vertical start">
 
 ## `af` ?
@@ -1004,6 +1110,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
+<!-- CHECKPOINT < 25:00 -->
 <!-- Théo -->
 
 ![bg cover opacity:1](./assets/afghanistan.png)
@@ -1020,7 +1127,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
+<!-- CHECKPOINT < 25:00 -->
 <!-- Théo -->
+
 <div class="flex vertical start">
 
 ## `hr` ?
@@ -1029,6 +1138,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
+<!-- CHECKPOINT < 25:00 -->
 <!-- Théo -->
 
 ![bg cover opacity:1](./assets/croatia.png)
@@ -1045,6 +1155,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
+<!-- CHECKPOINT < 25:00 -->
+
 ![bg cover opacity:0.8](./assets/earth.jpg)
 
 <!-- Photo de <a href="https://unsplash.com/fr/@carl_wang">Carl Wang</a> sur <a href="https://unsplash.com/fr/photos/une-vue-de-la-terre-depuis-lespace-OCe8cTGymSQ">Unsplash</a> -->
@@ -1057,6 +1169,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
+<!-- CHECKPOINT < 40:00 -->
+
 <div class="flex vertical start">
 
 ## Les premiers gTLDs
@@ -1068,6 +1182,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
+
+<!-- CHECKPOINT < 40:00 -->
 
 <div class="flex vertical start">
 
@@ -1089,6 +1205,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
+
+<!-- CHECKPOINT < 40:00 -->
 
 <div class="flex vertical start">
 
@@ -1112,6 +1230,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
+<!-- CHECKPOINT < 40:00 -->
+
 <div class="flex vertical start">
 
 ## Dernières validations
@@ -1126,6 +1246,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
+
+<!-- CHECKPOINT < 40:00 -->
 
 <div class="flex vertical start">
 
@@ -1148,6 +1270,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
+<!-- CHECKPOINT < 40:00 -->
 <!-- Théo -->
 
 <!-- _backgroundColor: darkslategray -->
@@ -1164,6 +1287,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
+<!-- CHECKPOINT < 40:00 -->
+
 <div class="flex vertical start">
 
 ## Extensions d'entreprise
@@ -1176,6 +1301,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
+<!-- CHECKPOINT < 40:00 -->
 <!-- Théo -->
 
 <!-- _backgroundColor: darkslategray -->
@@ -1191,6 +1317,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
+<!-- CHECKPOINT < 40:00 -->
+
 <div class="flex vertical start">
 
 ## Extensions avec contraintes
@@ -1201,6 +1329,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
+<!-- CHECKPOINT < 40:00 -->
 <!-- Théo -->
 
 <!-- _backgroundColor: darkslategray -->
@@ -1215,6 +1344,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
+<!-- CHECKPOINT < 40:00 -->
+
 ## Business model
 
 <div class="flex vertical start">
@@ -1225,6 +1356,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
+<!-- CHECKPOINT < 40:00 -->
 <!-- Théo -->
 
 <!-- _backgroundColor: darkslategray -->
@@ -1242,6 +1374,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
+<!-- CHECKPOINT < 40:00 -->
+
 ## Conflits
 
 <div class="flex vertical start">
@@ -1251,6 +1385,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
+
+<!-- CHECKPOINT < 40:00 -->
 
 ## Conflits
 
@@ -1263,6 +1399,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
+<!-- CHECKPOINT < 40:00 -->
+
 ## Conflits
 
 <div class="flex vertical start">
@@ -1274,6 +1412,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
+
+<!-- CHECKPOINT < 40:00 -->
 
 ## Conflits
 
@@ -1312,21 +1452,24 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
+<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
+
 <div class="flex vertical start">
 
 ## Bilan du round
 
-- 2 000 candidatures reçues
-<!-- https://newgtlds.icann.org/en/program-status/statistics -->
-- 1 400 extensions demandées
-<!-- https://icannwiki.org/New_gTLD_Program_(2012) -->
-- 1 200 approuvées
-<!-- https://gtldresult.icann.org/applicationstatus/viewstatus -->
+- 2 000 candidatures reçues <!-- https://newgtlds.icann.org/en/program-status/statistics -->
+- 1 400 extensions demandées <!-- https://icannwiki.org/New_gTLD_Program_(2012) -->
+- 1 200 approuvées <!-- https://gtldresult.icann.org/applicationstatus/viewstatus -->
 - 1 153 activées <!-- https://www.ntldstats.com/tld -->
 
 </div>
 
 ---
+
+<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -1343,6 +1486,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
+
+<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -1366,6 +1512,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
+<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
+
 ## Principales enchères gTLD
 
 | Extension | Montant de l'enchère | Candidat gagnant |
@@ -1373,6 +1522,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 | **.TECH** | $ 6_760_000          | XYZ.com          |
 
 ---
+
+<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
 
 ## Principales enchères gTLD
 
@@ -1382,6 +1534,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 | **.BLOG** | $ 8_000_000          | Automattic       |
 
 ---
+
+<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
 
 ### Principales enchères gTLD
 
@@ -1392,6 +1547,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 | **.APP**  | $ 25_001_000         | Google           |
 
 ---
+
+<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
 
 ### Principales enchères gTLD
 
@@ -1403,6 +1561,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 | **.SHOP** | $ 41_500_000         | GMO Registry     |
 
 ---
+
+<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
 
 ### Principales enchères gTLD
 
@@ -1420,6 +1581,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
+<!-- CHECKPOINT < 40:00 -->
+
 ![bg cover opacity:0.7](./assets/2026.jpg)
 
 <!-- Photo de <a href="https://unsplash.com/fr/@simonesecci">Simone Secci</a> sur <a href="https://unsplash.com/fr/photos/lettres-rouges-neon-49uySSA678U">Unsplash</a> -->
@@ -1431,6 +1594,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
+
+<!-- CHECKPOINT < 40:00 -->
 
 <div class="flex vertical start">
 
@@ -1450,6 +1615,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
+
+<!-- CHECKPOINT < 40:00 -->
 
 <div class="flex vertical start">
 
@@ -1477,6 +1644,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
+<!-- CHECKPOINT < 50:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
