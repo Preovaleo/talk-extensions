@@ -1286,18 +1286,13 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ## Bilan du round
 
-</div>
-
----
-
-<div class="flex vertical start">
-
-## Bilan du round
-
-- 2_000 candidatures reçues
-- 1_400 extensions demandées
-- 1_200 approuvées
-- 1_153 activées
+- 2 000 candidatures reçues
+<!-- https://newgtlds.icann.org/en/program-status/statistics -->
+- 1 400 extensions demandées
+<!-- https://icannwiki.org/New_gTLD_Program_(2012) -->
+- 1 200 approuvées
+<!-- https://gtldresult.icann.org/applicationstatus/viewstatus -->
+- 1 153 activées <!-- https://www.ntldstats.com/tld -->
 
 </div>
 
@@ -1305,15 +1300,15 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="flex vertical start">
 
-### Adoption des nouveaux gTLD
+### Adoption des nouveaux gTLD (2025)
 
-| Extension   | Nombre de domaines actifs (2025) |
-| ----------- | -------------------------------- |
-| **.xyz**    | ~ 6_048_000                      |
-| **.top**    | ~ 5_207_000                      |
-| **.shop**   | ~ 3_521_000                      |
-| **.online** | ~ 3_078_000                      |
-| **.store**  | ~ 1_997_000                      |
+| Extension   | Domaines actifs | % du round |
+| ----------- | --------------- | ---------- |
+| **.xyz**    | 7_530_422       | 13.47%     |
+| **.top**    | 6_902_727       | 12.35%     |
+| **.shop**   | 4_484_070       | 8.02%      |
+| **.online** | 4_092_039       | 7.32%      |
+| **.store**  | 2_499_379       | 4.47%      |
 
 </div>
 
@@ -1321,19 +1316,21 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="flex vertical start">
 
-### Adoption des nouveaux gTLD
+### Adoption des nouveaux gTLD (2025)
 
-| Extension   | Nombre de domaines actifs (2025) |
-| ----------- | -------------------------------- |
-| **.xyz**    | ~ 6_048_000                      |
-| **.top**    | ~ 5_207_000                      |
-| **.shop**   | ~ 3_521_000                      |
-| **.online** | ~ 3_078_000                      |
-| **.store**  | ~ 1_997_000                      |
-|             |                                  |
-| _.com_      | ~ 157_250_000                    |
+| Extension   | Domaines actifs | % du round |
+| ----------- | --------------- | ---------- |
+| **.xyz**    | 7_530_422       | 13.47%     |
+| **.top**    | 6_902_727       | 12.35%     |
+| **.shop**   | 4_484_070       | 8.02%      |
+| **.online** | 4_092_039       | 7.32%      |
+| **.store**  | 2_499_379       | 4.47%      |
+|             |                 |            |
+| _.com_      | ~ 157_250_000   |            |
+| _*_         | ~ 797_823_028   |            |
 
-<!--https://abtdomain.com/top-tlds/ -->
+<!-- https://www.ntldstats.com/tld/ -->
+<!-- https://domainnamestat.com/statistics/overview -->
 
 </div>
 
