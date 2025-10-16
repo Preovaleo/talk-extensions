@@ -918,6 +918,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ## `ai` : Anguilla 🇦🇮
 
+<!-- 0,67 % du PIB -->
+
 </div>
 
 ---
@@ -966,6 +968,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 </div>
 
+<!-- 0,015% du PIB -->
+
 ---
 
 <!-- Théo -->
@@ -1012,6 +1016,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 </div>
 
+<!-- 0,0025% -->
+
 ---
 
 <!-- Théo -->
@@ -1034,6 +1040,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 ## `hr` : Croatie 🇭🇷
 
 </div>
+
+<!-- 0,0021% -->
 
 ---
 
