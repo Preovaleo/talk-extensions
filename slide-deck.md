@@ -957,10 +957,6 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 </div>
 
-<!-- Je te proposerais bien d'afficher pour chacun son drapeau (emoji) + en background, sa position sur la carte du monde
-     (par ex. 🇹🇻 + screenshot de https://www.openstreetmap.org/?mlat=-8.45&mlon=179.12#map=4/-8.45/179.12 pour Tuvalu (tv)
-     Je te mets l'exemple ci-dessous, fais-en ce que tu veux -->
-
 ---
 
 <!-- CHECKPOINT < 25:00 -->
@@ -1502,8 +1498,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 | **.online** | 4_092_039       | 7.32%      |
 | **.store**  | 2_499_379       | 4.47%      |
 |             |                 |            |
-| _.com_      | ~ 157_250_000   |            |
-| _*_         | ~ 797_823_028   |            |
+| _.com_      | ~ 157_250_000   |            |
+| _\*_        | ~ 797_823_028   |            |
 
 <!-- https://www.ntldstats.com/tld/ -->
 <!-- https://domainnamestat.com/statistics/overview -->
@@ -1595,7 +1591,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
-<!-- CHECKPOINT < 40:00 -->
+<!-- CHECKPOINT < 45:00 -->
 
 <div class="flex vertical start">
 
@@ -1616,7 +1612,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
-<!-- CHECKPOINT < 40:00 -->
+<!-- CHECKPOINT < 45:00 -->
 
 <div class="flex vertical start">
 
