@@ -578,7 +578,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 - www.toto.fr ? 🔍
   DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.fr ✅
-- toto.gouv.fr ? 🏛️
+- www.toto.gouv.fr ? 🏛️
 
 </div>
 
