@@ -533,9 +533,9 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 <div class="flex vertical start">
 
-## DNS
+![bg cover opacity:0.7](./assets/world-map.png)
 
-![URI height:500px](assets/dns.svg)
+## Alegorie
 
 </div>
 
@@ -545,14 +545,68 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 <div class="flex vertical start">
 
-## Record DNS
+![URI height:650px](assets/villea.png)
 
-- TXT
-- A / AAAA
-- NS
-- MX
-- CNAME / DNAME
-- DNSKEY
+</div>
+
+---
+
+<!-- Théo -->
+
+<div class="flex vertical start">
+
+![URI height:650px](assets/villeb.png)
+
+</div>
+
+---
+
+<!-- Théo -->
+
+<div class="flex vertical start">
+
+![URI height:650px](assets/villec.png)
+
+</div>
+
+---
+
+<!-- Théo -->
+
+<div class="flex vertical start">
+
+![URI height:650px](assets/dns.svg)
+
+</div>
+
+---
+
+<!-- Théo -->
+
+<div class="flex vertical start">
+
+## Zonefile
+
+```txt
+$ORIGIN example.com.
+$TTL 3600
+example.com.  IN  SOA   ns.example.com. username.example.com. ( 2020091025 7200 3600 1209600 3600 )
+
+example.com.  IN  NS    ns
+example.com.  IN  NS    ns.somewhere.example.
+example.com.  IN  MX    10 mail.example.com.
+@             IN  MX    20 mail2.example.com.
+@             IN  MX    50 mail3
+example.com.  IN  A     192.0.2.1
+              IN  AAAA  2001:db8:10::1
+ns            IN  A     192.0.2.2
+              IN  AAAA  2001:db8:10::2
+www           IN  CNAME example.com.
+wwwtest       IN  CNAME www
+mail          IN  A     192.0.2.3
+mail2         IN  A     192.0.2.4
+mail3         IN  A     192.0.2.5
+```
 
 </div>
 
@@ -611,7 +665,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 - www.toto.notaires.fr ? 👩‍⚖️
   DNS root 🌐 -> DNS fr 🇫🇷 -> DNS notaires.fr 👩‍⚖️
   -> DNS toto.notaires.fr ✅
-- toto.co.uk ? 🇬🇧
+- www.toto.co.uk ? 🇬🇧
 
 </div>
 
@@ -626,7 +680,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 - www.toto.notaires.fr ? 👩‍⚖️
   DNS root 🌐 -> DNS fr 🇫🇷 -> DNS notaires.fr 👩‍⚖️
   -> DNS toto.notaires.fr ✅
-- toto.co.uk ? 🇬🇧
+- www.toto.co.uk ? 🇬🇧
   DNS root 🌐 -> DNS uk 🇬🇧 -> DNS toto.co.uk ✅
 
 </div>
