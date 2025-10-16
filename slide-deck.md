@@ -1284,7 +1284,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="flex vertical start">
 
-## Bilan
+## Bilan du round
 
 </div>
 
@@ -1292,7 +1292,20 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="flex vertical start">
 
-## Adoption des nouveaux gTLD
+## Bilan du round
+
+- 2_000 candidatures reçues
+- 1_400 extensions demandées
+- 1_200 approuvées
+- 1_153 activées
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+### Adoption des nouveaux gTLD
 
 | Extension   | Nombre de domaines actifs (2025) |
 | ----------- | -------------------------------- |
@@ -1308,7 +1321,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="flex vertical start">
 
-## Adoption des nouveaux gTLD
+### Adoption des nouveaux gTLD
 
 | Extension   | Nombre de domaines actifs (2025) |
 | ----------- | -------------------------------- |
@@ -1343,7 +1356,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
-## Principales enchères gTLD
+### Principales enchères gTLD
 
 | Extension | Montant de l'enchère | Candidat gagnant |
 | --------- | -------------------- | ---------------- |
@@ -1353,7 +1366,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
-## Principales enchères gTLD
+### Principales enchères gTLD
 
 | Extension | Montant de l'enchère | Candidat gagnant |
 | --------- | -------------------- | ---------------- |
@@ -1364,7 +1377,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
-## Principales enchères gTLD
+### Principales enchères gTLD
 
 | Extension | Montant de l'enchère | Candidat gagnant |
 | --------- | -------------------- | ---------------- |
