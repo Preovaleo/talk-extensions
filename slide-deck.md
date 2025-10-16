@@ -1154,7 +1154,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ## Extensions supprimées
 
-- `sncf` / `goodyear`
+- `sncf` (plus vraiment utilisé)
+- `goodyear` (supprimé)
 
 </div>
 
