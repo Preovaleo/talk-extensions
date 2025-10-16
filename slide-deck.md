@@ -535,7 +535,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 ![bg cover opacity:0.7](./assets/world-map.png)
 
-## Alegorie
+## Allégorie
 
 </div>
 
@@ -872,6 +872,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 <div class="flex vertical start">
 
 ## `tv` : Tuvalu 🇹🇻
+
+<!-- 5,56% du PIB -->
 
 </div>
 
