@@ -101,9 +101,19 @@ URL : `https://www.ovhcloud.com:8080/mail`
 - `https` : protocole
 - `www` : nom d'hôte (machine) / sous-domaine
 - `ovhcloud.com` : **nom de domaine**
-  - `ovhcloud` : étiquette / `com` : extension
 - `8080` : port
 - `/mail` : chemin d'accès
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+## `ovhcloud.com`
+
+- `ovhcloud` : étiquette
+- `com` : **extension**
 
 </div>
 
@@ -1138,7 +1148,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="flex vertical start">
 
-- `example` / `local` / `invalid` (non routés)
+- `example` / `local` / `invalid` (non routées)
 - `corp` / `home` (dossiers refusés)
 
 <!-- Liste complète : https://www.iana.org/assignments/special-use-domain-names/special-use-domain-names.xhtml -->
@@ -1230,12 +1240,12 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 ## Adoption des nouveaux gTLD
 
 | Extension   | Nombre de domaines actifs (2025) |
-| ----------- | --------------------------------- |
-| **.xyz**    | ~ 6_048_000                       |
-| **.top**    | ~ 5_207_000                       |
-| **.shop**   | ~ 3_521_000                       |
-| **.online** | ~ 3_078_000                       |
-| **.store**  | ~ 1_997_000                       |
+| ----------- | -------------------------------- |
+| **.xyz**    | ~ 6_048_000                      |
+| **.top**    | ~ 5_207_000                      |
+| **.shop**   | ~ 3_521_000                      |
+| **.online** | ~ 3_078_000                      |
+| **.store**  | ~ 1_997_000                      |
 
 </div>
 
@@ -1246,15 +1256,14 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 ## Adoption des nouveaux gTLD
 
 | Extension   | Nombre de domaines actifs (2025) |
-| ----------- | --------------------------------- |
-| **.xyz**    | ~ 6_048_000                       |
-| **.top**    | ~ 5_207_000                       |
-| **.shop**   | ~ 3_521_000                       |
-| **.online** | ~ 3_078_000                       |
-| **.store**  | ~ 1_997_000                       |
-|             |                                   |
-| _.com_      | ~ 157_250_000                     |
-
+| ----------- | -------------------------------- |
+| **.xyz**    | ~ 6_048_000                      |
+| **.top**    | ~ 5_207_000                      |
+| **.shop**   | ~ 3_521_000                      |
+| **.online** | ~ 3_078_000                      |
+| **.store**  | ~ 1_997_000                      |
+|             |                                  |
+| _.com_      | ~ 157_250_000                    |
 
 <!--https://abtdomain.com/top-tlds/ -->
 
@@ -1264,9 +1273,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ## Principales enchères gTLD
 
-| Extension   | Montant de l'enchère | Candidat gagnant |
-| ----------- | -------------------- | ---------------- |
-| **.INFO**   | $ 600_000            | Beijing Telecom  |
+| Extension | Montant de l'enchère | Candidat gagnant |
+| --------- | -------------------- | ---------------- |
+| **.INFO** | $ 600_000            | Beijing Telecom  |
 
 </div>
 
@@ -1303,6 +1312,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 | **.HOTELS** | $ 2_200_000          | Booking.com      |
 | **.BUY**    | $ 4_588_888          | Amazon           |
 | **.APP**    | $ 25_001_000         | Google           |
+
 </div>
 
 ---
@@ -1361,9 +1371,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 - 👫 **Grand public** : pas grand chose
 - 🏢 **Demandeurs** :
   - réservation de sa marque
+    <!-- Témoignage Google : https://domainnamewire.com/2025/10/10/google-pitches-dot-brand-top-level-domain-names/ -->
   - vente aux grosses marques
-
-<!-- Témoignage Google : https://domainnamewire.com/2025/10/10/google-pitches-dot-brand-top-level-domain-names/ -->
 
 </div>
 
@@ -1391,9 +1400,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 <!-- SEDO / Afternic -->
 - 🔐 NFT / Web 3 : `.eth`, `web3.js`
 <!-- basé sur les smart contract -->
-- ⚔️ Bataille a venir : `.agi`
-<!--https://domainincite.com/31315-ai-rival-lines-up-gtld-bid-->
-<!--https://unstoppabledomains.com/blog/categories/announcements/article/agi-tld-->
+- ⚔️ Bataille à venir : `.agi`
+  <!--https://domainincite.com/31315-ai-rival-lines-up-gtld-bid-->
+  <!--https://unstoppabledomains.com/blog/categories/announcements/article/agi-tld-->
 
 </div>
 

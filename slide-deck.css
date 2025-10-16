@@ -89,6 +89,7 @@ div > ul > li + li {
 }
 
 .hspacer {
+    display: inline-block;
     margin: 0 2em;
 }
 
