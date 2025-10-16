@@ -1422,3 +1422,49 @@ Crédits images: [Unsplash](https://unsplash.com) et [Freepik](https://www.freep
 Slides: [https://github.com/Preovaleo/talk-extensions](https://https://github.com/Preovaleo/talk-extensions/)
 
 </div>
+
+---
+
+![bg cover](./assets/stars.jpg)
+
+<!-- Photo de <a href="https://unsplash.com/fr/@markusspiske">Markus Spiske</a> sur <a href="https://unsplash.com/fr/photos/une-rangee-detoiles-assises-sur-une-table-blanche-O4Au-cQNuqg">Unsplash</a> -->
+
+<div class="flex vertical start">
+
+<div class="flex horizontal start">
+
+![](./assets/logo%20adatechschool.png)
+
+</div>
+
+# Bonus
+
+<div class="flex horizontal space-around center-align">
+
+![width:150px](./assets/sticker%20OVHcloud.png)
+
+![height:200px](./assets/free%20coupon.png)
+
+</div>
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+### Commande domaine `.ovh`
+
+![height:550px](./assets/promo%20.ovh.png)
+
+</div>
+
+---
+
+<div class="flex vertical start">
+
+### Commande mail + hébergement 100Mo
+
+![height:550px](./assets/promo%20free100m.png)
+
+</div>
