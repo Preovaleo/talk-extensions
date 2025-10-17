@@ -12,8 +12,8 @@ Une plongée dans les coulisses d’un Internet en perpétuelle transformation.
 
 ## Présentations
 
-- [Ada Tech School](https://adatechschool.fr/) Nantes, 17 octobre 2025  
-  🔎 [_slides_](../adatechschool/slide-deck.html)
+- 🇫🇷 [Ada Tech School](https://adatechschool.fr/) Nantes, 17 octobre 2025  
+  🔎 [_slides_](../adatechschool/slide-deck.pdf)
 
 ## Remerciements
 
