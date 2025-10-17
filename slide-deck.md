@@ -1471,13 +1471,13 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ### Adoption des nouveaux gTLD (2025)
 
-| Extension   | Domaines actifs | % du round |
-| ----------- | --------------- | ---------- |
-| **.xyz**    | 7_530_422       | 13.47%     |
-| **.top**    | 6_902_727       | 12.35%     |
-| **.shop**   | 4_484_070       | 8.02%      |
-| **.online** | 4_092_039       | 7.32%      |
-| **.store**  | 2_499_379       | 4.47%      |
+| Extension   | Domaines enregistrés | % du round |
+| ----------- | -------------------- | ---------- |
+| **.xyz**    | 7_530_422            | 13.47%     |
+| **.top**    | 6_902_727            | 12.35%     |
+| **.shop**   | 4_484_070            | 8.02%      |
+| **.online** | 4_092_039            | 7.32%      |
+| **.store**  | 2_499_379            | 4.47%      |
 
 </div>
 
@@ -1490,16 +1490,16 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ### Adoption des nouveaux gTLD (2025)
 
-| Extension   | Domaines actifs | % du round |
-| ----------- | --------------- | ---------- |
-| **.xyz**    | 7_530_422       | 13.47%     |
-| **.top**    | 6_902_727       | 12.35%     |
-| **.shop**   | 4_484_070       | 8.02%      |
-| **.online** | 4_092_039       | 7.32%      |
-| **.store**  | 2_499_379       | 4.47%      |
-|             |                 |            |
-| _.com_      | ~ 157_250_000   |            |
-| _\*_        | ~ 797_823_028   |            |
+| Extension   | Domaines enregistrés | % du round |
+| ----------- | -------------------- | ---------- |
+| **.xyz**    | 7_530_422            | 13.47%     |
+| **.top**    | 6_902_727            | 12.35%     |
+| **.shop**   | 4_484_070            | 8.02%      |
+| **.online** | 4_092_039            | 7.32%      |
+| **.store**  | 2_499_379            | 4.47%      |
+|             |                      |            |
+| _.com_      | ~ 157_250_000        |            |
+| _\*_        | ~ 797_823_028        |            |
 
 <!-- https://www.ntldstats.com/tld/ -->
 <!-- https://domainnamestat.com/statistics/overview -->
@@ -1515,7 +1515,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 | Extension | Montant de l'enchère | Candidat gagnant |
 | --------- | -------------------- | ---------------- |
-| **.TECH** | $ 6_760_000          | XYZ.com          |
+| **.TECH** | $ 6_760_000          | Dot Tech         |
 
 ---
 
@@ -1526,7 +1526,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 | Extension | Montant de l'enchère | Candidat gagnant |
 | --------- | -------------------- | ---------------- |
-| **.TECH** | $ 6_760_000          | XYZ.com          |
+| **.TECH** | $ 6_760_000          | Dot Tech         |
 | **.BLOG** | $ 8_000_000          | Automattic       |
 
 ---
@@ -1538,7 +1538,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 | Extension | Montant de l'enchère | Candidat gagnant |
 | --------- | -------------------- | ---------------- |
-| **.TECH** | $ 6_760_000          | XYZ.com          |
+| **.TECH** | $ 6_760_000          | Dot Tech         |
 | **.BLOG** | $ 8_000_000          | Automattic       |
 | **.APP**  | $ 25_001_000         | Google           |
 
@@ -1551,7 +1551,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 | Extension | Montant de l'enchère | Candidat gagnant |
 | --------- | -------------------- | ---------------- |
-| **.TECH** | $ 6_760_000          | XYZ.com          |
+| **.TECH** | $ 6_760_000          | Dot Tech         |
 | **.BLOG** | $ 8_000_000          | Automattic       |
 | **.APP**  | $ 25_001_000         | Google           |
 | **.SHOP** | $ 41_500_000         | GMO Registry     |
@@ -1565,7 +1565,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 | Extension | Montant de l'enchère | Candidat gagnant |
 | --------- | -------------------- | ---------------- |
-| **.TECH** | $ 6_760_000          | XYZ.com          |
+| **.TECH** | $ 6_760_000          | Dot Tech         |
 | **.BLOG** | $ 8_000_000          | Automattic       |
 | **.APP**  | $ 25_001_000         | Google           |
 | **.SHOP** | $ 41_500_000         | GMO Registry     |
