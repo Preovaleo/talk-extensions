@@ -882,7 +882,7 @@ nserver:                       ns110.ovh.net
 
 <div class="spacer"></div>
 
-🔗 [Voir RDAP pour adatechschool.fr](https://client.rdap.org/?type=domain&object=adatechschool.fr)
+🔗 <a href="https://client.rdap.org/?type=domain&object=adatechschool.fr" target="_blank">Voir RDAP pour adatechschool.fr</a>
 
 </div>
 
@@ -1277,8 +1277,13 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ### (usage interne)
 
-- `leclerc` / `cuisinella`
+<div class="flex horizontal start">
 
+- `leclerc` 🔗 <a href="https://location.leclerc" target="_blank">location.leclerc</a>
+- `cuisinella` 🔗 <a href="https://www.ma.cuisinella" target="_blank">www.ma.cuisinella</a>
+- `google` 🔗 <a href="https://blog.google" target="_blank">blog.google</a>
+
+</div>
 </div>
 
 ---
