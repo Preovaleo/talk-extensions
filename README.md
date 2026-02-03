@@ -14,7 +14,11 @@ Une plongée dans les coulisses d’un Internet en perpétuelle transformation.
 
 - [Ada Tech School](https://adatechschool.fr/) Nantes, 17 octobre 2025  
   🔎 [_slides_](../adatechschool/slide-deck.html)
+- [Epitech](https://www.epitech.eu/) Rennes, 4 février 2026  
+  🔎 [_slides_](../epitech/slide-deck.html)
 
 ## Remerciements
 
 Cette conférence est inspirée de la conférence « Et si nous créions le `.breizhcamp` », donnée par Marc Audefroy et Éric Vergne au [BreizhCamp 2019](https://www.youtube.com/watch?v=gF8Ow44MAtc&list=PLv7xGPH0RMUR6C5CR7PUpeCxocR5JORdE).
+
+Une partie des histoires que l'on raconte peut également être trouvée sur le site [Dot Com](https://www.dotcom.press/history-of-domains).
