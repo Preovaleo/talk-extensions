@@ -1563,17 +1563,22 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 <!-- CHECKPOINT < 40:00 -->
 <!-- Théo -->
 
+<div class="flex vertical start">
+
 ## Principales enchères gTLD
 
 | Extension | Montant de l'enchère | Candidat gagnant |
 | --------- | -------------------- | ---------------- |
 | **.TECH** | $ 6_760_000          | Dot Tech         |
 
+</div>
+
 ---
 
 <!-- CHECKPOINT < 40:00 -->
 <!-- Théo -->
 
+<div class="flex vertical start">
 ## Principales enchères gTLD
 
 | Extension | Montant de l'enchère | Candidat gagnant |
@@ -1581,11 +1586,14 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 | **.TECH** | $ 6_760_000          | Dot Tech         |
 | **.BLOG** | $ 8_000_000          | Automattic       |
 
+</div>
+
 ---
 
 <!-- CHECKPOINT < 40:00 -->
 <!-- Théo -->
 
+<div class="flex vertical start">
 ### Principales enchères gTLD
 
 | Extension | Montant de l'enchère | Candidat gagnant |
@@ -1594,11 +1602,14 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 | **.BLOG** | $ 8_000_000          | Automattic       |
 | **.APP**  | $ 25_001_000         | Google           |
 
+</div>
+
 ---
 
 <!-- CHECKPOINT < 40:00 -->
 <!-- Théo -->
 
+<div class="flex vertical start">
 ### Principales enchères gTLD
 
 | Extension | Montant de l'enchère | Candidat gagnant |
@@ -1608,11 +1619,14 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 | **.APP**  | $ 25_001_000         | Google           |
 | **.SHOP** | $ 41_500_000         | GMO Registry     |
 
+</div>
+
 ---
 
 <!-- CHECKPOINT < 40:00 -->
 <!-- Théo -->
 
+<div class="flex vertical start">
 ### Principales enchères gTLD
 
 | Extension | Montant de l'enchère | Candidat gagnant |
