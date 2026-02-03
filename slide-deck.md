@@ -1579,6 +1579,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 <!-- Théo -->
 
 <div class="flex vertical start">
+
 ## Principales enchères gTLD
 
 | Extension | Montant de l'enchère | Candidat gagnant |
@@ -1594,7 +1595,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 <!-- Théo -->
 
 <div class="flex vertical start">
-### Principales enchères gTLD
+
+## Principales enchères gTLD
 
 | Extension | Montant de l'enchère | Candidat gagnant |
 | --------- | -------------------- | ---------------- |
@@ -1610,7 +1612,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 <!-- Théo -->
 
 <div class="flex vertical start">
-### Principales enchères gTLD
+
+## Principales enchères gTLD
 
 | Extension | Montant de l'enchère | Candidat gagnant |
 | --------- | -------------------- | ---------------- |
@@ -1627,7 +1630,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 <!-- Théo -->
 
 <div class="flex vertical start">
-### Principales enchères gTLD
+
+## Principales enchères gTLD
 
 | Extension | Montant de l'enchère | Candidat gagnant |
 | --------- | -------------------- | ---------------- |
