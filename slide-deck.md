@@ -854,16 +854,25 @@ mail3         IN  A     192.0.2.5
 - pas de standard pour les clés ni le contenu
 
 ```txt
-domain:                        adatechschool.fr
-status:                        ACTIVE
-Expiry Date:                   2026-02-15T14:32:02Z
-created:                       2019-02-15T14:32:02Z
+Domain: epitech.eu
+Script: LATIN
 
-type:                          PERSON
-contact:                       Ano Nymous
+Registrant:
+        NOT DISCLOSED!
+        Visit www.eurid.eu for the web-based WHOIS.
 
-nserver:                       dns110.ovh.net
-nserver:                       ns110.ovh.net
+Technical:
+        Organisation: Gandi SAS
+        Language: fr
+        Email:
+
+Registrar:
+        Name: GANDI
+        Website: https://www.gandi.net
+
+Name servers:
+        earl.ns.cloudflare.com
+        donna.ns.cloudflare.com
 ```
 
 </div>
@@ -882,7 +891,7 @@ nserver:                       ns110.ovh.net
 
 <div class="spacer"></div>
 
-🔗 <a href="https://client.rdap.org/?type=domain&object=adatechschool.fr" target="_blank">Voir RDAP pour adatechschool.fr</a>
+🔗 <a href="https://client.rdap.org/?type=domain&object=epitech.eu" target="_blank">Voir RDAP pour epitech.eu</a>
 
 </div>
 
@@ -1676,51 +1685,5 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 Crédits images: [Unsplash](https://unsplash.com) et [Freepik](https://www.freepik.com)
 Slides: [https://github.com/Preovaleo/talk-extensions](https://https://github.com/Preovaleo/talk-extensions/)
-
-</div>
-
----
-
-![bg cover](./assets/stars.jpg)
-
-<!-- Photo de <a href="https://unsplash.com/fr/@markusspiske">Markus Spiske</a> sur <a href="https://unsplash.com/fr/photos/une-rangee-detoiles-assises-sur-une-table-blanche-O4Au-cQNuqg">Unsplash</a> -->
-
-<div class="flex vertical start">
-
-<div class="flex horizontal start">
-
-![](./assets/logo%20adatechschool.png)
-
-</div>
-
-# Bonus
-
-<div class="flex horizontal space-around center-align">
-
-![width:150px](./assets/sticker%20OVHcloud.png)
-
-![height:200px](./assets/free%20coupon.png)
-
-</div>
-
-</div>
-
----
-
-<div class="flex vertical start">
-
-### Commande domaine `.ovh`
-
-![height:550px](./assets/promo%20.ovh.png)
-
-</div>
-
----
-
-<div class="flex vertical start">
-
-### Commande mail + hébergement 100Mo
-
-![height:550px](./assets/promo%20free100m.png)
 
 </div>
