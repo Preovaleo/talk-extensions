@@ -237,9 +237,9 @@ URL : `https://www.ovhcloud.com:8080/mail`
 
 ## Types d'extensions (1)
 
-- **TLD** (Top-Level Domain) (.fr)
-- SLD (Second-Level Domain) (.gouv.fr)
-- 3LD (Third-Level Domain) (.anjo.aichi.jp)
+- **TLD** (Top-Level Domain) : `.fr`
+- SLD (Second-Level Domain) : `.gouv.fr`
+- 3LD (Third-Level Domain) : `.anjo.aichi.jp`
 
 <div class="spacer"></div>
 
@@ -561,7 +561,6 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 ## Caractères spéciaux (non-ASCII)
 
 - **IDN** (International Domain Name) depuis 2003
-
   - pour l'extension et/ou l'étiquette
 
 - Conversion avec l'encodage _Punycode_
@@ -784,7 +783,7 @@ mail3         IN  A     192.0.2.5
 
 ## 🌐 Les DNS racines alternatifs
 
-### 🆓 .libre / 🤓 .geek
+### 🆓 `.libre` / 🤓 `.geek`
 
 ```sh
 ~
@@ -794,6 +793,8 @@ mail3         IN  A     192.0.2.5
 ❯ dig @94.247.43.254 +short be.libre
 161.97.219.84
 ```
+
+<div class="spacer"></div>
 
 🔗 [opennic.org](https://opennic.org/)
 
@@ -879,7 +880,7 @@ Name servers:
 
 <div class="spacer"></div>
 
-🔗 <a href="https://client.rdap.org/?type=domain&object=epitech.eu" target="_blank">Voir RDAP pour epitech.eu</a>
+🔗 <a href="https://client.rdap.org/?type=domain&object=ovhcloud.com" target="_blank">Voir RDAP pour ovhcloud.com</a>
 
 </div>
 
@@ -935,6 +936,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 - 🗂️ Dépositaire des données
 - 👨‍👦‍👦 Bureau d'enregistrement _proxy_
+
+<div class="spacer"></div>
+
 - 🏴‍☠️ Spammer, phisher
 - 💰 Domainer
 
@@ -1149,20 +1153,15 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ## `yu` : Yougoslavie
 
-<!-- Création de l'extension en 1989 -->
-<!-- Scission de la Yougoslavie en 1991 (Slovénie et Croatie deviennent indépendantes) -->
-<!-- Fin 1991 : début de l'exploitation de l'extension .yu -->
+<!-- 1989 : Création de l'extension en 1989 -->
+<!-- 1991 : Scission de la Yougoslavie en 1991 (Slovénie et Croatie deviennent indépendantes) -->
+<!-- 1991 (fin) : début de l'exploitation de l'extension .yu -->
 <!-- 1992 : des agents slovènes volent la base de données et détruisent l'extension -->
-<!-- La Serbie reprend la gestion de l'extension .yu -->
-<!-- 2002 : l'extension n'est plus commercialisée -->
+<!-- 1994 : La Serbie reprend la gestion de l'extension .yu -->
+<!-- 2002 : l'extension n'est plus commercialisée (.rs privilégié pour la Serbie) -->
 <!-- 2010 : suppression définitive, 4 000 domaines détruits -->
 
 </div>
-
----
-
-
-
 
 ---
 
@@ -1282,7 +1281,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <!-- Source : https://newgtlds.icann.org/en/program-status/delegated-strings -->
 
-- Exemple : `yun` validé 2016, ouvre fin octobre 2025
+- Exemple : `yun` validé 2016, ouvert fin octobre 2025
   <!-- https://domainincite.com/31303-cloud-gtld-gets-launch-dates -->
 
 </div>
@@ -1299,14 +1298,14 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 - `paris`
 - `bzh`
-- `asia`
+- `africa`
 
 <div class="hspacer"></div>
 
 - `عرب` <!-- Arab -->
 - `中国` <!-- China -->
 - `コム` <!-- Japan -->
-- `католик` <!-- catholic -->
+- `онлайн` <!-- online -->
 
 </div>
 
