@@ -237,9 +237,9 @@ URL : `https://www.ovhcloud.com:8080/mail`
 
 ## Types d'extensions (1)
 
-- **TLD** (Top-Level Domain)
-- SLD (Second-Level Domain)
-- 3LD (Third-Level Domain)
+- **TLD** (Top-Level Domain) (.fr)
+- SLD (Second-Level Domain) (.gouv.fr)
+- 3LD (Third-Level Domain) (.anjo.aichi.jp)
 
 <div class="spacer"></div>
 
@@ -592,7 +592,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 ![bg cover opacity:0.7](./assets/world-map.png)
 
-## Allégorie
+## Analogie
 
 </div>
 
@@ -795,8 +795,6 @@ mail3         IN  A     192.0.2.5
 161.97.219.84
 ```
 
-<div class="spacer"></div>
-
 🔗 [opennic.org](https://opennic.org/)
 
 </div>
@@ -855,21 +853,11 @@ mail3         IN  A     192.0.2.5
 
 ```txt
 Domain: epitech.eu
-Script: LATIN
-
 Registrant:
         NOT DISCLOSED!
         Visit www.eurid.eu for the web-based WHOIS.
-
 Technical:
         Organisation: Gandi SAS
-        Language: fr
-        Email:
-
-Registrar:
-        Name: GANDI
-        Website: https://www.gandi.net
-
 Name servers:
         earl.ns.cloudflare.com
         donna.ns.cloudflare.com
@@ -1018,7 +1006,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ## `ai` : Anguilla 🇦🇮
 
-<!-- 0,67 % du PIB -->
+<!-- 30 % du PIB -->
+<!-- > 1 million de domaines -->
+<!-- 80$ / an -->
 
 </div>
 
@@ -1100,6 +1090,10 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ## `io` : Territoire britannique de l’océan Indien 🇮🇴
 
+<!-- terre UK jusqu'en 2024 -->
+<!-- retrocédé à l'ile Maurice -->
+<!-- 1,7 million de NDD -->
+
 </div>
 
 ---
@@ -1129,6 +1123,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 <!-- 0,0025% -->
+<!-- interdiction pour entreprise européenne d'envoyer de l'argent -->
 
 ---
 
@@ -1137,7 +1132,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="flex vertical start">
 
-## `hr` ?
+## `yu` ?
 
 </div>
 
@@ -1146,17 +1141,59 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 <!-- CHECKPOINT < 25:00 -->
 <!-- Théo -->
 
-![bg cover opacity:1](./assets/croatia.png)
+![bg cover opacity:1](./assets/yougoslavie.png)
 
-<!-- Source : https://www.openstreetmap.org/?mlat=45.10&mlon=15.20#map=7/45.10/15.20 -->
+<!-- Source : https://www.openstreetmap.org/#map=6/41.80/16.08 -->
 
 <div class="flex vertical start">
 
-## `hr` : Croatie 🇭🇷
+## `yu` : Yougoslavie
+
+<!-- Création de l'extension en 1989 -->
+<!-- Scission de la Yougoslavie en 1991 (Slovénie et Croatie deviennent indépendantes) -->
+<!-- Fin 1991 : début de l'exploitation de l'extension .yu -->
+<!-- 1992 : des agents slovènes volent la base de données et détruisent l'extension -->
+<!-- La Serbie reprend la gestion de l'extension .yu -->
+<!-- 2002 : l'extension n'est plus commercialisée -->
+<!-- 2010 : suppression définitive, 4 000 domaines détruits -->
 
 </div>
 
-<!-- 0,0021% -->
+---
+
+
+
+
+---
+
+<!-- CHECKPOINT < 25:00 -->
+<!-- Théo -->
+
+<div class="flex vertical start">
+
+## `su` ?
+
+</div>
+
+---
+
+<!-- CHECKPOINT < 25:00 -->
+<!-- Théo -->
+
+![bg cover opacity:1](./assets/ussr.png)
+
+<!-- Source : https://www.openstreetmap.org/#map=3/62.92/67.32 -->
+
+<div class="flex vertical start">
+
+## `su` : Union Soviétique
+
+<!-- Création de l'extension en 1990 -->
+<!-- Disparition de l'URSS en 1991, mais l'extension .su reste active -->
+<!-- 2001 : ICANN propose la suppression, mais refusée -->
+<!-- Toujours active en 2026, ≃100 000 domaines -->
+
+</div>
 
 ---
 
@@ -1518,6 +1555,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 <!-- https://www.ntldstats.com/tld/ -->
 <!-- https://domainnamestat.com/statistics/overview -->
 
+<!-- plus ou moins le meme nombre que le .io ou .ai -->
+
 </div>
 
 ---
@@ -1583,7 +1622,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 | **.BLOG** | $ 8_000_000          | Automattic       |
 | **.APP**  | $ 25_001_000         | Google           |
 | **.SHOP** | $ 41_500_000         | GMO Registry     |
-| **.WEB**  | $ 135_000_000        | Verisign (?)     |
+| **.WEB**  | $ 135_000_000        | Verisign         |
 
 <!-- témoignage Radix : https://domainincite.com/28352-interview-sandeep-ramchandani-on-10-years-of-radix-and-new-gtlds -->
 
@@ -1620,6 +1659,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 - 🗓️ À partir d'avril 2026, pendant ~3 mois
   - 🧰 évaluation technique distincte
 - 💰 **227 000$** (réductions possibles… pour ≃40 organisations)
+  - +92 000$ pour backend technique
   - 🔨 enchères internes/externes ? [RFI en cours](https://www.icann.org/fr/announcements/details/icann-rfi-new-gtld-program-next-round-auctions-18-08-2025-fr)
 
 </div>
@@ -1636,7 +1676,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 - 🏢 **Demandeurs** :
   - réservation de sa marque
     <!-- Témoignage Google : https://domainnamewire.com/2025/10/10/google-pitches-dot-brand-top-level-domain-names/ -->
+  - garantir l’authenticité et la sécurité des sites institutionnels
   - vente aux grosses marques
+- 🔄 Début d'un nouveau cycle (?)
 
 </div>
 
@@ -1666,6 +1708,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 - 🔐 NFT / Web 3 : `.eth` -> `web3.js`
 <!-- basé sur les smart contract -->
 - ⚔️ Bataille à venir : `.agi`
+  <!-- artificial general intelligence -->
   <!--https://domainincite.com/31315-ai-rival-lines-up-gtld-bid-->
   <!--https://unstoppabledomains.com/blog/categories/announcements/article/agi-tld-->
 
