@@ -15,7 +15,7 @@ Une plongée dans les coulisses d’un Internet en perpétuelle transformation.
 - 🇫🇷 [Ada Tech School](https://adatechschool.fr/) Nantes, 17 octobre 2025  
   🔎 [_slides_](../adatechschool/slide-deck.pdf)
 - [Epitech](https://www.epitech.eu/) Rennes, 4 février 2026  
-  🔎 [_slides_](../epitech/slide-deck.html)
+  🔎 [_slides_](../epitech/slide-deck.pdf)
 
 ## Remerciements
 
