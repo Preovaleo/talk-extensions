@@ -1281,8 +1281,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <!-- Source : https://newgtlds.icann.org/en/program-status/delegated-strings -->
 
-- Exemple : `yun` validé 2016, ouvert fin octobre 2025
-  <!-- https://domainincite.com/31303-cloud-gtld-gets-launch-dates -->
+- Exemple : `mobile` validé fin 2016, ouvert février 2026
+  <!-- https://domainnamewire.com/2026/02/04/mobile-domain-names-become-available-today/ -->
 
 </div>
 
