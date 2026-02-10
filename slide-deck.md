@@ -1721,9 +1721,10 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 ## #PasAssezDeTempsPourToutDire
 
 - 🛍️ Aftermarket
-<!-- SEDO / Afternic -->
+  <!-- SEDO / Afternic -->
+  <!-- 70M$ pour ai.com en 2025 : https://domainincite.com/31543-ai-com-the-most-expensive-domain-sale-ever -->
 - 🔐 NFT / Web 3 : `.eth` -> `web3.js`
-<!-- basé sur les smart contract -->
+  <!-- basé sur les smart contract -->
 - ⚔️ Bataille à venir : `.agi`
   <!-- artificial general intelligence -->
   <!--https://domainincite.com/31315-ai-rival-lines-up-gtld-bid-->
