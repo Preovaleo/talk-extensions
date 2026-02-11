@@ -853,15 +853,13 @@ mail3         IN  A     192.0.2.5
 - pas de standard pour les clés ni le contenu
 
 ```txt
-Domain: epitech.eu
-Registrant:
-        NOT DISCLOSED!
-        Visit www.eurid.eu for the web-based WHOIS.
-Technical:
-        Organisation: Gandi SAS
-Name servers:
-        earl.ns.cloudflare.com
-        donna.ns.cloudflare.com
+Domain Name: touraine.tech
+Updated Date: 2025-08-11T10:48:29Z
+Creation Date: 2017-09-10T12:38:12Z
+Registrar Registration Expiration Date: 2026-09-10T12:46:09+02:00
+Registrar: OVH, SAS
+Registrant Name: REDACTED FOR PRIVACY
+Registry Registrant ID: REDACTED FOR PRIVACY
 ```
 
 </div>
@@ -880,7 +878,7 @@ Name servers:
 
 <div class="spacer"></div>
 
-🔗 <a href="https://client.rdap.org/?type=domain&object=ovhcloud.com" target="_blank">Voir RDAP pour ovhcloud.com</a>
+🔗 <a href="https://client.rdap.org/?type=domain&object=touraine.tech" target="_blank">Voir RDAP pour touraine.tech</a>
 
 </div>
 
