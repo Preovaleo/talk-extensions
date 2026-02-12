@@ -97,3 +97,8 @@ div > ul > li + li {
     font-size: 50%;
     text-align: left;
 }
+
+.backgroundColorWhite img {
+    background-color: white !important;
+    padding: 15px;
+}

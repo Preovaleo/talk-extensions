@@ -31,7 +31,15 @@ class:
 
 <div class="spacer"></div>
 
-Théo Bougé & Benoît Masson – OVHcloud
+Théo Bougé & Benoît Masson - ![width:250px](./assets/ovh_white.svg)
+
+<div class="spacer"></div>
+
+<div class="backgroundColorWhite">
+
+![width:300px](./assets/touraine_tech.svg)
+
+</div>
 
 </div>
 
@@ -64,9 +72,7 @@ Développeur Domaines
 
 </div>
 
-![width:300px](./assets/logo%20ovhcloud.png)
-
-</div>
+![width:300px](./assets/ovh_white.svg)
 
 ---
 
