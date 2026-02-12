@@ -17,7 +17,7 @@ Une plongée dans les coulisses d’un Internet en perpétuelle transformation.
 - [Epitech](https://www.epitech.eu/) Rennes, 4 février 2026
   🔎 [_slides_](../epitech/slide-deck.pdf)
 - [touraine.tech](https://touraine.tech/) Tours, 12 février 2026
-  🔎 [_slides_](../touraine.tech/slide-deck.html)
+  🔎 [_slides_](../touraine.tech/slide-deck.pdf)
 
 ## Remerciements
 
