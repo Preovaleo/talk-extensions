@@ -1744,11 +1744,17 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="flex vertical space-between">
 
-# Questions
+# Questions & feedbacks
+
+<div class="horizontal space-between bottom-align">
 
 <div class="footnotes">
 
 Crédits images: [Unsplash](https://unsplash.com) et [Freepik](https://www.freepik.com)
 Slides: [https://github.com/Preovaleo/talk-extensions](https://https://github.com/Preovaleo/talk-extensions/)
+
+</div>
+
+![width:300px](./assets/qr-feedbacks-touraine-tech.png)
 
 </div>
