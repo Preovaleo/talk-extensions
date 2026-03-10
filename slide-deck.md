@@ -1672,12 +1672,13 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 ## Processus
 
 <!-- Infos : https://newgtldprogram.icann.org/en/resources/ChampionsToolkit -->
+<!-- Dates : https://domainincite.com/31571-icann-maps-out-new-gtld-timeline -->
 
 **Pré-requis** : capacité technique, vision long-terme
 
 <div class="spacer"/>
 
-- 🗓️ À partir d'avril 2026, pendant ~3 mois
+- 🗓️ À partir du 30 avril 2026, pendant ~3 mois
   - 🧰 évaluation technique distincte
 - 💰 **227 000$** (réductions possibles… pour ≃40 organisations)
   - +92 000$ pour backend technique
@@ -1697,6 +1698,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 - 🏢 **Demandeurs** :
   - réservation de sa marque
     <!-- Témoignage Google : https://domainnamewire.com/2025/10/10/google-pitches-dot-brand-top-level-domain-names/ -->
+    <!-- Arguments Netim : https://blog.netim.com/fr/noms-de-domaine/extension-personnalisee-dotbrand-point-marque-15123/#Pourquoi_creer_sa_propre_extension -->
   - garantir l’authenticité et la sécurité des sites institutionnels
   - vente aux grosses marques
 - 🔄 Début d'un nouveau cycle (?)
