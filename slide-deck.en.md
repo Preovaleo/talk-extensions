@@ -689,14 +689,16 @@ mail3         IN  A     192.0.2.5
 - 📝 Plain text
 - 🤯 No standard keys definition
 
-```txt //TODO: replace
-Domain Name: touraine.tech
-Updated Date: 2025-08-11T10:48:29Z
-Creation Date: 2017-09-10T12:38:12Z
-Registrar Registration Expiration Date: 2026-09-10T12:46:09+02:00
+```txt
+Domain Name: ovhcloud.com
 Registrar: OVH, SAS
+Registrar WHOIS Server: whois.ovh.com
+Creation Date: 2011-11-24T14:49:05Z
+Updated Date: 2024-03-27T11:12:22Z
+Registrar Registration Expiration Date: 2032-11-24T14:49:05+01:00
 Registrant Name: REDACTED FOR PRIVACY
 Registry Registrant ID: REDACTED FOR PRIVACY
+…
 ```
 
 </div>
