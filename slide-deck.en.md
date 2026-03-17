@@ -446,9 +446,11 @@ Public list (_unofficial_) at <https://publicsuffix.org/list/>
 
 ![bg cover opacity:0.7](./assets/world-map.png)
 
-## tales // TODO: trouver un titre (Legend?)
+## A Postal Tale
 
 </div>
+
+<!-- What is the address of the DC in Mumbai -->
 
 ---
 
@@ -460,6 +462,8 @@ Public list (_unofficial_) at <https://publicsuffix.org/list/>
 ![URI height:650px](assets/villea.png)
 
 </div>
+
+<!-- Here is the guy who knows a guy -->
 
 ---
 
@@ -473,6 +477,9 @@ Public list (_unofficial_) at <https://publicsuffix.org/list/>
 
 </div>
 
+<!-- Here are some post offices -->
+<!-- The Mumbai one is the one in the middle -->
+
 ---
 
 <!-- CHECKPOINT < 10:00 -->
@@ -483,6 +490,8 @@ Public list (_unofficial_) at <https://publicsuffix.org/list/>
 ![URI height:650px](assets/villec.png)
 
 </div>
+
+<!-- Each post office knows its neighborhood -->
 
 ---
 
@@ -495,6 +504,9 @@ Public list (_unofficial_) at <https://publicsuffix.org/list/>
 
 </div>
 
+<!-- Ask your buddy -->
+<!-- He says: I don't know, but I know where the post office is -->
+
 ---
 
 <!-- CHECKPOINT < 10:00 -->
@@ -505,6 +517,9 @@ Public list (_unofficial_) at <https://publicsuffix.org/list/>
 ![URI height:650px](assets/villee.png)
 
 </div>
+
+<!-- You go to the post office -->
+<!-- I know where it is -->
 
 ---
 
@@ -548,6 +563,11 @@ mail3         IN  A     192.0.2.5
 ```
 
 </div>
+
+<!-- This is an export of a dns zone -->
+<!-- Zone is a database -->
+<!-- Difference between IPv4 and IPv6 is GPS vs address -->
+<!-- Both say the same thing -->
 
 ---
 
