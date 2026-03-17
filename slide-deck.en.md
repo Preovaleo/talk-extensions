@@ -21,23 +21,17 @@ class:
 
 ![bg cover opacity:0.7](./assets/network.jpg)
 
-<!-- Photo de <a href="https://unsplash.com/fr/@choys_">Conny Schneider</a> sur <a href="https://unsplash.com/fr/photos/a-blue-background-with-lines-and-dots-xuTJZ7uD7PI">Unsplash</a> -->
+<!-- Photo from <a href="https://unsplash.com/fr/@choys_">Conny Schneider</a> on <a href="https://unsplash.com/fr/photos/a-blue-background-with-lines-and-dots-xuTJZ7uD7PI">Unsplash</a> -->
 
-# The Great Tale
+# **Domain Names:**
 
-### of Humble Domain Names
+## The Great Tale of
 
-## **Extensions**
+### Humble **Extensions**
 
 <div class="spacer"></div>
 
 Théo Bougé & Benoît Masson - ![width:250px](./assets/ovh_white.svg)
-
-<div class="spacer"></div>
-
-<div class="backgroundColorWhite">
-
-</div>
 
 </div>
 
@@ -55,7 +49,7 @@ Théo Bougé & Benoît Masson - ![width:250px](./assets/ovh_white.svg)
 
 ![width:200px](./assets/theo.png)
 
-<sre@pu.domains>
+sre@pu.domains
 
 </div>
 <div class="vertical start">
@@ -64,7 +58,7 @@ Théo Bougé & Benoît Masson - ![width:250px](./assets/ovh_white.svg)
 
 ![width:200px](./assets/benoit.jpg)
 
-<developer@pu.domains>
+developer@pu.domains
 
 </div>
 
@@ -76,7 +70,7 @@ Théo Bougé & Benoît Masson - ![width:250px](./assets/ovh_white.svg)
 
 ![bg cover opacity:0.5](./assets/dictionary.jpg)
 
-<!-- Photo de <a href="https://unsplash.com/fr/@joshua_hoehne">Joshua Hoehne</a> sur <a href="https://unsplash.com/fr/photos/papier-dimprimante-blanc-avec-texte-noir-1UDjq8s8cy0">Unsplash</a> -->
+<!-- Photo from <a href="https://unsplash.com/fr/@joshua_hoehne">Joshua Hoehne</a> on <a href="https://unsplash.com/fr/photos/papier-dimprimante-blanc-avec-texte-noir-1UDjq8s8cy0">Unsplash</a> -->
 
 <div class="flex vertical space-around">
 
@@ -88,11 +82,11 @@ Théo Bougé & Benoît Masson - ![width:250px](./assets/ovh_white.svg)
 
 ---
 
-<!-- CHECKPOINT < 08:00 -->
+<!-- CHECKPOINT < 06:00 -->
 
 <div class="flex vertical start">
 
-## Domain name
+## Domain Name
 
 URL: `https://www.ovhcloud.com:8080/mail`
 
@@ -100,16 +94,16 @@ URL: `https://www.ovhcloud.com:8080/mail`
 
 ---
 
-<!-- CHECKPOINT < 08:00 -->
+<!-- CHECKPOINT < 06:00 -->
 
 <div class="flex vertical start">
 
-## Domain name
+## Domain Name
 
 URL: `https://www.ovhcloud.com:8080/mail`
 
 - `https`: protocol
-- `www`: host name / sub domain
+- `www`: host name / sub-domain
 - `ovhcloud.com`: **domain name**
 - `8080`: port
 - `/mail`: access path
@@ -118,7 +112,7 @@ URL: `https://www.ovhcloud.com:8080/mail`
 
 ---
 
-<!-- CHECKPOINT < 08:00 -->
+<!-- CHECKPOINT < 06:00 -->
 
 <div class="flex vertical start">
 
@@ -131,7 +125,7 @@ URL: `https://www.ovhcloud.com:8080/mail`
 
 ---
 
-<!-- CHECKPOINT < 08:00 -->
+<!-- CHECKPOINT < 06:00 -->
 
 <div class="flex vertical start">
 
@@ -143,7 +137,7 @@ URL: `https://www.ovhcloud.com:8080/mail`
 
 ---
 
-<!-- CHECKPOINT < 08:00 -->
+<!-- CHECKPOINT < 06:00 -->
 
 <div class="flex vertical start">
 
@@ -156,7 +150,7 @@ URL: `https://www.ovhcloud.com:8080/mail`
 
 ---
 
-<!-- CHECKPOINT < 08:00 -->
+<!-- CHECKPOINT < 06:00 -->
 
 <div class="flex vertical start">
 
@@ -170,7 +164,7 @@ URL: `https://www.ovhcloud.com:8080/mail`
 
 ---
 
-<!-- CHECKPOINT < 08:00 -->
+<!-- CHECKPOINT < 06:00 -->
 
 <div class="flex vertical start">
 
@@ -179,46 +173,13 @@ URL: `https://www.ovhcloud.com:8080/mail`
 - `toto.fr` => `fr`
 - `com.toto.fr` => `fr`
 - `toto.gouv.fr` => `gouv.fr`
-- `toto.com.fr`
-
-</div>
-
----
-
-<!-- CHECKPOINT < 08:00 -->
-
-<div class="flex vertical start">
-
-### Quizz: Who's that ~~Pokemon~~ Extension?
-
-- `toto.fr` => `fr`
-- `com.toto.fr` => `fr`
-- `toto.gouv.fr` => `gouv.fr`
-- `toto.com.fr` => `com.fr`
-- `toto.fr.com`
-
-</div>
-
----
-
-<!-- CHECKPOINT < 08:00 -->
-
-<div class="flex vertical start">
-
-### Quizz: Who's that ~~Pokemon~~ Extension?
-
-- `toto.fr` => `fr`
-- `com.toto.fr` => `fr`
-- `toto.gouv.fr` => `gouv.fr`
-- `toto.com.fr` => `com.fr` // TODO: remove
-- `toto.fr.com` => `com` // TODO: remove
 - `toto.notaires.fr`
 
 </div>
 
 ---
 
-<!-- CHECKPOINT < 08:00 -->
+<!-- CHECKPOINT < 06:00 -->
 
 <div class="flex vertical start">
 
@@ -227,15 +188,13 @@ URL: `https://www.ovhcloud.com:8080/mail`
 - `toto.fr` => `fr`
 - `com.toto.fr` => `fr`
 - `toto.gouv.fr` => `gouv.fr`
-- `toto.com.fr` => `com.fr`
-- `toto.fr.com` => `com`
 - `toto.notaires.fr` => `fr`
 
 </div>
 
 ---
 
-<!-- CHECKPOINT < 08:00 -->
+<!-- CHECKPOINT < 06:00 -->
 
 <div class="flex vertical start">
 
@@ -247,13 +206,13 @@ URL: `https://www.ovhcloud.com:8080/mail`
 
 <div class="spacer"></div>
 
-Public list (_unofficial_) @ <https://publicsuffix.org/list/>
+Public list (_unofficial_) at <https://publicsuffix.org/list/>
 
 </div>
 
 ---
 
-<!-- CHECKPOINT < 08:00 -->
+<!-- CHECKPOINT < 06:00 -->
 
 <div class="flex vertical start">
 
@@ -266,7 +225,7 @@ Public list (_unofficial_) @ <https://publicsuffix.org/list/>
 
 ---
 
-<!-- CHECKPOINT < 08:00 -->
+<!-- CHECKPOINT < 06:00 -->
 
 <div class="flex vertical start">
 
@@ -280,7 +239,7 @@ Public list (_unofficial_) @ <https://publicsuffix.org/list/>
 
 ---
 
-<!-- CHECKPOINT < 08:00 -->
+<!-- CHECKPOINT < 06:00 -->
 
 <div class="flex vertical start">
 
@@ -295,7 +254,7 @@ Public list (_unofficial_) @ <https://publicsuffix.org/list/>
 
 ---
 
-<!-- CHECKPOINT < 08:00 -->
+<!-- CHECKPOINT < 06:00 -->
 
 <div class="flex vertical start">
 
@@ -305,30 +264,13 @@ Public list (_unofficial_) @ <https://publicsuffix.org/list/>
 
 - `fr` => 🇫🇷
 - `com` => 🌍
-- `co`
-
-</div>
-
----
-
-<!-- CHECKPOINT < 08:00 -->
-
-<div class="flex vertical start">
-
-## Quizz: ccTLD 🏳️‍🌈 or gTLD 🌍 ?
-
-<div class="horizontal start">
-
-- `fr` => 🇫🇷
-- `com` => 🌍
-- `co` => 🇨🇴
 - `gouv.fr`
 
 </div>
 
 ---
 
-<!-- CHECKPOINT < 08:00 -->
+<!-- CHECKPOINT < 06:00 -->
 
 <div class="flex vertical start">
 
@@ -338,7 +280,6 @@ Public list (_unofficial_) @ <https://publicsuffix.org/list/>
 
 - `fr` => 🇫🇷
 - `com` => 🌍
-- `co` => 🇨🇴
 - `gouv.fr` => 🇫🇷
 - `bzh`
 
@@ -346,7 +287,7 @@ Public list (_unofficial_) @ <https://publicsuffix.org/list/>
 
 ---
 
-<!-- CHECKPOINT < 08:00 -->
+<!-- CHECKPOINT < 06:00 -->
 
 <div class="flex vertical start">
 
@@ -356,29 +297,8 @@ Public list (_unofficial_) @ <https://publicsuffix.org/list/>
 
 - `fr` => 🇫🇷
 - `com` => 🌍
-- `co` => 🇨🇴
 - `gouv.fr` => 🇫🇷
 - `bzh` => 🌍
-- `eu`
-
-</div>
-
----
-
-<!-- CHECKPOINT < 08:00 -->
-
-<div class="flex vertical start">
-
-## Quizz: ccTLD 🏳️‍🌈 or gTLD 🌍 ?
-
-<div class="horizontal start">
-
-- `fr` => 🇫🇷
-- `com` => 🌍
-- `co` => 🇨🇴
-- `gouv.fr` => 🇫🇷
-- `bzh` => 🌍
-- `eu` => 🇪🇺
 
 <div class="hspacer"></div>
 
@@ -390,7 +310,7 @@ Public list (_unofficial_) @ <https://publicsuffix.org/list/>
 
 ---
 
-<!-- CHECKPOINT < 08:00 -->
+<!-- CHECKPOINT < 06:00 -->
 
 <div class="flex vertical start">
 
@@ -400,10 +320,8 @@ Public list (_unofficial_) @ <https://publicsuffix.org/list/>
 
 - `fr` => 🇫🇷
 - `com` => 🌍
-- `co` => 🇨🇴
 - `gouv.fr` => 🇫🇷
 - `bzh` => 🌍
-- `eu` => 🇪🇺
 
 <div class="hspacer"></div>
 
@@ -416,7 +334,7 @@ Public list (_unofficial_) @ <https://publicsuffix.org/list/>
 
 ---
 
-<!-- CHECKPOINT < 08:00 -->
+<!-- CHECKPOINT < 06:00 -->
 
 <div class="flex vertical start">
 
@@ -426,10 +344,8 @@ Public list (_unofficial_) @ <https://publicsuffix.org/list/>
 
 - `fr` => 🇫🇷
 - `com` => 🌍
-- `co` => 🇨🇴
 - `gouv.fr` => 🇫🇷
 - `bzh` => 🌍
-- `eu` => 🇪🇺
 
 <div class="hspacer"></div>
 
@@ -443,7 +359,7 @@ Public list (_unofficial_) @ <https://publicsuffix.org/list/>
 
 ---
 
-<!-- CHECKPOINT < 08:00 -->
+<!-- CHECKPOINT < 06:00 -->
 
 <div class="flex vertical start">
 
@@ -453,10 +369,8 @@ Public list (_unofficial_) @ <https://publicsuffix.org/list/>
 
 - `fr` => 🇫🇷
 - `com` => 🌍
-- `co` => 🇨🇴
 - `gouv.fr` => 🇫🇷
 - `bzh` => 🌍
-- `eu` => 🇪🇺
 
 <div class="hspacer"></div>
 
@@ -467,11 +381,9 @@ Public list (_unofficial_) @ <https://publicsuffix.org/list/>
 
 </div>
 
-</div>
-
 ---
 
-<!-- CHECKPOINT < 08:00 -->
+<!-- CHECKPOINT < 06:00 -->
 
 <div class="flex vertical start">
 
@@ -481,10 +393,8 @@ Public list (_unofficial_) @ <https://publicsuffix.org/list/>
 
 - `fr` => 🇫🇷
 - `com` => 🌍
-- `co` => 🇨🇴
 - `gouv.fr` => 🇫🇷
 - `bzh` => 🌍
-- `eu` => 🇪🇺
 
 <div class="hspacer"></div>
 
@@ -492,7 +402,6 @@ Public list (_unofficial_) @ <https://publicsuffix.org/list/>
 - `asia` => 🌍
 - `dev` => 🌍
 - `ai` => 🇦🇮
-- `tv`
 
 </div>
 
@@ -500,85 +409,27 @@ Public list (_unofficial_) @ <https://publicsuffix.org/list/>
 
 ---
 
-<!-- CHECKPOINT < 08:00 -->
+<!-- CHECKPOINT < 06:00 -->
 
 <div class="flex vertical start">
 
-## Quizz: ccTLD 🏳️‍🌈 or gTLD 🌍 ?
-
-<div class="horizontal start">
-
-- `fr` => 🇫🇷
-- `com` => 🌍
-- `co` => 🇨🇴
-- `gouv.fr` => 🇫🇷
-- `bzh` => 🌍
-- `eu` => 🇪🇺
-
-<div class="hspacer"></div>
-
-- `ευ` => 🇪🇺
-- `asia` => 🌍
-- `dev` => 🌍
-- `ai` => 🇦🇮
-- `tv` => 🇹🇻
-- `radio`
-
-</div>
-
----
-
-<!-- CHECKPOINT < 08:00 -->
-
-<div class="flex vertical start">
-
-## Quizz: ccTLD 🏳️‍🌈 or gTLD 🌍 ?
-
-<div class="horizontal start">
-
-- `fr` => 🇫🇷
-- `com` => 🌍
-- `co` => 🇨🇴 // TODO: remove
-- `gouv.fr` => 🇫🇷
-- `bzh` => 🌍
-- `eu` => 🇪🇺 // TODO: remove
-
-<div class="hspacer"></div>
-
-- `ευ` => 🇪🇺
-- `asia` => 🌍
-- `dev` => 🌍
-- `ai` => 🇦🇮
-- `tv` => 🇹🇻 // TODO: remove
-- `radio` => 🌍 // TODO: remove
-
-</div>
-
-</div>
-
----
-
-<!-- CHECKPOINT < 08:00 -->
-
-<div class="flex vertical start">
-
-## Special chars (non-ASCII)
+## Special characters (non-ASCII)
 
 - **IDN** (International Domain Name) since 2003
   - for label and/or extension
 
-- encoding _Unicode_ to _Punycode_
+- Used to encode _Unicode_ as _Punycode_
   - `ευ` <=> `xn--qxa6a`
 
 </div>
 
 ---
 
-<!-- CHECKPOINT < 08:00 -->
+<!-- CHECKPOINT < 06:00 -->
 
 ![bg cover opacity:0.5](./assets/directions.jpg)
 
-<!-- Photo de <a href="https://unsplash.com/fr/@j_harris_391">Joshua Harris</a> sur <a href="https://unsplash.com/fr/photos/un-poteau-avec-un-tas-de-panneaux-de-signalisation-jaunes-dessus-BwH31YGYXho">Unsplash</a> -->
+<!-- Photo from <a href="https://unsplash.com/fr/@j_harris_391">Joshua Harris</a> on <a href="https://unsplash.com/fr/photos/un-poteau-avec-un-tas-de-panneaux-de-signalisation-jaunes-dessus-BwH31YGYXho">Unsplash</a> -->
 
 <div class="flex vertical space-around">
 
@@ -588,20 +439,20 @@ Public list (_unofficial_) @ <https://publicsuffix.org/list/>
 
 ---
 
-<!-- CHECKPOINT < 15:00 -->
+<!-- CHECKPOINT < 10:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
 
 ![bg cover opacity:0.7](./assets/world-map.png)
 
-## tales // TODO: trouver un titre
+## tales // TODO: trouver un titre (Legend?)
 
 </div>
 
 ---
 
-<!-- CHECKPOINT < 15:00 -->
+<!-- CHECKPOINT < 10:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -612,7 +463,7 @@ Public list (_unofficial_) @ <https://publicsuffix.org/list/>
 
 ---
 
-<!-- CHECKPOINT < 15:00 -->
+<!-- CHECKPOINT < 10:00 -->
 
 <!-- Théo -->
 
@@ -624,7 +475,7 @@ Public list (_unofficial_) @ <https://publicsuffix.org/list/>
 
 ---
 
-<!-- CHECKPOINT < 15:00 -->
+<!-- CHECKPOINT < 10:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -635,7 +486,7 @@ Public list (_unofficial_) @ <https://publicsuffix.org/list/>
 
 ---
 
-<!-- CHECKPOINT < 15:00 -->
+<!-- CHECKPOINT < 10:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -646,7 +497,7 @@ Public list (_unofficial_) @ <https://publicsuffix.org/list/>
 
 ---
 
-<!-- CHECKPOINT < 15:00 -->
+<!-- CHECKPOINT < 10:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -657,7 +508,7 @@ Public list (_unofficial_) @ <https://publicsuffix.org/list/>
 
 ---
 
-<!-- CHECKPOINT < 15:00 -->
+<!-- CHECKPOINT < 10:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -668,7 +519,7 @@ Public list (_unofficial_) @ <https://publicsuffix.org/list/>
 
 ---
 
-<!-- CHECKPOINT < 15:00 -->
+<!-- CHECKPOINT < 10:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -700,92 +551,76 @@ mail3         IN  A     192.0.2.5
 
 ---
 
-<!-- CHECKPOINT < 15:00 -->
+<!-- CHECKPOINT < 10:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
 
 ## Quizz ❓🧭
 
-- <www.toto.fr> ? 🔍
+- www.toto.fr ? 🔍
 
 </div>
 
 ---
 
-<!-- CHECKPOINT < 15:00 -->
+<!-- CHECKPOINT < 10:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
 
 ## Quizz ❓🧭
 
-- <www.toto.fr> ? 🔍
+- www.toto.fr ? 🔍
   DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.fr ✅
-- <www.toto.gouv.fr> ? 🏛️
+- www.toto.gouv.fr ? 🏛️
 
 </div>
 
 ---
 
-<!-- CHECKPOINT < 15:00 -->
+<!-- CHECKPOINT < 10:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
 
 ## Quizz ❓🧭
 
-- <www.toto.fr> ? 🔍
+- www.toto.fr ? 🔍
   DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.fr ✅
-- <www.toto.gouv.fr> ? 🏛️
+- www.toto.gouv.fr ? 🏛️
   DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.gouv.fr ✅
-- <www.toto.notaires.fr> ? 👩‍⚖️
+- www.toto.notaires.fr ? 👩‍⚖️
 
 </div>
 
 ---
 
-<!-- CHECKPOINT < 15:00 -->
+<!-- CHECKPOINT < 10:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
 
 ## Quizz ❓🧭
 
-- <www.toto.gouv.fr> ? 🏛️
+- www.toto.fr ? 🔍
+  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.fr ✅
+- www.toto.gouv.fr ? 🏛️
   DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.gouv.fr ✅
-- <www.toto.notaires.fr> ? 👩‍⚖️
+- www.toto.notaires.fr ? 👩‍⚖️
   DNS root 🌐 -> DNS fr 🇫🇷 -> DNS notaires.fr 👩‍⚖️
   -> DNS toto.notaires.fr ✅
-- <www.toto.co.uk> ? 🇬🇧
 
 </div>
 
 ---
 
-<!-- CHECKPOINT < 15:00 -->
+<!-- CHECKPOINT < 10:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
 
-## Quizz ❓🧭
-
-- <www.toto.notaires.fr> ? 👩‍⚖️
-  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS notaires.fr 👩‍⚖️
-  -> DNS toto.notaires.fr ✅
-- <www.toto.co.uk> ? 🇬🇧 // TODO: remove
-  DNS root 🌐 -> DNS uk 🇬🇧 -> DNS toto.co.uk ✅
-
-</div>
-
----
-
-<!-- CHECKPOINT < 15:00 -->
-<!-- Théo -->
-
-<div class="flex vertical start">
-
-## 🌐 Alternative root
+## 🌐 Alternative Root
 
 ### 🆓 `.libre` / 🤓 `.geek`
 
@@ -806,18 +641,16 @@ mail3         IN  A     192.0.2.5
 
 ---
 
-<!-- CHECKPOINT < 15:00 -->
+<!-- CHECKPOINT < 10:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
 
 ## 🧅 .onion
 
-###
-
-- Hidden service "tor"
-- Anonyme et secured 🔒
-- Not accessible trough standard DNS software
+- 🫥 "Hidden" services on Tor network
+- 🔒 Anonymous and secured
+- 🚧 Not accessible through standard DNS software
 
 <div class="spacer"></div>
 
@@ -827,21 +660,21 @@ mail3         IN  A     192.0.2.5
 
 ---
 
-<!-- CHECKPOINT < 15:00 -->
+<!-- CHECKPOINT < 10:00 -->
 
 ![bg cover opacity:0.3](./assets/phone-book.jpg)
 
-<!-- Photo de <a href="https://unsplash.com/fr/@portmorien">Port Morien Digital Archive</a> sur <a href="https://unsplash.com/fr/photos/xPUzCnR_Vrw">Unsplash</a> -->
+<!-- Photo from <a href="https://unsplash.com/fr/@portmorien">Port Morien Digital Archive</a> on <a href="https://unsplash.com/fr/photos/xPUzCnR_Vrw">Unsplash</a> -->
 
 <div class="flex vertical space-around">
 
-# 3. Whois/RDAP directory
+# 3. Whois/RDAP Directory
 
 </div>
 
 ---
 
-<!-- CHECKPOINT < 17:00 -->
+<!-- CHECKPOINT < 12:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -853,8 +686,8 @@ mail3         IN  A     192.0.2.5
 
 ## Whois 👶 1982 → ☠️ 2025
 
-- 📝 raw text,
-- no standard keys defintion
+- 📝 Plain text
+- 🤯 No standard keys definition
 
 ```txt //TODO: replace
 Domain Name: touraine.tech
@@ -870,7 +703,7 @@ Registry Registrant ID: REDACTED FOR PRIVACY
 
 ---
 
-<!-- CHECKPOINT < 17:00 -->
+<!-- CHECKPOINT < 12:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -878,7 +711,7 @@ Registry Registrant ID: REDACTED FOR PRIVACY
 ## RDAP 🚀 2015 → ✅ 2025+
 
 - 🧾 JSON + jCard with HTTPs
-- structured & machine readable,
+- 🕸️ Structured & machine-readable
 
 <div class="spacer"></div>
 
@@ -888,11 +721,11 @@ Registry Registrant ID: REDACTED FOR PRIVACY
 
 ---
 
-<!-- CHECKPOINT < 17:00 -->
+<!-- CHECKPOINT < 12:00 -->
 
 ![bg cover opacity:0.8](./assets/actors.jpg)
 
-<!-- Photo de <a href="https://unsplash.com/fr/@kyleunderscorehead">Kyle Head</a> sur <a href="https://unsplash.com/fr/photos/silhouette-de-trois-interprete
+<!-- Photo from <a href="https://unsplash.com/fr/@kyleunderscorehead">Kyle Head</a> on <a href="https://unsplash.com/fr/photos/silhouette-de-trois-interprete
 s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="flex vertical space-around">
@@ -903,13 +736,13 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
-<!-- CHECKPOINT < 20:00 -->
+<!-- CHECKPOINT < 14:00 -->
 
 <div class="flex vertical start">
 
 ## Main Actors
 
-![height:500px](./assets/actors.png) //TODO: update image
+![height:500px](./assets/actors.en.png)
 
 <!-- ICANN (Internet Corporation for Assigned Names and Numbers): créée en 1998, "indépendante" en 2016 -->
 
@@ -917,11 +750,11 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
-<!-- CHECKPOINT < 20:00 -->
+<!-- CHECKPOINT < 14:00 -->
 
 ![bg cover opacity:0.7](./assets/countries.jpg)
 
-<!-- Photo de <a href="https://unsplash.com/fr/@lemonvlad">Vladislav Klapin</a> sur <a href="https://unsplash.com/fr/photos/pavillon-assorti-YeO44yVTl20">Unsplash</a> -->
+<!-- Photo from <a href="https://unsplash.com/fr/@lemonvlad">Vladislav Klapin</a> on <a href="https://unsplash.com/fr/photos/pavillon-assorti-YeO44yVTl20">Unsplash</a> -->
 
 <div class="flex vertical space-around">
 
@@ -931,7 +764,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
-<!-- CHECKPOINT < 25:00 -->
+<!-- CHECKPOINT < 20:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -942,7 +775,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
-<!-- CHECKPOINT < 25:00 -->
+<!-- CHECKPOINT < 20:00 -->
 <!-- Théo -->
 
 ![bg cover opacity:1](./assets/tuvalu.png)
@@ -959,7 +792,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
-<!-- CHECKPOINT < 25:00 -->
+<!-- CHECKPOINT < 20:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -970,7 +803,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
-<!-- CHECKPOINT < 25:00 -->
+<!-- CHECKPOINT < 20:00 -->
 <!-- Théo -->
 
 ![bg cover opacity:1](./assets/anguilla.png)
@@ -989,7 +822,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
-<!-- CHECKPOINT < 25:00 -->
+<!-- CHECKPOINT < 20:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -1000,7 +833,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
-<!-- CHECKPOINT < 25:00 -->
+<!-- CHECKPOINT < 20:00 -->
 <!-- Théo -->
 
 ![bg cover opacity:1](./assets/mayotte.png)
@@ -1015,7 +848,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
-<!-- CHECKPOINT < 25:00 -->
+<!-- CHECKPOINT < 20:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -1026,7 +859,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
-<!-- CHECKPOINT < 25:00 -->
+<!-- CHECKPOINT < 20:00 -->
 <!-- Théo -->
 
 ![bg cover opacity:1](./assets/libya.png)
@@ -1035,7 +868,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="flex vertical start">
 
-## `ly`: Libye 🇱🇾
+## `ly`: Libya 🇱🇾
 
 </div>
 
@@ -1043,7 +876,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
-<!-- CHECKPOINT < 25:00 -->
+<!-- CHECKPOINT < 20:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
@@ -1054,7 +887,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
-<!-- CHECKPOINT < 25:00 -->
+<!-- CHECKPOINT < 20:00 -->
 <!-- Théo -->
 
 ![bg cover opacity:1](./assets/yougoslavie.png)
@@ -1063,7 +896,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="flex vertical start">
 
-## `yu`: Yougoslavie
+## `yu`: Yugoslavia
 
 <!-- 1989: Création de l'extension en 1989 -->
 <!-- 1991: Scission de la Yougoslavie en 1991 (Slovénie et Croatie deviennent indépendantes) -->
@@ -1077,11 +910,11 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
-<!-- CHECKPOINT < 25:00 -->
+<!-- CHECKPOINT < 20:00 -->
 
 ![bg cover opacity:0.8](./assets/earth.jpg)
 
-<!-- Photo de <a href="https://unsplash.com/fr/@carl_wang">Carl Wang</a> sur <a href="https://unsplash.com/fr/photos/une-vue-de-la-terre-depuis-lespace-OCe8cTGymSQ">Unsplash</a> -->
+<!-- Photo from <a href="https://unsplash.com/fr/@carl_wang">Carl Wang</a> on <a href="https://unsplash.com/fr/photos/une-vue-de-la-terre-depuis-lespace-OCe8cTGymSQ">Unsplash</a> -->
 
 <div class="flex vertical space-around">
 
@@ -1091,7 +924,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
-<!-- CHECKPOINT < 40:00 -->
+<!-- CHECKPOINT < 28:00 -->
 
 <div class="flex vertical start">
 
@@ -1105,7 +938,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
-<!-- CHECKPOINT < 40:00 -->
+<!-- CHECKPOINT < 28:00 -->
 
 <div class="flex vertical start">
 
@@ -1114,9 +947,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 <div class="horizontal start">
 
 - Application fees
-  **185 000$**
-- Processus ➡️
-  (si conflits)
+  **$ 185 000**
+- Process  ➡️
 
 <div class="hspacer"></div>
 
@@ -1129,24 +961,24 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
-<!-- CHECKPOINT < 40:00 -->
+<!-- CHECKPOINT < 28:00 -->
 
 <div class="flex vertical start">
 
-## Last delegations
+## Last Delegations
 
 ![height:400px](./assets/delegated%20strings.png)
 
 <!-- Source: https://newgtlds.icann.org/en/program-status/delegated-strings -->
 
-- Example: `mobile` delegated end of 2016, GA february 2026
+- Example: `mobile` delegated end of 2016, GA February 2026
   <!-- https://domainnamewire.com/2026/02/04/mobile-domain-names-become-available-today/ -->
 
 </div>
 
 ---
 
-<!-- CHECKPOINT < 40:00 -->
+<!-- CHECKPOINT < 28:00 -->
 
 <div class="flex vertical start">
 
@@ -1168,7 +1000,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
-<!-- CHECKPOINT < 40:00 -->
+<!-- CHECKPOINT < 28:00 -->
 <!-- Théo -->
 
 <!-- _backgroundColor: darkslategray -->
@@ -1188,7 +1020,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
-<!-- CHECKPOINT < 40:00 -->
+<!-- CHECKPOINT < 28:00 -->
 
 <div class="flex vertical start">
 
@@ -1200,22 +1032,25 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
-<!-- CHECKPOINT < 40:00 -->
+<!-- CHECKPOINT < 28:00 -->
+<!-- Théo -->
 
-<div class="flex vertical start"> // todo change color
+<!-- _backgroundColor: darkslategray -->
+
+<div class="flex vertical start">
 
 ## Constrained Extensions
 
 - `dev`, `app` (mandatory HTTPS)
-- enforced by modern browsers
+  ⇒ Enforced by modern browsers
 
 </div>
 
 ---
 
-<!-- CHECKPOINT < 40:00 -->
+<!-- CHECKPOINT < 28:00 -->
 
-## Business model
+## Business Model
 
 <div class="flex vertical start">
 
@@ -1225,7 +1060,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
-<!-- CHECKPOINT < 40:00 -->
+<!-- CHECKPOINT < 28:00 -->
 <!-- Théo -->
 
 <!-- _backgroundColor: darkslategray -->
@@ -1243,9 +1078,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
-<!-- CHECKPOINT < 40:00 -->
+<!-- CHECKPOINT < 28:00 -->
 
-## Conflits
+## Conflicts
 
 <div class="flex vertical start">
 
@@ -1255,7 +1090,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
-<!-- CHECKPOINT < 40:00 -->
+<!-- CHECKPOINT < 28:00 -->
 
 <!-- _backgroundColor: darkslategray -->
 
@@ -1263,36 +1098,36 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="flex vertical start">
 
-- 🍷🍾 [`wine`](https://www.larvf.com/,vin-internet-nom-wine-lancement-donuts-domaine,4477645.asp): délégué en 2015
+- 🍷🍾 [`wine`](https://www.larvf.com/,vin-internet-nom-wine-lancement-donuts-domaine,4477645.asp): delegated in 2015 ✅
 - 🌳🌴 [`amazon`](https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.bna.com%2Famazon-internet-domain-b73014471531%2F)
 
 </div>
 
 ---
 
-<!-- CHECKPOINT < 40:00 -->
+<!-- CHECKPOINT < 28:00 -->
 
-## Conflits
+## Conflicts
 
 <div class="flex vertical start">
 
-- 🍷🍾 [`wine`](https://www.larvf.com/,vin-internet-nom-wine-lancement-donuts-domaine,4477645.asp): délégué en 2015
-- 🌳🌴 [`amazon`](https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.bna.com%2Famazon-internet-domain-b73014471531%2F): délégué en 2020
+- 🍷🍾 [`wine`](https://www.larvf.com/,vin-internet-nom-wine-lancement-donuts-domaine,4477645.asp): delegated in 2015 ✅
+- 🌳🌴 [`amazon`](https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.bna.com%2Famazon-internet-domain-b73014471531%2F): delegated in 2020 ✅
 - 🌎🕸️ [`web`](https://domainincite.com/27950-verisign-and-afilias-spar-over-web-delays)
 
 </div>
 
 ---
 
-<!-- CHECKPOINT < 40:00 -->
+<!-- CHECKPOINT < 28:00 -->
 
 ## Conflits
 
 <div class="flex vertical start">
 
-- 🍷🍾 [`wine`](https://www.larvf.com/,vin-internet-nom-wine-lancement-donuts-domaine,4477645.asp): délégué en 2015
-- 🌳🌴 [`amazon`](https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.bna.com%2Famazon-internet-domain-b73014471531%2F): délégué en 2020
-- 🌎🕸️ [`web`](https://domainincite.com/tag/web): toujours non résolu !
+- 🍷🍾 [`wine`](https://www.larvf.com/,vin-internet-nom-wine-lancement-donuts-domaine,4477645.asp): delegated in 2015 ✅
+- 🌳🌴 [`amazon`](https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.bna.com%2Famazon-internet-domain-b73014471531%2F): delegated in 2020 ✅
+- 🌎🕸️ [`web`](https://domainincite.com/tag/web): case still not solved! ❌
 
 <!--
 
@@ -1323,58 +1158,57 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
-<!-- CHECKPOINT < 40:00 -->
+<!-- CHECKPOINT < 28:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
 
 ## Round Sumup
 
-- 2 000 applications received <!-- https://newgtlds.icann.org/en/program-status/statistics -->
+- **2 000** applications received <!-- https://newgtlds.icann.org/en/program-status/statistics -->
 - 1 400 extensions <!-- https://icannwiki.org/New_gTLD_Program_(2012) -->
 - 1 200 approuved <!-- https://gtldresult.icann.org/applicationstatus/viewstatus -->
-- 1 153 enabled <!-- https://www.ntldstats.com/tld -->
+- **1 153** enabled (<60%) <!-- https://www.ntldstats.com/tld -->
 
 </div>
 
 ---
 
-<!-- CHECKPOINT < 40:00 -->
+<!-- CHECKPOINT < 28:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
 
-### gTLD adoption (2025) //TODO: actualiser les chiffres
+### gTLD Adoption (2026)
 
-| Extension   | Domaines enregistrés | % du round |
-| ----------- | -------------------- | ---------- |
-| **.xyz**    | 7_530_422            | 13.47%     |
-| **.top**    | 6_902_727            | 12.35%     |
-| **.shop**   | 4_484_070            | 8.02%      |
-| **.online** | 4_092_039            | 7.32%      |
-| **.store**  | 2_499_379            | 4.47%      |
+| Extension   | Registered Domains | % of the round |
+| ----------- | ------------------ | -------------- |
+| **.xyz**    | 9,937,920          | 14%            |
+| **.top**    | 8,359,616          | 12%            |
+| **.shop**   | 5,665,110          | 8%             |
+| **.online** | 4,930,765          | 7%             |
 
 </div>
 
 ---
 
-<!-- CHECKPOINT < 40:00 -->
+<!-- CHECKPOINT < 28:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
 
-### gTLD adoption (2025)
+### gTLD Adoption (2026)
 
-| Extension   | Domaines enregistrés | % du round |
-| ----------- | -------------------- | ---------- |
-| **.xyz**    | 7_530_422            | 13.47%     |
-| **.top**    | 6_902_727            | 12.35%     |
-| **.shop**   | 4_484_070            | 8.02%      |
-| **.online** | 4_092_039            | 7.32%      |
-| **.store**  | 2_499_379            | 4.47%      |
-|             |                      |            |
-| _.com_      | ~ 157_250_000        |            |
-| _\*_        | ~ 797_823_028        |            |
+| Extension   | Registered Domains | % of the round |
+| ----------- | ------------------ | -------------- |
+| **.xyz**    | 9,937,920          | 14%            |
+| **.top**    | 8,359,616          | 12%            |
+| **.shop**   | 5,665,110          | 8%             |
+| **.online** | 4,930,765          | 7%             |
+|             |                    |                |
+| _.com_ 🌍   | ~ 309,971,407      |                |
+| _.cn_ 🇨🇳    | ~ 37,690,649       |                |
+| _\*_        | ~ 836,632,916      |                |
 
 <!-- https://www.ntldstats.com/tld/ -->
 <!-- https://domainnamestat.com/statistics/overview -->
@@ -1385,20 +1219,20 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
-<!-- CHECKPOINT < 40:00 -->
+<!-- CHECKPOINT < 28:00 -->
 <!-- Théo -->
 
 <div class="flex vertical start">
 
-## Principales enchères gTLD
+## Highest gTLD Auctions 💰
 
-| Extension | Price    | Winning Candidate |
-| --------- | -------------------- | ---------------- |
-| **.TECH** | $ 6_760_000          | Dot Tech         |
-| **.BLOG** | $ 8_000_000          | Automattic       |
-| **.APP**  | $ 25_001_000         | Google           |
-| **.SHOP** | $ 41_500_000         | GMO Registry     |
-| **.WEB**  | $ 135_000_000        | Verisign         |
+| Extension | Price         | Winning Candidate |
+| --------- | ------------- | ----------------- |
+| **.TECH** | $ 6,760,000   | Dot Tech          |
+| **.BLOG** | $ 8,000,000   | Automattic        |
+| **.APP**  | $ 25,001,000  | Google            |
+| **.SHOP** | $ 41,500,000  | GMO Registry      |
+| **.WEB**  | $ 135,000,000 | Verisign          |
 
 <!-- témoignage Radix: https://domainincite.com/28352-interview-sandeep-ramchandani-on-10-years-of-radix-and-new-gtlds -->
 
@@ -1406,53 +1240,55 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
-<!-- CHECKPOINT < 40:00 -->
+<!-- CHECKPOINT < 28:00 -->
 
 ![bg cover opacity:0.7](./assets/2026.jpg)
 
-<!-- Photo de <a href="https://unsplash.com/fr/@simonesecci">Simone Secci</a> sur <a href="https://unsplash.com/fr/photos/lettres-rouges-neon-49uySSA678U">Unsplash</a> -->
+<!-- Photo from <a href="https://unsplash.com/fr/@simonesecci">Simone Secci</a> on <a href="https://unsplash.com/fr/photos/lettres-rouges-neon-49uySSA678U">Unsplash</a> -->
 
 <div class="flex vertical space-around">
 
-# 7. new gTLDs round
+# 7. New gTLDs Round
 
 </div>
 
 ---
 
-<!-- CHECKPOINT < 45:00 -->
+<!-- CHECKPOINT < 30:00 -->
 
 <div class="flex vertical start">
 
-## Processus
+## Process
 
-<!-- Infos: https://newgtldprogram.icann.org/en/resources/ChampionsToolkit -->
+<!-- Infos : https://newgtldprogram.icann.org/en/resources/ChampionsToolkit -->
+<!-- Dates : https://domainincite.com/31571-icann-maps-out-new-gtld-timeline -->
 
-**Pre-requisites**: Long term vision
+**Pre-requisite**: Long-term vision
 
 <div class="spacer"/>
 
-- 🗓️ Starting 2026, during ~3 months
+- 🗓️ Starting April 30th 2026, for ~3 months
   - 🧰 Technical evaluation in separated process
-- 💰 **$ 227 000** (réductions possibles… pour ≃40 organisations)
-  - +$ 92 000 pour backend technique
-  - 🔨 enchères internes/externes ? [RFI en cours](https://www.icann.org/fr/announcements/details/icann-rfi-new-gtld-program-next-round-auctions-18-08-2025-fr)
+- 💰 **$ 227 000** (possible discounts… for ≃40 organizations)
+  - +$ 92 000 for technical backend
+  - 🔨 internal/external auctions? [Ongoing RFI](https://www.icann.org/fr/announcements/details/icann-rfi-new-gtld-program-next-round-auctions-18-08-2025-fr)
 
 </div>
 
 ---
 
-<!-- CHECKPOINT < 45:00 -->
+<!-- CHECKPOINT < 30:00 -->
 
 <div class="flex vertical start">
 
 ## Perspectives
 
-- 👫 **Public**: nothing (?)
-- 🏢 **Demandeurs**:
-  - garantir l’authenticité et la sécurité des sites institutionnels
-  - vente aux grosses marques (.ovhcloud ?)
-- 🔄 Début d'un nouveau cycle (?)
+- 👫 **Individuals**: not much
+- 🏢 **Requesters**:
+  - guarantee brand authenticity (`.ovhcloud`?)
+  - secure institutional websites
+  - sell to international brands
+- 🔄 Start of a new era of on-the-fly applications (?)
 
 </div>
 
@@ -1460,11 +1296,11 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ![bg cover opacity:0.7](./assets/ideas.jpg)
 
-<!-- Photo de <a href="https://unsplash.com/fr/@impatrickt">Patrick Tomasso</a> sur <a href="https://unsplash.com/fr/photos/ampoules-vintage-allumees-1NTFSnV-KLs">Unsplash</a> -->
+<!-- Photo from <a href="https://unsplash.com/fr/@impatrickt">Patrick Tomasso</a> on <a href="https://unsplash.com/fr/photos/ampoules-vintage-allumees-1NTFSnV-KLs">Unsplash</a> -->
 
 <div class="flex vertical space-around">
 
-# 8. Autres horizons
+# 8. Other Trends
 
 </div>
 
@@ -1493,7 +1329,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ![bg cover](./assets/question.jpg)
 
-<!-- Photo de <a href="https://unsplash.com/fr/@simonesecci">Simone Secci</a> sur <a href="https://unsplash.com/fr/photos/lettres-rouges-neon-49uySSA678U">Unsplash</a> -->
+<!-- Photo from <a href="https://unsplash.com/fr/@simonesecci">Simone Secci</a> on <a href="https://unsplash.com/fr/photos/lettres-rouges-neon-49uySSA678U">Unsplash</a> -->
 
 <div class="flex vertical space-between">
 
@@ -1503,7 +1339,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="footnotes">
 
-Crédits images: [Unsplash](https://unsplash.com) et [Freepik](https://www.freepik.com)
+Image Credits: [Unsplash](https://unsplash.com) and [Freepik](https://www.freepik.com)
 Slides: [https://github.com/Preovaleo/talk-extensions](https://https://github.com/Preovaleo/talk-extensions/)
 
 </div>
