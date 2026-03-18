@@ -11,6 +11,20 @@ class:
 <!-- Compile to HTML with `marp -w -s --html true .`
      (if it raises a watch error, disable git FS monitoring first with `git config core.fsmonitor false`) -->
 
+<!-- Convert to HTML with: `marp --html true --title "Domain Names: the Great Tale of Humble Extensions" slide-deck.en.md` -->
+
+<!-- Convert to PDF with:
+```
+CHROME_PATH=/Applications/Chromium.app/Contents/MacOS/Chromium marp --pdf --html true --allow-local-files true --title "Domain Names: the Great Tale of Humble Extensions" slide-deck.en.md && \
+gs -q -dNOPAUSE -dBATCH -dSAFER -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dEmbedAllFonts=true -dSubsetFonts=true -sOutputFile=slide-deck-ebook.en.pdf slide-deck.en.pdf && \
+mv -f slide-deck-ebook.en.pdf slide-deck.en.pdf
+```
+  - update chrome path if needed (Chromium derivatives give better results than Firefox)
+  - the generated PDF is recompressed (by compressing images) because it is huge
+  - open PDF in browser to avoid bounding box artefacts
+  - there are still some imperfections (missing UTF-8 characters…)
+ -->
+
 <!-- https://marpit.marp.app/markdown -->
 
 <style>

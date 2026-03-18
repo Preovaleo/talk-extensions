@@ -21,7 +21,7 @@ Une plongée dans les coulisses d’un Internet en perpétuelle transformation.
 - 🇫🇷 [touraine.tech](https://touraine.tech/) Tours, 12 février 2026  
   🔎 [_slides_](../touraine.tech/slide-deck.html) / [_vidéo_](https://www.youtube.com/watch?v=Ly-vU1H2LCk&list=PLl0xIhYGSdm-Y-xRPwCrr8GKjCrzXD0DJ)
 - 🇬🇧 OVHcloud, 19 mars 2026  
-  🔎 [_slides_](../ovhcloud/slide-deck.html)
+  🔎 [_slides_](../ovhcloud/slide-deck.en.pdf)
 
 ## Remerciements
 
