@@ -808,7 +808,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ## `tv`: Tuvalu 🇹🇻
 
-<!-- 5,56% du PIB -->
+<!-- 5,56% du GDP -->
 
 </div>
 
@@ -836,8 +836,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ## `ai`: Anguilla 🇦🇮
 
-<!-- 30 % du PIB -->
-<!-- > 1 million de domaines -->
+<!-- 30 % du GDP -->
+<!-- > 1 million de domaines, doubled in 1 year -->
 <!-- 80$ / an -->
 
 </div>
@@ -956,6 +956,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 - **2000**: aero, biz, coop, info, museum, name, pro
 - **2004**: asia, cat, jobs, mobi, tel, travel
 
+<!-- less than 20 extensions for a long time, over 3000 now -->
+
 </div>
 
 ---
@@ -1014,9 +1016,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="hspacer"></div>
 
-- `عرب` <!-- Arab -->
-- `中国` <!-- China -->
-- `コム` <!-- Japan -->
+- `عرب` (Arab)
+- `中国` (China)
+- `コム` (Japan)
 
 </div>
 
@@ -1031,13 +1033,10 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ## Internal Company Usage
 
-<div class="flex horizontal start">
-
+- `google` 🔗 <a href="https://blog.google" target="_blank">blog.google</a>
 - `leclerc` 🔗 <a href="https://location.leclerc" target="_blank">location.leclerc</a>
 - `cuisinella` 🔗 <a href="https://www.ma.cuisinella" target="_blank">www.ma.cuisinella</a>
-- `google` 🔗 <a href="https://blog.google" target="_blank">blog.google</a>
 
-</div>
 </div>
 
 ---
@@ -1075,6 +1074,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 ## Business Model
 
 <div class="flex vertical start">
+
+<!-- "extortion" -->
 
 - `sucks`
 
@@ -1188,9 +1189,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 ## Round Sumup
 
 - **2 000** applications received <!-- https://newgtlds.icann.org/en/program-status/statistics -->
-- 1 400 extensions <!-- https://icannwiki.org/New_gTLD_Program_(2012) -->
-- 1 200 approuved <!-- https://gtldresult.icann.org/applicationstatus/viewstatus -->
-- **1 153** enabled (<60%) <!-- https://www.ntldstats.com/tld -->
+  - 1 400 different extensions <!-- https://icannwiki.org/New_gTLD_Program_(2012) -->
+- 1 200 extensions approved (delegated) <!-- https://gtldresult.icann.org/applicationstatus/viewstatus -->
+- **1 108** extensions enabled (55%) <!-- https://www.ntldstats.com/tld -->
 
 </div>
 
@@ -1285,14 +1286,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 <!-- Infos : https://newgtldprogram.icann.org/en/resources/ChampionsToolkit -->
 <!-- Dates : https://domainincite.com/31571-icann-maps-out-new-gtld-timeline -->
 
-**Pre-requisite**: Long-term vision
-
-<div class="spacer"/>
-
-- 🗓️ Starting April 30th 2026, for ~3 months
-  - 🧰 Technical evaluation in separated process
-- 💰 **$ 227 000** (possible discounts… for ≃40 organizations)
-  - +$ 92 000 for technical backend
+- **Pre-requisite**: Long-term vision
+- 🗓️ Starting **April 30th 2026**, for ~3 months
+  - 💰 **$ 227 000** + **$ 92 000** (technical backend)
   - 🔨 internal/external auctions? [Ongoing RFI](https://www.icann.org/fr/announcements/details/icann-rfi-new-gtld-program-next-round-auctions-18-08-2025-fr)
 
 </div>
