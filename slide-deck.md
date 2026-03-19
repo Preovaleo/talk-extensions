@@ -11,6 +11,20 @@ class:
 <!-- Compile to HTML with `marp -w -s --html true .`
      (if it raises a watch error, disable git FS monitoring first with `git config core.fsmonitor false`) -->
 
+<!-- Convert to HTML with: `marp --html true --title "Domain Names: the Great Tale of Humble Extensions" slide-deck.md` -->
+
+<!-- Convert to PDF with:
+```
+CHROME_PATH=/Applications/Chromium.app/Contents/MacOS/Chromium marp --pdf --html true --allow-local-files true --title "Domain Names: the Great Tale of Humble Extensions" slide-deck.md && \
+gs -q -dNOPAUSE -dBATCH -dSAFER -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dEmbedAllFonts=true -dSubsetFonts=true -sOutputFile=slide-deck-ebook.pdf slide-deck.pdf && \
+mv -f slide-deck-ebook.pdf slide-deck.pdf
+```
+  - update chrome path if needed (Chromium derivatives give better results than Firefox)
+  - the generated PDF is recompressed (by compressing images) because it is huge
+  - open PDF in browser to avoid bounding box artefacts
+  - there are still some imperfections (missing UTF-8 characters…)
+ -->
+
 <!-- https://marpit.marp.app/markdown -->
 
 <style>
@@ -817,9 +831,9 @@ mail3         IN  A     192.0.2.5
 
 ###
 
-- Services "cachés" sur Tor
-- Anonyme et sécurisé 🔒
-- Pas accessible via DNS classique
+- 🫥 Services "cachés" sur Tor
+- 🔒 Anonyme et sécurisé
+- 🚧 Pas accessible via DNS classique
 
 <div class="spacer"></div>
 
@@ -855,8 +869,8 @@ mail3         IN  A     192.0.2.5
 
 ## Whois 👶 1982 → ☠️ 2025
 
-- 📝 texte libre,
-- pas de standard pour les clés ni le contenu
+- 📝 Texte libre
+- 🤯 Pas de standard pour les clés ni le contenu
 
 ```txt
 Domain Name: touraine.tech
@@ -880,7 +894,7 @@ Registry Registrant ID: REDACTED FOR PRIVACY
 ## RDAP 🚀 2015 → ✅ 2025+
 
 - 🧾 JSON + jCard via HTTPs
-- structuré, machine-readable,
+- 🕸️ Structuré, machine-readable
 
 <div class="spacer"></div>
 
@@ -1442,7 +1456,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="flex vertical start">
 
-- 🍷🍾 [`wine`](https://www.larvf.com/,vin-internet-nom-wine-lancement-donuts-domaine,4477645.asp) : délégué en 2015
+- 🍷🍾 [`wine`](https://www.larvf.com/,vin-internet-nom-wine-lancement-donuts-domaine,4477645.asp) : délégué en 2015 ✅
 - 🌳🌴 [`amazon`](https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.bna.com%2Famazon-internet-domain-b73014471531%2F)
 
 </div>
@@ -1455,8 +1469,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="flex vertical start">
 
-- 🍷🍾 [`wine`](https://www.larvf.com/,vin-internet-nom-wine-lancement-donuts-domaine,4477645.asp) : délégué en 2015
-- 🌳🌴 [`amazon`](https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.bna.com%2Famazon-internet-domain-b73014471531%2F) : délégué en 2020
+- 🍷🍾 [`wine`](https://www.larvf.com/,vin-internet-nom-wine-lancement-donuts-domaine,4477645.asp) : délégué en 2015 ✅
+- 🌳🌴 [`amazon`](https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.bna.com%2Famazon-internet-domain-b73014471531%2F) : délégué en 2020 ✅
 - 🌎🕸️ [`web`](https://domainincite.com/27950-verisign-and-afilias-spar-over-web-delays)
 
 </div>
@@ -1469,9 +1483,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="flex vertical start">
 
-- 🍷🍾 [`wine`](https://www.larvf.com/,vin-internet-nom-wine-lancement-donuts-domaine,4477645.asp) : délégué en 2015
-- 🌳🌴 [`amazon`](https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.bna.com%2Famazon-internet-domain-b73014471531%2F) : délégué en 2020
-- 🌎🕸️ [`web`](https://domainincite.com/tag/web) : toujours non résolu !
+- 🍷🍾 [`wine`](https://www.larvf.com/,vin-internet-nom-wine-lancement-donuts-domaine,4477645.asp) : délégué en 2015 ✅
+- 🌳🌴 [`amazon`](https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.bna.com%2Famazon-internet-domain-b73014471531%2F) : délégué en 2020 ✅
+- 🌎🕸️ [`web`](https://domainincite.com/tag/web) : toujours non résolu ! ❌
 
 <!--
 
@@ -1523,15 +1537,14 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="flex vertical start">
 
-### Adoption des nouveaux gTLD (2025)
+### Adoption des nouveaux gTLD (2026)
 
 | Extension   | Domaines enregistrés | % du round |
 | ----------- | -------------------- | ---------- |
-| **.xyz**    | 7_530_422            | 13.47%     |
-| **.top**    | 6_902_727            | 12.35%     |
-| **.shop**   | 4_484_070            | 8.02%      |
-| **.online** | 4_092_039            | 7.32%      |
-| **.store**  | 2_499_379            | 4.47%      |
+| **.xyz**    | 9 937 920            | 14%        |
+| **.top**    | 8 359 616            | 12%        |
+| **.shop**   | 5 665 110            | 8%         |
+| **.online** | 4 930 765            | 7%         |
 
 </div>
 
@@ -1542,18 +1555,18 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="flex vertical start">
 
-### Adoption des nouveaux gTLD (2025)
+### Adoption des nouveaux gTLD (2026)
 
 | Extension   | Domaines enregistrés | % du round |
 | ----------- | -------------------- | ---------- |
-| **.xyz**    | 7_530_422            | 13.47%     |
-| **.top**    | 6_902_727            | 12.35%     |
-| **.shop**   | 4_484_070            | 8.02%      |
-| **.online** | 4_092_039            | 7.32%      |
-| **.store**  | 2_499_379            | 4.47%      |
+| **.xyz**    | 9 937 920            | 14%        |
+| **.top**    | 8 359 616            | 12%        |
+| **.shop**   | 5 665 110            | 8%         |
+| **.online** | 4 930 765            | 7%         |
 |             |                      |            |
-| _.com_      | ~ 157_250_000        |            |
-| _\*_        | ~ 797_823_028        |            |
+| _.com_ 🌍   | ~ 309 971 407        |            |
+| _.cn_ 🇨🇳    | ~ 37 690 649         |            |
+| _\*_        | ~ 836 632 916        |            |
 
 <!-- https://www.ntldstats.com/tld/ -->
 <!-- https://domainnamestat.com/statistics/overview -->
@@ -1569,11 +1582,11 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="flex vertical start">
 
-## Principales enchères gTLD
+### Principales enchères gTLD 💰
 
 | Extension | Montant de l'enchère | Candidat gagnant |
 | --------- | -------------------- | ---------------- |
-| **.TECH** | $ 6_760_000          | Dot Tech         |
+| **.TECH** | $ 6 760 000          | Dot Tech         |
 
 </div>
 
@@ -1584,12 +1597,12 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="flex vertical start">
 
-## Principales enchères gTLD
+### Principales enchères gTLD 💰
 
 | Extension | Montant de l'enchère | Candidat gagnant |
 | --------- | -------------------- | ---------------- |
-| **.TECH** | $ 6_760_000          | Dot Tech         |
-| **.BLOG** | $ 8_000_000          | Automattic       |
+| **.TECH** | $ 6 760 000          | Dot Tech         |
+| **.BLOG** | $ 8 000 000          | Automattic       |
 
 </div>
 
@@ -1600,13 +1613,13 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="flex vertical start">
 
-## Principales enchères gTLD
+### Principales enchères gTLD 💰💰
 
 | Extension | Montant de l'enchère | Candidat gagnant |
 | --------- | -------------------- | ---------------- |
-| **.TECH** | $ 6_760_000          | Dot Tech         |
-| **.BLOG** | $ 8_000_000          | Automattic       |
-| **.APP**  | $ 25_001_000         | Google           |
+| **.TECH** | $ 6 760 000          | Dot Tech         |
+| **.BLOG** | $ 8 000 000          | Automattic       |
+| **.APP**  | $ 25 001 000         | Google           |
 
 </div>
 
@@ -1617,14 +1630,14 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="flex vertical start">
 
-## Principales enchères gTLD
+### Principales enchères gTLD 💰💰
 
 | Extension | Montant de l'enchère | Candidat gagnant |
 | --------- | -------------------- | ---------------- |
-| **.TECH** | $ 6_760_000          | Dot Tech         |
-| **.BLOG** | $ 8_000_000          | Automattic       |
-| **.APP**  | $ 25_001_000         | Google           |
-| **.SHOP** | $ 41_500_000         | GMO Registry     |
+| **.TECH** | $ 6 760 000          | Dot Tech         |
+| **.BLOG** | $ 8 000 000          | Automattic       |
+| **.APP**  | $ 25 001 000         | Google           |
+| **.SHOP** | $ 41 500 000         | GMO Registry     |
 
 </div>
 
@@ -1635,15 +1648,15 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="flex vertical start">
 
-## Principales enchères gTLD
+### Principales enchères gTLD 💰💰💰
 
 | Extension | Montant de l'enchère | Candidat gagnant |
 | --------- | -------------------- | ---------------- |
-| **.TECH** | $ 6_760_000          | Dot Tech         |
-| **.BLOG** | $ 8_000_000          | Automattic       |
-| **.APP**  | $ 25_001_000         | Google           |
-| **.SHOP** | $ 41_500_000         | GMO Registry     |
-| **.WEB**  | $ 135_000_000        | Verisign         |
+| **.TECH** | $ 6 760 000          | Dot Tech         |
+| **.BLOG** | $ 8 000 000          | Automattic       |
+| **.APP**  | $ 25 001 000         | Google           |
+| **.SHOP** | $ 41 500 000         | GMO Registry     |
+| **.WEB**  | $ 135 000 000        | Verisign         |
 
 <!-- témoignage Radix : https://domainincite.com/28352-interview-sandeep-ramchandani-on-10-years-of-radix-and-new-gtlds -->
 
