@@ -22,6 +22,8 @@ Une plongée dans les coulisses d’un Internet en perpétuelle transformation.
   🔎 [_slides_](../touraine.tech/slide-deck.pdf) / [_vidéo_](https://www.youtube.com/watch?v=Ly-vU1H2LCk&list=PLl0xIhYGSdm-Y-xRPwCrr8GKjCrzXD0DJ)
 - 🇬🇧 OVHcloud, 19 mars 2026  
   🔎 [_slides_](../ovhcloud/slide-deck.en.pdf)
+- 🇫🇷 [Devoxx](https://www.devoxx.fr/) France, 24 avril 2026  
+  🔎 [_slides_](../devoxx/slide-deck.pdf)
 
 ## Remerciements
 
@@ -51,9 +53,11 @@ A behind-the-scenes look at an Internet in constant transformation.
   🔎 [_slides_](../touraine.tech/slide-deck.pdf) / [_video_](https://www.youtube.com/watch?v=Ly-vU1H2LCk&list=PLl0xIhYGSdm-Y-xRPwCrr8GKjCrzXD0DJ)
 - 🇬🇧 OVHcloud, March 19th, 2026  
   🔎 [_slides_](../ovhcloud/slide-deck.en.pdf)
+- 🇫🇷 [Devoxx](https://www.devoxx.fr/) France, April 24th, 2026  
+  🔎 [_slides_](../devoxx/slide-deck.pdf)
 
 ## Acknowledgements
 
 This presentation is inspired by the “_Et si nous créions le `.breizhcamp`_” (“What if we created the `.breizhcamp`”) conference, given by Marc Audefroy and Éric Vergne at [BreizhCamp 2019](https://www.youtube.com/watch?v=gF8Ow44MAtc&list=PLv7xGPH0RMUR6C5CR7PUpeCxocR5JORdE).
 
-Some of the stories we tell can also be found on the [Dot Com](https://www.dotcom.press/history-of-domains) website.
+Some of the stories we relate can also be found on the [Dot Com](https://www.dotcom.press/history-of-domains) website.
