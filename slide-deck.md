@@ -33,7 +33,7 @@ mv -f slide-deck-ebook.pdf slide-deck.pdf
 
 <div class="flex vertical center">
 
-![bg cover opacity:0.7](./assets/network.jpg)
+![bg cover opacity:0.4](./assets/devoxx.jpg)
 
 <!-- Photo de <a href="https://unsplash.com/fr/@choys_">Conny Schneider</a> sur <a href="https://unsplash.com/fr/photos/a-blue-background-with-lines-and-dots-xuTJZ7uD7PI">Unsplash</a> -->
 
@@ -49,11 +49,7 @@ Théo Bougé & Benoît Masson - ![width:250px](./assets/ovh_white.svg)
 
 <div class="spacer"></div>
 
-<div class="backgroundColorWhite">
-
-![width:300px](./assets/touraine_tech.svg)
-
-</div>
+![width:400px](./assets/logo%20devoxx.png)
 
 </div>
 
@@ -1767,13 +1763,19 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="horizontal space-between bottom-align">
 
+<div class="flex vertical space-between top-align">
+
+![width:300px](./assets/robot%20devoxx.png)
+
 <div class="footnotes">
 
-Crédits images: [Unsplash](https://unsplash.com) et [Freepik](https://www.freepik.com)
+Crédits images: [Devoxx](https://github.com/quantixx/template-presentation), [Unsplash](https://unsplash.com) et [Freepik](https://www.freepik.com)
 Slides: [https://github.com/Preovaleo/talk-extensions](https://https://github.com/Preovaleo/talk-extensions/)
 
 </div>
 
-![width:300px](./assets/qr-feedbacks-touraine-tech.png)
+</div>
+
+![width:370px](./assets/qr-feedbacks-devoxx.png)
 
 </div>
