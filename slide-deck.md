@@ -11,11 +11,11 @@ class:
 <!-- Compile to HTML with `marp -w -s --html true .`
      (if it raises a watch error, disable git FS monitoring first with `git config core.fsmonitor false`) -->
 
-<!-- Convert to HTML with: `marp --html true --title "Domain Names: the Great Tale of Humble Extensions" slide-deck.md` -->
+<!-- Convert to HTML with: `marp --html true --title "Noms de domaines : la grande histoire des petites extensions" slide-deck.md` -->
 
 <!-- Convert to PDF with:
 ```
-CHROME_PATH=/Applications/Chromium.app/Contents/MacOS/Chromium marp --pdf --html true --allow-local-files true --title "Domain Names: the Great Tale of Humble Extensions" slide-deck.md && \
+CHROME_PATH=/Applications/Chromium.app/Contents/MacOS/Chromium marp --pdf --html true --allow-local-files true --title "Noms de domaines : la grande histoire des petites extensions" slide-deck.md && \
 gs -q -dNOPAUSE -dBATCH -dSAFER -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dEmbedAllFonts=true -dSubsetFonts=true -sOutputFile=slide-deck-ebook.pdf slide-deck.pdf && \
 mv -f slide-deck-ebook.pdf slide-deck.pdf
 ```
@@ -1320,10 +1320,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="hspacer"></div>
 
-- `عرب` <!-- Arab -->
-- `中国` <!-- China -->
-- `コム` <!-- Japan -->
-- `онлайн` <!-- online -->
+- `中国` (China)
+- `コム` (Japan)
+- `عرب` (Arab)
 
 </div>
 
@@ -1360,6 +1359,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 ### (vente publique)
 
 - `ovh`
+
+<!-- https://www.ovhcloud.com/fr/domains/tld/end-tld-ovh/ -->
 
 </div>
 
@@ -1451,6 +1452,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 ---
 
 <!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
+
+<!-- _backgroundColor: darkslategray -->
 
 ## Conflits
 
