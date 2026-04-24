@@ -869,13 +869,15 @@ mail3         IN  A     192.0.2.5
 - 🤯 Pas de standard pour les clés ni le contenu
 
 ```txt
-Domain Name: touraine.tech
-Updated Date: 2025-08-11T10:48:29Z
-Creation Date: 2017-09-10T12:38:12Z
-Registrar Registration Expiration Date: 2026-09-10T12:46:09+02:00
-Registrar: OVH, SAS
-Registrant Name: REDACTED FOR PRIVACY
-Registry Registrant ID: REDACTED FOR PRIVACY
+domain:         devoxx.fr
+status:         ACTIVE
+holder-c:       PPTS2-FRNIC
+admin-c:        PPTS2-FRNIC
+tech-c:         GI680-FRNIC
+registrar:      KEY-SYSTEMS GmbH
+Expiry Date:    2027-04-27T08:03:50Z
+created:        2011-04-28T09:11:46Z
+last-update:    2026-04-12T10:38:47.436828Z
 ```
 
 </div>
@@ -894,7 +896,7 @@ Registry Registrant ID: REDACTED FOR PRIVACY
 
 <div class="spacer"></div>
 
-🔗 <a href="https://client.rdap.org/?type=domain&object=touraine.tech" target="_blank">Voir RDAP pour touraine.tech</a>
+🔗 <a href="https://client.rdap.org/?type=domain&object=devoxx.fr" target="_blank">Voir RDAP pour devoxx.fr</a>
 
 </div>
 
