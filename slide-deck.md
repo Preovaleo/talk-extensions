@@ -6,6 +6,8 @@ class:
   - invert
 ---
 
+<!-- Éric -->
+
 <!-- markdownlint-disable MD001 MD026 MD033 MD045 -->
 
 <!-- Compile to HTML with `marp -w -s --html true .`
@@ -33,7 +35,7 @@ mv -f slide-deck-ebook.pdf slide-deck.pdf
 
 <div class="flex vertical center">
 
-![bg cover opacity:0.4](./assets/devoxx.jpg)
+![bg cover opacity:0.4](./assets/network.jpg)
 
 <!-- Photo de <a href="https://unsplash.com/fr/@choys_">Conny Schneider</a> sur <a href="https://unsplash.com/fr/photos/a-blue-background-with-lines-and-dots-xuTJZ7uD7PI">Unsplash</a> -->
 
@@ -49,11 +51,16 @@ Théo Bougé & Benoît Masson - ![width:250px](./assets/ovh_white.svg)
 
 <div class="spacer"></div>
 
-![width:400px](./assets/logo%20devoxx.png)
+<div class="backgroundColorWhite">
+
+![width:400px](./assets/logo_IUT_R_T_long_small-400x69-2.png)
+
+</div>
 
 </div>
 
 ---
+<!-- Éric -->
 
 <div class="flex vertical space-between">
 
@@ -85,6 +92,7 @@ Développeur Domaines
 ![width:300px](./assets/ovh_white.svg)
 
 ---
+<!-- Théo -->
 
 ![bg cover opacity:0.5](./assets/dictionary.jpg)
 
@@ -94,13 +102,10 @@ Développeur Domaines
 
 # 1. Noms de domaines et extensions
 
-<!-- CHECKPOINT < 02:00 -->
-
 </div>
 
 ---
-
-<!-- CHECKPOINT < 08:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -111,8 +116,7 @@ URL : `https://www.ovhcloud.com:8080/mail`
 </div>
 
 ---
-
-<!-- CHECKPOINT < 08:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -129,8 +133,7 @@ URL : `https://www.ovhcloud.com:8080/mail`
 </div>
 
 ---
-
-<!-- CHECKPOINT < 08:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -142,8 +145,7 @@ URL : `https://www.ovhcloud.com:8080/mail`
 </div>
 
 ---
-
-<!-- CHECKPOINT < 08:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -154,8 +156,7 @@ URL : `https://www.ovhcloud.com:8080/mail`
 </div>
 
 ---
-
-<!-- CHECKPOINT < 08:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -167,8 +168,7 @@ URL : `https://www.ovhcloud.com:8080/mail`
 </div>
 
 ---
-
-<!-- CHECKPOINT < 08:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -181,8 +181,7 @@ URL : `https://www.ovhcloud.com:8080/mail`
 </div>
 
 ---
-
-<!-- CHECKPOINT < 08:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -196,8 +195,7 @@ URL : `https://www.ovhcloud.com:8080/mail`
 </div>
 
 ---
-
-<!-- CHECKPOINT < 08:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -212,8 +210,7 @@ URL : `https://www.ovhcloud.com:8080/mail`
 </div>
 
 ---
-
-<!-- CHECKPOINT < 08:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -229,8 +226,7 @@ URL : `https://www.ovhcloud.com:8080/mail`
 </div>
 
 ---
-
-<!-- CHECKPOINT < 08:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -246,8 +242,7 @@ URL : `https://www.ovhcloud.com:8080/mail`
 </div>
 
 ---
-
-<!-- CHECKPOINT < 08:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -264,8 +259,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-
-<!-- CHECKPOINT < 08:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -277,8 +271,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-
-<!-- CHECKPOINT < 08:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -291,8 +284,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-
-<!-- CHECKPOINT < 08:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -306,8 +298,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-
-<!-- CHECKPOINT < 08:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -322,8 +313,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-
-<!-- CHECKPOINT < 08:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -339,8 +329,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-
-<!-- CHECKPOINT < 08:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -357,8 +346,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-
-<!-- CHECKPOINT < 08:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -376,8 +364,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-
-<!-- CHECKPOINT < 08:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -401,8 +388,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-
-<!-- CHECKPOINT < 08:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -427,8 +413,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-
-<!-- CHECKPOINT < 08:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -454,8 +439,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-
-<!-- CHECKPOINT < 08:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -482,8 +466,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-
-<!-- CHECKPOINT < 08:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -511,8 +494,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-
-<!-- CHECKPOINT < 08:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -539,8 +521,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-
-<!-- CHECKPOINT < 08:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -569,8 +550,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-
-<!-- CHECKPOINT < 08:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -585,8 +565,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-
-<!-- CHECKPOINT < 08:00 -->
+<!-- Éric -->
 
 ![bg cover opacity:0.5](./assets/directions.jpg)
 
@@ -599,9 +578,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-
-<!-- CHECKPOINT < 15:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -612,9 +589,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-
-<!-- CHECKPOINT < 15:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -623,10 +598,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-
-<!-- CHECKPOINT < 15:00 -->
-
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -635,9 +607,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-
-<!-- CHECKPOINT < 15:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -646,9 +616,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-
-<!-- CHECKPOINT < 15:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -657,9 +625,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-
-<!-- CHECKPOINT < 15:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -668,9 +634,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-
-<!-- CHECKPOINT < 15:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -679,9 +643,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-
-<!-- CHECKPOINT < 15:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -711,9 +673,7 @@ mail3         IN  A     192.0.2.5
 </div>
 
 ---
-
-<!-- CHECKPOINT < 15:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -724,9 +684,7 @@ mail3         IN  A     192.0.2.5
 </div>
 
 ---
-
-<!-- CHECKPOINT < 15:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -739,9 +697,7 @@ mail3         IN  A     192.0.2.5
 </div>
 
 ---
-
-<!-- CHECKPOINT < 15:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -756,9 +712,7 @@ mail3         IN  A     192.0.2.5
 </div>
 
 ---
-
-<!-- CHECKPOINT < 15:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -774,9 +728,7 @@ mail3         IN  A     192.0.2.5
 </div>
 
 ---
-
-<!-- CHECKPOINT < 15:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -791,9 +743,7 @@ mail3         IN  A     192.0.2.5
 </div>
 
 ---
-
-<!-- CHECKPOINT < 15:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -817,9 +767,7 @@ mail3         IN  A     192.0.2.5
 </div>
 
 ---
-
-<!-- CHECKPOINT < 15:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -838,8 +786,7 @@ mail3         IN  A     192.0.2.5
 </div>
 
 ---
-
-<!-- CHECKPOINT < 15:00 -->
+<!-- Éric -->
 
 ![bg cover opacity:0.3](./assets/phone-book.jpg)
 
@@ -852,9 +799,7 @@ mail3         IN  A     192.0.2.5
 </div>
 
 ---
-
-<!-- CHECKPOINT < 17:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -869,23 +814,17 @@ mail3         IN  A     192.0.2.5
 - 🤯 Pas de standard pour les clés ni le contenu
 
 ```txt
-domain:         devoxx.fr
-status:         ACTIVE
-holder-c:       PPTS2-FRNIC
-admin-c:        PPTS2-FRNIC
-tech-c:         GI680-FRNIC
-registrar:      KEY-SYSTEMS GmbH
-Expiry Date:    2027-04-27T08:03:50Z
-created:        2011-04-28T09:11:46Z
-last-update:    2026-04-12T10:38:47.436828Z
+Domain Name: IUT-RT.NET
+Registry Domain ID: 162256355_DOMAIN_NET-VRSN
+Registrar URL: https://www.godaddy.com
+Updated Date: 2021-05-23T15:10:10Z
+Creation Date: 2005-05-27T03:23:18Z
 ```
 
 </div>
 
 ---
-
-<!-- CHECKPOINT < 17:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -896,13 +835,12 @@ last-update:    2026-04-12T10:38:47.436828Z
 
 <div class="spacer"></div>
 
-🔗 <a href="https://client.rdap.org/?type=domain&object=devoxx.fr" target="_blank">Voir RDAP pour devoxx.fr</a>
+🔗 <a href="https://client.rdap.org/?type=domain&object=iut-rt.net" target="_blank">Voir RDAP pour iut-rt.net</a>
 
 </div>
 
 ---
-
-<!-- CHECKPOINT < 17:00 -->
+<!-- Théo -->
 
 ![bg cover opacity:0.8](./assets/actors.jpg)
 
@@ -916,8 +854,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 20:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -930,8 +867,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 20:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -943,8 +879,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 20:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -961,8 +896,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 20:00 -->
+<!-- Éric -->
 
 ![bg cover opacity:0.7](./assets/countries.jpg)
 
@@ -975,9 +909,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 25:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -986,9 +918,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 25:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 ![bg cover opacity:1](./assets/tuvalu.png)
 
@@ -1003,9 +933,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 25:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -1014,9 +942,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 25:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 ![bg cover opacity:1](./assets/anguilla.png)
 
@@ -1033,9 +959,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 25:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -1044,9 +968,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 25:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 ![bg cover opacity:1](./assets/mayotte.png)
 
@@ -1059,9 +981,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 25:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -1070,9 +990,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 25:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 ![bg cover opacity:1](./assets/libya.png)
 
@@ -1087,9 +1005,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 <!-- 0,015% du PIB -->
 
 ---
-
-<!-- CHECKPOINT < 25:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -1098,9 +1014,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 25:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 ![bg cover opacity:1](./assets/british-indian-ocean-territory.png)
 
@@ -1117,9 +1031,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 25:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -1128,9 +1040,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 25:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 ![bg cover opacity:1](./assets/afghanistan.png)
 
@@ -1146,9 +1056,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 <!-- interdiction pour entreprise européenne d'envoyer de l'argent -->
 
 ---
-
-<!-- CHECKPOINT < 25:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -1157,9 +1065,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 25:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 ![bg cover opacity:1](./assets/yougoslavie.png)
 
@@ -1180,9 +1086,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 25:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -1191,9 +1095,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 25:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 ![bg cover opacity:1](./assets/ussr.png)
 
@@ -1211,8 +1113,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 25:00 -->
+<!-- Théo -->
 
 ![bg cover opacity:0.8](./assets/earth.jpg)
 
@@ -1225,8 +1126,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -1239,8 +1139,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -1262,8 +1161,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -1286,8 +1184,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -1303,8 +1200,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -1325,9 +1221,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 40:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <!-- _backgroundColor: darkslategray -->
 
@@ -1347,8 +1241,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -1363,9 +1256,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 40:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <!-- _backgroundColor: darkslategray -->
 
@@ -1379,8 +1270,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -1391,9 +1281,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 40:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <!-- _backgroundColor: darkslategray -->
 
@@ -1406,8 +1294,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
 
 ## Business model
 
@@ -1418,9 +1305,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 40:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <!-- _backgroundColor: darkslategray -->
 
@@ -1436,8 +1321,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
 
 ## Conflits
 
@@ -1448,9 +1332,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 40:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <!-- _backgroundColor: darkslategray -->
 
@@ -1464,8 +1346,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
 
 ## Conflits
 
@@ -1478,8 +1359,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
 
 ## Conflits
 
@@ -1517,9 +1397,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 40:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -1533,9 +1411,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 40:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -1551,9 +1427,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 40:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -1578,9 +1452,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 40:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -1593,9 +1465,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 40:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -1609,9 +1479,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 40:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -1626,9 +1494,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 40:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -1644,9 +1510,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 40:00 -->
-<!-- Théo -->
+<!-- Éric -->
 
 <div class="flex vertical start">
 
@@ -1665,8 +1529,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
 
 ![bg cover opacity:0.7](./assets/2026.jpg)
 
@@ -1679,8 +1542,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 45:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -1702,8 +1564,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 45:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -1721,7 +1582,6 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
 ![bg cover opacity:0.7](./assets/ideas.jpg)
 
 <!-- Photo de <a href="https://unsplash.com/fr/@impatrickt">Patrick Tomasso</a> sur <a href="https://unsplash.com/fr/photos/ampoules-vintage-allumees-1NTFSnV-KLs">Unsplash</a> -->
@@ -1733,10 +1593,6 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
-<!-- CHECKPOINT < 50:00 -->
-<!-- Théo -->
-
 <div class="flex vertical start">
 
 ## #PasAssezDeTempsPourToutDire
@@ -1754,7 +1610,6 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-
 ![bg cover](./assets/question.jpg)
 
 <!-- Photo de <a href="https://unsplash.com/fr/@simonesecci">Simone Secci</a> sur <a href="https://unsplash.com/fr/photos/lettres-rouges-neon-49uySSA678U">Unsplash</a> -->
@@ -1767,17 +1622,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="flex vertical space-between top-align">
 
-![width:300px](./assets/robot%20devoxx.png)
-
 <div class="footnotes">
 
-Crédits images: [Devoxx](https://github.com/quantixx/template-presentation), [Unsplash](https://unsplash.com) et [Freepik](https://www.freepik.com)
 Slides: [https://github.com/Preovaleo/talk-extensions](https://https://github.com/Preovaleo/talk-extensions/)
-
-</div>
-
-</div>
-
-![width:370px](./assets/qr-feedbacks-devoxx.png)
 
 </div>
