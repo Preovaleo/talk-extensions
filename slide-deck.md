@@ -47,13 +47,13 @@ mv -f slide-deck-ebook.pdf slide-deck.pdf
 
 <div class="spacer"></div>
 
-Théo Bougé & Benoît Masson - ![width:250px](./assets/ovh_white.svg)
+Théo Bougé & Eric Vergne - ![width:250px](./assets/ovh_white.svg)
 
 <div class="spacer"></div>
 
 <div class="backgroundColorWhite">
-
-![width:400px](./assets/logo_IUT_R_T_long_small-400x69-2.png)
+* 
+* ![width:400px](./assets/logo_IUT_R_T_long_small-400x69-2.png)
 
 </div>
 
@@ -72,18 +72,18 @@ Théo Bougé & Benoît Masson - ![width:250px](./assets/ovh_white.svg)
 
 ### Théo
 
-![width:200px](./assets/theo.png)
+![height:200px](./assets/theo.png)
 
 SRE Domaines
 
 </div>
 <div class="vertical start">
 
-### Benoît
+### Eric
 
-![width:200px](./assets/benoit.jpg)
+![height:200px](./assets/eric.jpg)
 
-Développeur Domaines
+Développeur DNS
 
 </div>
 
@@ -593,7 +593,11 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 <div class="flex vertical start">
 
-![URI height:650px](assets/villea.png)
+| Adresse      | GPS |
+| ----------- | ----------- |
+| IUT de Saint-Malo, 40 Rue de la Croix Desilles, 35400 Saint-Malo, France      | 48.65738167700786, -1.9690510196784525       |
+
+
 
 </div>
 
@@ -602,7 +606,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 <div class="flex vertical start">
 
-![URI height:650px](assets/villeb.png)
+![URI height:650px](assets/villea-gps.png)
 
 </div>
 
@@ -611,7 +615,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 <div class="flex vertical start">
 
-![URI height:650px](assets/villec.png)
+![URI height:650px](assets/villeb-gps.png)
 
 </div>
 
@@ -620,7 +624,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 <div class="flex vertical start">
 
-![URI height:650px](assets/villed.png)
+![URI height:650px](assets/villec-gps.png)
 
 </div>
 
@@ -629,7 +633,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 <div class="flex vertical start">
 
-![URI height:650px](assets/villee.png)
+![URI height:650px](assets/villed-gps.png)
 
 </div>
 
