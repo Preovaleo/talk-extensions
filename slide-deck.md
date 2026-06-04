@@ -52,8 +52,8 @@ Théo Bougé & Eric Vergne - ![width:250px](./assets/ovh_white.svg)
 <div class="spacer"></div>
 
 <div class="backgroundColorWhite">
-* 
-* ![width:400px](./assets/logo_IUT_R_T_long_small-400x69-2.png)
+ 
+![width:400px](./assets/logo_IUT_R_T_long_small-400x69-2.png)
 
 </div>
 
