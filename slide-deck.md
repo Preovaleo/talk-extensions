@@ -176,20 +176,6 @@ URL : `https://www.ovhcloud.com:8080/mail`
 
 - `toto.fr` => `fr`
 - `com.toto.fr` => `fr`
-- `toto.gouv.fr`
-
-</div>
-
----
-<!-- Théo -->
-
-<div class="flex vertical start">
-
-## Quizz : quelle est l'extension ?
-
-- `toto.fr` => `fr`
-- `com.toto.fr` => `fr`
-- `toto.gouv.fr` => `gouv.fr`
 - `toto.com.fr`
 
 </div>
@@ -203,7 +189,6 @@ URL : `https://www.ovhcloud.com:8080/mail`
 
 - `toto.fr` => `fr`
 - `com.toto.fr` => `fr`
-- `toto.gouv.fr` => `gouv.fr`
 - `toto.com.fr` => `com.fr`
 - `toto.fr.com`
 
@@ -218,7 +203,6 @@ URL : `https://www.ovhcloud.com:8080/mail`
 
 - `toto.fr` => `fr`
 - `com.toto.fr` => `fr`
-- `toto.gouv.fr` => `gouv.fr`
 - `toto.com.fr` => `com.fr`
 - `toto.fr.com` => `com`
 - `toto.notaires.fr`
@@ -234,7 +218,6 @@ URL : `https://www.ovhcloud.com:8080/mail`
 
 - `toto.fr` => `fr`
 - `com.toto.fr` => `fr`
-- `toto.gouv.fr` => `gouv.fr`
 - `toto.com.fr` => `com.fr`
 - `toto.fr.com` => `com`
 - `toto.notaires.fr` => `fr`
@@ -324,23 +307,6 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 - `fr` => 🇫🇷
 - `com` => 🌍
 - `co` => 🇨🇴
-- `gouv.fr`
-
-</div>
-
----
-<!-- Théo -->
-
-<div class="flex vertical start">
-
-## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
-
-<div class="horizontal start">
-
-- `fr` => 🇫🇷
-- `com` => 🌍
-- `co` => 🇨🇴
-- `gouv.fr` => 🇫🇷
 - `bzh`
 
 </div>
@@ -357,7 +323,6 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 - `fr` => 🇫🇷
 - `com` => 🌍
 - `co` => 🇨🇴
-- `gouv.fr` => 🇫🇷
 - `bzh` => 🌍
 - `eu`
 
@@ -375,7 +340,6 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 - `fr` => 🇫🇷
 - `com` => 🌍
 - `co` => 🇨🇴
-- `gouv.fr` => 🇫🇷
 - `bzh` => 🌍
 - `eu` => 🇪🇺
 
@@ -399,7 +363,6 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 - `fr` => 🇫🇷
 - `com` => 🌍
 - `co` => 🇨🇴
-- `gouv.fr` => 🇫🇷
 - `bzh` => 🌍
 - `eu` => 🇪🇺
 
@@ -424,7 +387,6 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 - `fr` => 🇫🇷
 - `com` => 🌍
 - `co` => 🇨🇴
-- `gouv.fr` => 🇫🇷
 - `bzh` => 🌍
 - `eu` => 🇪🇺
 
@@ -432,118 +394,6 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 - `ευ` => 🇪🇺
 - `asia` => 🌍
-- `dev`
-
-</div>
-
-</div>
-
----
-<!-- Théo -->
-
-<div class="flex vertical start">
-
-## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
-
-<div class="horizontal start">
-
-- `fr` => 🇫🇷
-- `com` => 🌍
-- `co` => 🇨🇴
-- `gouv.fr` => 🇫🇷
-- `bzh` => 🌍
-- `eu` => 🇪🇺
-
-<div class="hspacer"></div>
-
-- `ευ` => 🇪🇺
-- `asia` => 🌍
-- `dev` => 🌍
-- `ai`
-
-</div>
-
-</div>
-
----
-<!-- Théo -->
-
-<div class="flex vertical start">
-
-## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
-
-<div class="horizontal start">
-
-- `fr` => 🇫🇷
-- `com` => 🌍
-- `co` => 🇨🇴
-- `gouv.fr` => 🇫🇷
-- `bzh` => 🌍
-- `eu` => 🇪🇺
-
-<div class="hspacer"></div>
-
-- `ευ` => 🇪🇺
-- `asia` => 🌍
-- `dev` => 🌍
-- `ai` => 🇦🇮
-- `tv`
-
-</div>
-
-</div>
-
----
-<!-- Théo -->
-
-<div class="flex vertical start">
-
-## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
-
-<div class="horizontal start">
-
-- `fr` => 🇫🇷
-- `com` => 🌍
-- `co` => 🇨🇴
-- `gouv.fr` => 🇫🇷
-- `bzh` => 🌍
-- `eu` => 🇪🇺
-
-<div class="hspacer"></div>
-
-- `ευ` => 🇪🇺
-- `asia` => 🌍
-- `dev` => 🌍
-- `ai` => 🇦🇮
-- `tv` => 🇹🇻
-- `radio`
-
-</div>
-
----
-<!-- Théo -->
-
-<div class="flex vertical start">
-
-## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
-
-<div class="horizontal start">
-
-- `fr` => 🇫🇷
-- `com` => 🌍
-- `co` => 🇨🇴
-- `gouv.fr` => 🇫🇷
-- `bzh` => 🌍
-- `eu` => 🇪🇺
-
-<div class="hspacer"></div>
-
-- `ευ` => 🇪🇺
-- `asia` => 🌍
-- `dev` => 🌍
-- `ai` => 🇦🇮
-- `tv` => 🇹🇻
-- `radio` => 🌍
 
 </div>
 
