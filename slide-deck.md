@@ -650,7 +650,7 @@ Creation Date: 2005-05-27T03:23:18Z
 
 <div class="spacer"></div>
 
-🔗 <a href="https://client.rdap.org/?type=domain&object=iut-rt.net" target="_blank">Voir RDAP pour iut-rt.net</a>
+🔗 <a href="https://client.rdap.org/?type=domain&object=iut-rt.net" target="_blank">Voir RDAP.org pour iut-rt.net</a>
 
 </div>
 
@@ -800,7 +800,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 <!-- 0,015% du PIB -->
 <!--  * extension de la Libye historiquement exploitée par le raccourcisseur d'URL Bitly (bit.ly). -->  
 <!--  * Risque d'infrastructure : l'interruption d'Internet au niveau national par la Libye a causé la coupure instantanée du service, poussant Bitly à migrer vers un .com. -->  
+
 <div class="flex vertical start">
+
 ---
 <!-- Éric -->
 
@@ -817,7 +819,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <!-- Source : https://www.openstreetmap.org/#map=6/41.80/16.08 -->
 
-
+<div class="flex vertical start">
 
 ## `yu` : Yougoslavie
 
@@ -1200,64 +1202,6 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 <!-- https://domainnamestat.com/statistics/overview -->
 
 <!-- plus ou moins le meme nombre que le .io ou .ai -->
-
-</div>
-
----
-<!-- Éric -->
-
-<div class="flex vertical start">
-
-### Principales enchères gTLD 💰
-
-| Extension | Montant de l'enchère | Candidat gagnant |
-| --------- | -------------------- | ---------------- |
-| **.TECH** | $ 6 760 000          | Dot Tech         |
-
-</div>
-
----
-<!-- Éric -->
-
-<div class="flex vertical start">
-
-### Principales enchères gTLD 💰
-
-| Extension | Montant de l'enchère | Candidat gagnant |
-| --------- | -------------------- | ---------------- |
-| **.TECH** | $ 6 760 000          | Dot Tech         |
-| **.BLOG** | $ 8 000 000          | Automattic       |
-
-</div>
-
----
-<!-- Éric -->
-
-<div class="flex vertical start">
-
-### Principales enchères gTLD 💰💰
-
-| Extension | Montant de l'enchère | Candidat gagnant |
-| --------- | -------------------- | ---------------- |
-| **.TECH** | $ 6 760 000          | Dot Tech         |
-| **.BLOG** | $ 8 000 000          | Automattic       |
-| **.APP**  | $ 25 001 000         | Google           |
-
-</div>
-
----
-<!-- Éric -->
-
-<div class="flex vertical start">
-
-### Principales enchères gTLD 💰💰
-
-| Extension | Montant de l'enchère | Candidat gagnant |
-| --------- | -------------------- | ---------------- |
-| **.TECH** | $ 6 760 000          | Dot Tech         |
-| **.BLOG** | $ 8 000 000          | Automattic       |
-| **.APP**  | $ 25 001 000         | Google           |
-| **.SHOP** | $ 41 500 000         | GMO Registry     |
 
 </div>
 
