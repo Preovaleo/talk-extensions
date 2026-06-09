@@ -33,7 +33,7 @@ mv -f slide-deck-ebook.pdf slide-deck.pdf
 
 <div class="flex vertical center">
 
-![bg cover opacity:0.4](./assets/devoxx.jpg)
+![bg cover opacity:0.7](./assets/network.jpg)
 
 <!-- Photo de <a href="https://unsplash.com/fr/@choys_">Conny Schneider</a> sur <a href="https://unsplash.com/fr/photos/a-blue-background-with-lines-and-dots-xuTJZ7uD7PI">Unsplash</a> -->
 
@@ -43,13 +43,11 @@ mv -f slide-deck-ebook.pdf slide-deck.pdf
 
 ### de **noms de domaines**
 
-<div class="spacer"></div>
-
 Théo Bougé & Benoît Masson - ![width:250px](./assets/ovh_white.svg)
 
 <div class="spacer"></div>
 
-![width:400px](./assets/logo%20devoxx.png)
+![width:200px](./assets/logo%20devlille.svg)
 
 </div>
 
@@ -869,15 +867,15 @@ mail3         IN  A     192.0.2.5
 - 🤯 Pas de standard pour les clés ni le contenu
 
 ```txt
-domain:         devoxx.fr
+domain:         devlille.fr
 status:         ACTIVE
-holder-c:       PPTS2-FRNIC
-admin-c:        PPTS2-FRNIC
-tech-c:         GI680-FRNIC
-registrar:      KEY-SYSTEMS GmbH
-Expiry Date:    2027-04-27T08:03:50Z
-created:        2011-04-28T09:11:46Z
-last-update:    2026-04-12T10:38:47.436828Z
+holder-c:       CTC3881945-FRNIC
+admin-c:        OVH5-FRNIC
+tech-c:         OVH5-FRNIC
+registrar:      OVH
+Expiry Date:    2026-09-05T16:05:40.120651Z
+created:        2024-09-05T16:05:40.137847Z
+last-update:    2025-10-31T23:17:42.508119Z
 ```
 
 </div>
@@ -896,7 +894,7 @@ last-update:    2026-04-12T10:38:47.436828Z
 
 <div class="spacer"></div>
 
-🔗 <a href="https://client.rdap.org/?type=domain&object=devoxx.fr" target="_blank">Voir RDAP pour devoxx.fr</a>
+🔗 <a href="https://client.rdap.org/?type=domain&object=devlille.fr" target="_blank">Voir RDAP pour devlille.fr</a>
 
 </div>
 
@@ -1052,6 +1050,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <!-- Source : https://www.openstreetmap.org/?mlat=-12.83&mlon=45.17#map=8/-12.83/45.17 -->
 
+<!-- ccTLD officiel de Mayotte (France) soumis aux stricts critères d'éligibilité du .fr. -->
+<!-- Conséquence commerciale : obligation d'être citoyen européen pour l'acquérir, ce qui empêche les acteurs américains (dont YouTube) de le racheter librement. -->
+
 <div class="flex vertical start">
 
 ## `yt` : Mayotte 🇾🇹
@@ -1077,6 +1078,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 ![bg cover opacity:1](./assets/libya.png)
 
 <!-- Source : https://www.openstreetmap.org/?mlat=26.34&mlon=17.23#map=5/26.34/17.23 -->
+
+<!-- extension de la Libye historiquement exploitée par le raccourcisseur d'URL Bitly (bit.ly). -->
+<!-- Risque d'infrastructure : l'interruption d'Internet au niveau national par la Libye a causé la coupure instantanée du service, poussant Bitly à migrer vers un .com. -->
 
 <div class="flex vertical start">
 
@@ -1329,6 +1333,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 <!-- CHECKPOINT < 40:00 -->
 <!-- Théo -->
 
+<!-- Extensions exclusives réservées à un usage interne (ex: .google, .leclerc) pour sanctuariser l'image de marque.-->
+<!-- Eviter le phishing-->
+
 <!-- _backgroundColor: darkslategray -->
 
 <div class="flex vertical start">
@@ -1366,6 +1373,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <!-- CHECKPOINT < 40:00 -->
 <!-- Théo -->
+
+<!-- Suppressions volontaires : abandon du .sncf (anciennement wifi.sncf) au profit de SNCF Connect, désormais cantonné aux usages internes et à authentification.sncf. -->
+<!-- Optimisation budgétaire : demande de suppression complète de l'extension propre de Goodyear pour s'affranchir des redevances annuelles dues à l'ICANN.   -->
 
 <!-- _backgroundColor: darkslategray -->
 
@@ -1422,6 +1432,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 <!-- CHECKPOINT < 40:00 -->
 <!-- Théo -->
 
+<!-- Domaines réservés : extensions bloquées par l'ICANN à des fins exclusives de documentation et de tests (.example, .localhost, .test, .invalid). -->
+<!-- Protections anti-collision : rejet en 2012 des extensions .corp et .home pour éliminer les risques de conflit avec les architectures réseaux internes des entreprises. -->
+
 <!-- _backgroundColor: darkslategray -->
 
 ## Extensions réservées
@@ -1438,6 +1451,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 ---
 
 <!-- CHECKPOINT < 40:00 -->
+
+<!-- Conflit géopolitique du .amazon : contestation par les pays de la région du fleuve Amazone contre l'attribution à la firme technologique. -->
+<!-- Compromis trouvé : octroi d'un droit de préemption local et engagement d'Amazon à restreindre l'extension à un usage purement corporate interne. -->
 
 ## Conflits
 
@@ -1688,16 +1704,20 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <!-- Infos : https://newgtldprogram.icann.org/en/resources/ChampionsToolkit -->
 <!-- Dates : https://domainincite.com/31571-icann-maps-out-new-gtld-timeline -->
+<!-- Ouverture : https://domainincite.com/31680-2026-new-gtld-round-has-actually-opened -->
 
 **Pré-requis** : capacité technique, vision long-terme
 
 <div class="spacer"/>
 
-- 🗓️ À partir du 30 avril 2026, pendant ~3 mois
+- 🗓️ Depuis le 30 avril, jusqu'au 12 août 2026
   - 🧰 évaluation technique distincte
-- 💰 **227 000$** (réductions possibles… pour ≃40 organisations)
+- 💰 **227 000$** (réductions possibles… pour ≃75 organisations)
   - +92 000$ pour backend technique
-  - 🔨 enchères internes/externes ? [RFI en cours](https://www.icann.org/fr/announcements/details/icann-rfi-new-gtld-program-next-round-auctions-18-08-2025-fr)
+  - 🔨 enchères internes uniquement
+
+<!-- RFI : https://www.icann.org/fr/announcements/details/icann-rfi-new-gtld-program-next-round-auctions-18-08-2025-fr
+     Conclusion : https://www.icann.org/fr/announcements/details/icann-issues-request-for-proposal-2026-round-auction-01-04-2026-fr -->
 
 </div>
 
@@ -1767,11 +1787,11 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="flex vertical space-between top-align">
 
-![width:300px](./assets/robot%20devoxx.png)
+![width:300px](./assets/logo%20devlille.svg)
 
 <div class="footnotes">
 
-Crédits images: [Devoxx](https://github.com/quantixx/template-presentation), [Unsplash](https://unsplash.com) et [Freepik](https://www.freepik.com)
+Crédits images: [Unsplash](https://unsplash.com) et [Freepik](https://www.freepik.com)
 Slides: [https://github.com/Preovaleo/talk-extensions](https://https://github.com/Preovaleo/talk-extensions/)
 
 </div>

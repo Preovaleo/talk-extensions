@@ -1297,13 +1297,20 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ## Process
 
-<!-- Infos : https://newgtldprogram.icann.org/en/resources/ChampionsToolkit -->
-<!-- Dates : https://domainincite.com/31571-icann-maps-out-new-gtld-timeline -->
+<!-- Infos: https://newgtldprogram.icann.org/en/resources/ChampionsToolkit -->
+<!-- Dates: https://domainincite.com/31571-icann-maps-out-new-gtld-timeline -->
+<!-- Opening: https://domainincite.com/31680-2026-new-gtld-round-has-actually-opened -->
 
-- **Pre-requisite**: Long-term vision
-- 🗓️ Starting **April 30th 2026**, for ~3 months
+**Pre-requisite**: Long-term vision
+
+<div class="spacer"></div>
+
+- 🗓️ Since April 30th, until August 12th 2026
   - 💰 **$ 227 000** + **$ 92 000** (technical backend)
-  - 🔨 internal/external auctions? [Ongoing RFI](https://www.icann.org/fr/announcements/details/icann-rfi-new-gtld-program-next-round-auctions-18-08-2025-fr)
+  - 🔨 internal auctions only
+
+<!-- RFI: https://www.icann.org/fr/announcements/details/icann-rfi-new-gtld-program-next-round-auctions-18-08-2025-fr
+     Conclusion: https://www.icann.org/fr/announcements/details/icann-issues-request-for-proposal-2026-round-auction-01-04-2026-fr -->
 
 </div>
 
