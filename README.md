@@ -26,6 +26,8 @@ Une plongée dans les coulisses d’un Internet en perpétuelle transformation.
   🔎 [_slides_](../devoxx/slide-deck.pdf)
 - 🇫🇷 [Colloque national ACD R&T](https://iut-stmalo.univ-rennes.fr/programme-acd-rt) à l'[IUT de Saint-Malo](https://iut-stmalo.univ-rennes.fr/), 3 juin 2026 — avec [Éric Vergne](https://github.com/trnsnt)  
   🔎 [_slides_](../iut/slide-deck.pdf)
+- 🇫🇷 [DevLille](https://devlille.fr/) Lille, 11 et 12 juin 2026  
+  🔎 [_slides_](../devlille/slide-deck.pdf)
 
 ## Remerciements
 
@@ -59,6 +61,8 @@ A behind-the-scenes look at an Internet in constant transformation.
   🔎 [_slides_](../devoxx/slide-deck.pdf)
 - 🇫🇷 [ACD R&T national colloquium](https://iut-stmalo.univ-rennes.fr/programme-acd-rt) at [IUT de Saint-Malo](https://iut-stmalo.univ-rennes.fr/), June 3rd, 2026 — with [Éric Vergne](https://github.com/trnsnt)  
   🔎 [_slides_](../iut/slide-deck.pdf)
+- 🇫🇷 [DevLille](https://devlille.fr/) Lille, June 11th and 12th, 2026  
+  🔎 [_slides_](../devlille/slide-deck.pdf)
 
 ## Acknowledgements
 
