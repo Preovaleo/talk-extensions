@@ -47,12 +47,12 @@ mv -f slide-deck-ebook.pdf slide-deck.pdf
 
 <div class="spacer"></div>
 
-Théo Bougé & Benoît Masson - ![width:250px](./assets/ovh_white.svg)
+Théo Bougé & Eric Vergne - ![width:250px](./assets/ovh_white.svg)
 
 <div class="spacer"></div>
 
 <div class="backgroundColorWhite">
-
+ 
 ![width:400px](./assets/logo_IUT_R_T_long_small-400x69-2.png)
 
 </div>
@@ -72,18 +72,18 @@ Théo Bougé & Benoît Masson - ![width:250px](./assets/ovh_white.svg)
 
 ### Théo
 
-![width:200px](./assets/theo.png)
+![height:200px](./assets/theo.png)
 
 SRE Domaines
 
 </div>
 <div class="vertical start">
 
-### Benoît
+### Eric
 
-![width:200px](./assets/benoit.jpg)
+![height:200px](./assets/eric.jpg)
 
-Développeur Domaines
+Développeur DNS
 
 </div>
 
@@ -176,20 +176,6 @@ URL : `https://www.ovhcloud.com:8080/mail`
 
 - `toto.fr` => `fr`
 - `com.toto.fr` => `fr`
-- `toto.gouv.fr`
-
-</div>
-
----
-<!-- Théo -->
-
-<div class="flex vertical start">
-
-## Quizz : quelle est l'extension ?
-
-- `toto.fr` => `fr`
-- `com.toto.fr` => `fr`
-- `toto.gouv.fr` => `gouv.fr`
 - `toto.com.fr`
 
 </div>
@@ -203,7 +189,6 @@ URL : `https://www.ovhcloud.com:8080/mail`
 
 - `toto.fr` => `fr`
 - `com.toto.fr` => `fr`
-- `toto.gouv.fr` => `gouv.fr`
 - `toto.com.fr` => `com.fr`
 - `toto.fr.com`
 
@@ -218,7 +203,6 @@ URL : `https://www.ovhcloud.com:8080/mail`
 
 - `toto.fr` => `fr`
 - `com.toto.fr` => `fr`
-- `toto.gouv.fr` => `gouv.fr`
 - `toto.com.fr` => `com.fr`
 - `toto.fr.com` => `com`
 - `toto.notaires.fr`
@@ -234,7 +218,6 @@ URL : `https://www.ovhcloud.com:8080/mail`
 
 - `toto.fr` => `fr`
 - `com.toto.fr` => `fr`
-- `toto.gouv.fr` => `gouv.fr`
 - `toto.com.fr` => `com.fr`
 - `toto.fr.com` => `com`
 - `toto.notaires.fr` => `fr`
@@ -324,23 +307,6 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 - `fr` => 🇫🇷
 - `com` => 🌍
 - `co` => 🇨🇴
-- `gouv.fr`
-
-</div>
-
----
-<!-- Théo -->
-
-<div class="flex vertical start">
-
-## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
-
-<div class="horizontal start">
-
-- `fr` => 🇫🇷
-- `com` => 🌍
-- `co` => 🇨🇴
-- `gouv.fr` => 🇫🇷
 - `bzh`
 
 </div>
@@ -357,7 +323,6 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 - `fr` => 🇫🇷
 - `com` => 🌍
 - `co` => 🇨🇴
-- `gouv.fr` => 🇫🇷
 - `bzh` => 🌍
 - `eu`
 
@@ -375,7 +340,6 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 - `fr` => 🇫🇷
 - `com` => 🌍
 - `co` => 🇨🇴
-- `gouv.fr` => 🇫🇷
 - `bzh` => 🌍
 - `eu` => 🇪🇺
 
@@ -399,7 +363,6 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 - `fr` => 🇫🇷
 - `com` => 🌍
 - `co` => 🇨🇴
-- `gouv.fr` => 🇫🇷
 - `bzh` => 🌍
 - `eu` => 🇪🇺
 
@@ -424,7 +387,6 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 - `fr` => 🇫🇷
 - `com` => 🌍
 - `co` => 🇨🇴
-- `gouv.fr` => 🇫🇷
 - `bzh` => 🌍
 - `eu` => 🇪🇺
 
@@ -432,118 +394,6 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 - `ευ` => 🇪🇺
 - `asia` => 🌍
-- `dev`
-
-</div>
-
-</div>
-
----
-<!-- Théo -->
-
-<div class="flex vertical start">
-
-## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
-
-<div class="horizontal start">
-
-- `fr` => 🇫🇷
-- `com` => 🌍
-- `co` => 🇨🇴
-- `gouv.fr` => 🇫🇷
-- `bzh` => 🌍
-- `eu` => 🇪🇺
-
-<div class="hspacer"></div>
-
-- `ευ` => 🇪🇺
-- `asia` => 🌍
-- `dev` => 🌍
-- `ai`
-
-</div>
-
-</div>
-
----
-<!-- Théo -->
-
-<div class="flex vertical start">
-
-## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
-
-<div class="horizontal start">
-
-- `fr` => 🇫🇷
-- `com` => 🌍
-- `co` => 🇨🇴
-- `gouv.fr` => 🇫🇷
-- `bzh` => 🌍
-- `eu` => 🇪🇺
-
-<div class="hspacer"></div>
-
-- `ευ` => 🇪🇺
-- `asia` => 🌍
-- `dev` => 🌍
-- `ai` => 🇦🇮
-- `tv`
-
-</div>
-
-</div>
-
----
-<!-- Théo -->
-
-<div class="flex vertical start">
-
-## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
-
-<div class="horizontal start">
-
-- `fr` => 🇫🇷
-- `com` => 🌍
-- `co` => 🇨🇴
-- `gouv.fr` => 🇫🇷
-- `bzh` => 🌍
-- `eu` => 🇪🇺
-
-<div class="hspacer"></div>
-
-- `ευ` => 🇪🇺
-- `asia` => 🌍
-- `dev` => 🌍
-- `ai` => 🇦🇮
-- `tv` => 🇹🇻
-- `radio`
-
-</div>
-
----
-<!-- Théo -->
-
-<div class="flex vertical start">
-
-## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
-
-<div class="horizontal start">
-
-- `fr` => 🇫🇷
-- `com` => 🌍
-- `co` => 🇨🇴
-- `gouv.fr` => 🇫🇷
-- `bzh` => 🌍
-- `eu` => 🇪🇺
-
-<div class="hspacer"></div>
-
-- `ευ` => 🇪🇺
-- `asia` => 🌍
-- `dev` => 🌍
-- `ai` => 🇦🇮
-- `tv` => 🇹🇻
-- `radio` => 🌍
 
 </div>
 
@@ -591,9 +441,16 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 ---
 <!-- Éric -->
 
+<!-- * La différence entre des coordonnées géographiques brutes (difficiles à retenir) et une adresse textuelle (humainement mémorisable). -->
+<!-- * une racine, des maillons intermédiaires (le pays et la ville pour représenter les extensions) et des localisations précises pour les serveurs. -->
+<!-- * Processus de résolution hiérarchique : la racine redirige vers le pays, qui oriente vers la ville, pour aboutir à la localisation finale du serveur. -->
 <div class="flex vertical start">
 
-![URI height:650px](assets/villea.png)
+| Adresse      | coordonnées géographiques |
+| ----------- | ----------- |
+| IUT de Saint-Malo, 40 Rue de la Croix Desilles, 35400 Saint-Malo, France      | 48°39'27.0"N 1°58'08.5"W       |
+
+
 
 </div>
 
@@ -602,7 +459,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 <div class="flex vertical start">
 
-![URI height:650px](assets/villeb.png)
+![URI height:650px](assets/villea-gps.png)
 
 </div>
 
@@ -611,7 +468,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 <div class="flex vertical start">
 
-![URI height:650px](assets/villec.png)
+![URI height:650px](assets/villeb-gps.png)
 
 </div>
 
@@ -620,7 +477,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 <div class="flex vertical start">
 
-![URI height:650px](assets/villed.png)
+![URI height:650px](assets/villec-gps.png)
 
 </div>
 
@@ -629,7 +486,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 <div class="flex vertical start">
 
-![URI height:650px](assets/villee.png)
+![URI height:650px](assets/villed-gps.png)
 
 </div>
 
@@ -692,59 +549,14 @@ mail3         IN  A     192.0.2.5
 
 - www.toto.fr ? 🔍
   DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.fr ✅
-- www.toto.gouv.fr ? 🏛️
 
 </div>
 
 ---
 <!-- Éric -->
 
-<div class="flex vertical start">
-
-## Quizz ❓🧭
-
-- www.toto.fr ? 🔍
-  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.fr ✅
-- www.toto.gouv.fr ? 🏛️
-  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.gouv.fr ✅
-- www.toto.notaires.fr ? 👩‍⚖️
-
-</div>
-
----
-<!-- Éric -->
-
-<div class="flex vertical start">
-
-## Quizz ❓🧭
-
-- www.toto.gouv.fr ? 🏛️
-  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.gouv.fr ✅
-- www.toto.notaires.fr ? 👩‍⚖️
-  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS notaires.fr 👩‍⚖️
-  -> DNS toto.notaires.fr ✅
-- www.toto.co.uk ? 🇬🇧
-
-</div>
-
----
-<!-- Éric -->
-
-<div class="flex vertical start">
-
-## Quizz ❓🧭
-
-- www.toto.notaires.fr ? 👩‍⚖️
-  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS notaires.fr 👩‍⚖️
-  -> DNS toto.notaires.fr ✅
-- www.toto.co.uk ? 🇬🇧
-  DNS root 🌐 -> DNS uk 🇬🇧 -> DNS toto.co.uk ✅
-
-</div>
-
----
-<!-- Éric -->
-
+<!--  * Centralisation mondiale : la racine principale est sous la gouvernance de l'ICANN, une organisation américaine. --> 
+<!-- * Racines DNS alternatives : exemple d'OpenNIC qui permet de résoudre des extensions non officielles (comme .libre) tout en intégrant un repli (fallback) vers l'ICANN. -->  
 <div class="flex vertical start">
 
 ## 🌐 Les DNS racines alternatifs
@@ -768,6 +580,9 @@ mail3         IN  A     192.0.2.5
 
 ---
 <!-- Éric -->
+<!--  * Extensions dépendantes de logiciels tiers : exemple du .onion accessible uniquement via l'outil et le réseau anonyme Tor. -->
+ <!-- * Constat de traçabilité : l'existence de l'anonymat de Tor met en évidence le manque d'anonymat du reste d'Internet, posant la question de l'identification des propriétaires. -->  
+
 
 <div class="flex vertical start">
 
@@ -803,10 +618,10 @@ mail3         IN  A     192.0.2.5
 
 <div class="flex vertical start">
 
-<!-- Whois : né en 1982, protocole texte libre, utilisé pour connaître les infos d'un domaine -->
-<!-- Obsolète (pas de sécurité, pas de structure), non conforme RGPD -->
-<!-- Mort programmée en 2025 -->
-<!-- RDAP le remplace : structuré, sécurisé, conforme, arrive en 2015, devient obligatoire en 2025 -->
+<!-- * Whois : né en 1982, protocole texte libre, utilisé pour connaître les infos d'un domaine -->
+<!-- * Obsolète (pas de sécurité, pas de structure), non conforme RGPD -->
+<!-- * Mort programmée en 2025 -->
+<!-- * RDAP le remplace : structuré, sécurisé, conforme, arrive en 2015, devient obligatoire en 2025 -->
 
 ## Whois 👶 1982 → ☠️ 2025
 
@@ -835,7 +650,7 @@ Creation Date: 2005-05-27T03:23:18Z
 
 <div class="spacer"></div>
 
-🔗 <a href="https://client.rdap.org/?type=domain&object=iut-rt.net" target="_blank">Voir RDAP pour iut-rt.net</a>
+🔗 <a href="https://client.rdap.org/?type=domain&object=iut-rt.net" target="_blank">Voir RDAP.org pour iut-rt.net</a>
 
 </div>
 
@@ -908,29 +723,6 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 </div>
 
----
-<!-- Éric -->
-
-<div class="flex vertical start">
-
-## `tv` ?
-
-</div>
-
----
-<!-- Éric -->
-
-![bg cover opacity:1](./assets/tuvalu.png)
-
-<!-- Source : https://www.openstreetmap.org/?mlat=-8.45&mlon=179.12#map=4/-8.45/179.12 -->
-
-<div class="flex vertical start">
-
-## `tv` : Tuvalu 🇹🇻
-
-<!-- 5,56% du PIB -->
-
-</div>
 
 ---
 <!-- Éric -->
@@ -974,6 +766,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <!-- Source : https://www.openstreetmap.org/?mlat=-12.83&mlon=45.17#map=8/-12.83/45.17 -->
 
+<!-- * ccTLD officiel de Mayotte (France) soumis aux stricts critères d'éligibilité du .fr. -->
+<!-- * Conséquence commerciale : obligation d'être citoyen européen pour l'acquérir, ce qui empêche les acteurs américains (dont YouTube) de le racheter librement. -->  
+
 <div class="flex vertical start">
 
 ## `yt` : Mayotte 🇾🇹
@@ -1003,57 +798,10 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 <!-- 0,015% du PIB -->
-
----
-<!-- Éric -->
-
-<div class="flex vertical start">
-
-## `io` ?
-
-</div>
-
----
-<!-- Éric -->
-
-![bg cover opacity:1](./assets/british-indian-ocean-territory.png)
-
-<!-- Source : https://www.openstreetmap.org/?mlat=-6.30&mlon=71.87#map=7/-6.30/71.87 -->
+<!--  * extension de la Libye historiquement exploitée par le raccourcisseur d'URL Bitly (bit.ly). -->  
+<!--  * Risque d'infrastructure : l'interruption d'Internet au niveau national par la Libye a causé la coupure instantanée du service, poussant Bitly à migrer vers un .com. -->  
 
 <div class="flex vertical start">
-
-## `io` : Territoire britannique de l’océan Indien 🇮🇴
-
-<!-- terre UK jusqu'en 2024 -->
-<!-- retrocédé à l'ile Maurice -->
-<!-- 1,7 million de NDD -->
-
-</div>
-
----
-<!-- Éric -->
-
-<div class="flex vertical start">
-
-## `af` ?
-
-</div>
-
----
-<!-- Éric -->
-
-![bg cover opacity:1](./assets/afghanistan.png)
-
-<!-- Source : https://www.openstreetmap.org/?mlat=33.81&mlon=66.54#map=5/33.81/66.54 -->
-
-<div class="flex vertical start">
-
-## `af` : Afghanistan 🇦🇫
-
-</div>
-
-<!-- 0,0025% -->
-<!-- interdiction pour entreprise européenne d'envoyer de l'argent -->
 
 ---
 <!-- Éric -->
@@ -1224,7 +972,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 <!-- Éric -->
 
 <!-- _backgroundColor: darkslategray -->
-
+<!-- * Extensions exclusives réservées à un usage interne (ex: .google, .leclerc) pour sanctuariser l'image de marque.-->  
+<!-- * Eviter le phishing-->
 <div class="flex vertical start">
 
 ## Extensions d'entreprise
@@ -1259,7 +1008,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 <!-- Éric -->
 
 <!-- _backgroundColor: darkslategray -->
-
+<!--  *  suppressions volontaires : abandon du .sncf (anciennement wifi.sncf) au profit de SNCF Connect, désormais cantonné aux usages internes et à authentification.sncf. -->  
+<!--  * Optimisation budgétaire : demande de suppression complète de l'extension propre de Goodyear pour s'affranchir des redevances annuelles dues à l'ICANN.   -->
 <div class="flex vertical start">
 
 ## Extensions supprimées
@@ -1308,7 +1058,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 <!-- Éric -->
 
 <!-- _backgroundColor: darkslategray -->
-
+<!-- * Domaines réservés : extensions bloquées par l'ICANN à des fins exclusives de documentation et de tests (.example, .localhost, .test, .invalid). -->  
+<!--  * Protections anti-collision : rejet en 2012 des extensions .corp et .home pour éliminer les risques de conflit avec les architectures réseaux internes des entreprises. -->  
 ## Extensions réservées
 
 <div class="flex vertical start">
@@ -1333,6 +1084,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 <!-- Éric -->
+
+<!--  * Conflit géopolitique du .amazon : contestation par les pays de la région du fleuve Amazone contre l'attribution à la firme technologique. -->  
+<!--  * Compromis trouvé : octroi d'un droit de préemption local et engagement d'Amazon à restreindre l'extension à un usage purement corporate interne. -->
 
 <!-- _backgroundColor: darkslategray -->
 
@@ -1448,64 +1202,6 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 <!-- https://domainnamestat.com/statistics/overview -->
 
 <!-- plus ou moins le meme nombre que le .io ou .ai -->
-
-</div>
-
----
-<!-- Éric -->
-
-<div class="flex vertical start">
-
-### Principales enchères gTLD 💰
-
-| Extension | Montant de l'enchère | Candidat gagnant |
-| --------- | -------------------- | ---------------- |
-| **.TECH** | $ 6 760 000          | Dot Tech         |
-
-</div>
-
----
-<!-- Éric -->
-
-<div class="flex vertical start">
-
-### Principales enchères gTLD 💰
-
-| Extension | Montant de l'enchère | Candidat gagnant |
-| --------- | -------------------- | ---------------- |
-| **.TECH** | $ 6 760 000          | Dot Tech         |
-| **.BLOG** | $ 8 000 000          | Automattic       |
-
-</div>
-
----
-<!-- Éric -->
-
-<div class="flex vertical start">
-
-### Principales enchères gTLD 💰💰
-
-| Extension | Montant de l'enchère | Candidat gagnant |
-| --------- | -------------------- | ---------------- |
-| **.TECH** | $ 6 760 000          | Dot Tech         |
-| **.BLOG** | $ 8 000 000          | Automattic       |
-| **.APP**  | $ 25 001 000         | Google           |
-
-</div>
-
----
-<!-- Éric -->
-
-<div class="flex vertical start">
-
-### Principales enchères gTLD 💰💰
-
-| Extension | Montant de l'enchère | Candidat gagnant |
-| --------- | -------------------- | ---------------- |
-| **.TECH** | $ 6 760 000          | Dot Tech         |
-| **.BLOG** | $ 8 000 000          | Automattic       |
-| **.APP**  | $ 25 001 000         | Google           |
-| **.SHOP** | $ 41 500 000         | GMO Registry     |
 
 </div>
 
