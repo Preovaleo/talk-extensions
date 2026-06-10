@@ -1526,7 +1526,11 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
   > Afilias and fellow .web applicant Donuts both approached ICANN before and after the auction, complaining that the NDC/Verisign bid was bogus, in violation of program rules requiring applicants to notify ICANN if there’s any change of control of their applications, including agreements to transfer the gTLD post-contracting.
 
 - https://domainincite.com/28757-verisign-will-get-web-icann-rules : Icann dit que c'est OK
-- https://domainincite.com/28948-web-hit-by-second-icann-complaint / https://domainincite.com/29159-web-fight-back-in-court / https://domainnamewire.com/2023/05/16/web-may-face-more-delays-as-altanovo-fights-on/ : Afilias re-conteste
+- https://domainincite.com/28948-web-hit-by-second-icann-complaint / https://domainincite.com/29159-web-fight-back-in-court / https://domainnamewire.com/2023/05/16/web-may-face-more-delays-as-altanovo-fights-on/ : Afilias (désormais Altanovo) re-conteste
+
+- https://circleid.com/posts/20231219-who-is-really-behind-the-plan-to-block-.web : Verisign contre-attaque (Altanovo serait une entité opaque dont le seul but est d'empêcher ou de retarder la mise à dispo de l'extension)
+
+  > While Altanovo is again raising baseless questions about the ownership of NDC (proven to be baseless according to the first IRP panel and the ICANN Board), the community should be keen to unmask and make transparent the real sources of ownership, control, and funding for Altanovo and its repeat IRPs whose only real goal seems to be to keep .web from entering the market and being available to consumers.
 
 -->
 
