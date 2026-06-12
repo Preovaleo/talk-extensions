@@ -6,8 +6,6 @@ class:
   - invert
 ---
 
-<!-- Éric -->
-
 <!-- markdownlint-disable MD001 MD026 MD033 MD045 -->
 
 <!-- Compile to HTML with `marp -w -s --html true .`
@@ -35,7 +33,7 @@ mv -f slide-deck-ebook.pdf slide-deck.pdf
 
 <div class="flex vertical center">
 
-![bg cover opacity:0.4](./assets/network.jpg)
+![bg cover opacity:0.7](./assets/network.jpg)
 
 <!-- Photo de <a href="https://unsplash.com/fr/@choys_">Conny Schneider</a> sur <a href="https://unsplash.com/fr/photos/a-blue-background-with-lines-and-dots-xuTJZ7uD7PI">Unsplash</a> -->
 
@@ -45,22 +43,15 @@ mv -f slide-deck-ebook.pdf slide-deck.pdf
 
 ### de **noms de domaines**
 
-<div class="spacer"></div>
-
-Théo Bougé & Eric Vergne - ![width:250px](./assets/ovh_white.svg)
+Théo Bougé & Benoît Masson - ![width:250px](./assets/ovh_white.svg)
 
 <div class="spacer"></div>
 
-<div class="backgroundColorWhite">
- 
-![width:400px](./assets/logo_IUT_R_T_long_small-400x69-2.png)
-
-</div>
+![width:200px](./assets/logo%20devlille.svg)
 
 </div>
 
 ---
-<!-- Éric -->
 
 <div class="flex vertical space-between">
 
@@ -72,18 +63,18 @@ Théo Bougé & Eric Vergne - ![width:250px](./assets/ovh_white.svg)
 
 ### Théo
 
-![height:200px](./assets/theo.png)
+![width:200px](./assets/theo.png)
 
 SRE Domaines
 
 </div>
 <div class="vertical start">
 
-### Eric
+### Benoît
 
-![height:200px](./assets/eric.jpg)
+![width:200px](./assets/benoit.jpg)
 
-Développeur DNS
+Développeur Domaines
 
 </div>
 
@@ -92,7 +83,6 @@ Développeur DNS
 ![width:300px](./assets/ovh_white.svg)
 
 ---
-<!-- Théo -->
 
 ![bg cover opacity:0.5](./assets/dictionary.jpg)
 
@@ -102,10 +92,13 @@ Développeur DNS
 
 # 1. Noms de domaines et extensions
 
+<!-- CHECKPOINT < 02:00 -->
+
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -116,7 +109,8 @@ URL : `https://www.ovhcloud.com:8080/mail`
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -133,7 +127,8 @@ URL : `https://www.ovhcloud.com:8080/mail`
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -145,7 +140,8 @@ URL : `https://www.ovhcloud.com:8080/mail`
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -156,7 +152,8 @@ URL : `https://www.ovhcloud.com:8080/mail`
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -168,7 +165,8 @@ URL : `https://www.ovhcloud.com:8080/mail`
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -176,12 +174,28 @@ URL : `https://www.ovhcloud.com:8080/mail`
 
 - `toto.fr` => `fr`
 - `com.toto.fr` => `fr`
+- `toto.gouv.fr`
+
+</div>
+
+---
+
+<!-- CHECKPOINT < 08:00 -->
+
+<div class="flex vertical start">
+
+## Quizz : quelle est l'extension ?
+
+- `toto.fr` => `fr`
+- `com.toto.fr` => `fr`
+- `toto.gouv.fr` => `gouv.fr`
 - `toto.com.fr`
 
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -189,13 +203,15 @@ URL : `https://www.ovhcloud.com:8080/mail`
 
 - `toto.fr` => `fr`
 - `com.toto.fr` => `fr`
+- `toto.gouv.fr` => `gouv.fr`
 - `toto.com.fr` => `com.fr`
 - `toto.fr.com`
 
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -203,6 +219,7 @@ URL : `https://www.ovhcloud.com:8080/mail`
 
 - `toto.fr` => `fr`
 - `com.toto.fr` => `fr`
+- `toto.gouv.fr` => `gouv.fr`
 - `toto.com.fr` => `com.fr`
 - `toto.fr.com` => `com`
 - `toto.notaires.fr`
@@ -210,7 +227,8 @@ URL : `https://www.ovhcloud.com:8080/mail`
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -218,6 +236,7 @@ URL : `https://www.ovhcloud.com:8080/mail`
 
 - `toto.fr` => `fr`
 - `com.toto.fr` => `fr`
+- `toto.gouv.fr` => `gouv.fr`
 - `toto.com.fr` => `com.fr`
 - `toto.fr.com` => `com`
 - `toto.notaires.fr` => `fr`
@@ -225,7 +244,8 @@ URL : `https://www.ovhcloud.com:8080/mail`
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -242,7 +262,8 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -254,7 +275,8 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -267,7 +289,8 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -281,7 +304,8 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -296,7 +320,8 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -307,12 +332,31 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 - `fr` => 🇫🇷
 - `com` => 🌍
 - `co` => 🇨🇴
+- `gouv.fr`
+
+</div>
+
+---
+
+<!-- CHECKPOINT < 08:00 -->
+
+<div class="flex vertical start">
+
+## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
+
+<div class="horizontal start">
+
+- `fr` => 🇫🇷
+- `com` => 🌍
+- `co` => 🇨🇴
+- `gouv.fr` => 🇫🇷
 - `bzh`
 
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -323,13 +367,15 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 - `fr` => 🇫🇷
 - `com` => 🌍
 - `co` => 🇨🇴
+- `gouv.fr` => 🇫🇷
 - `bzh` => 🌍
 - `eu`
 
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -340,6 +386,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 - `fr` => 🇫🇷
 - `com` => 🌍
 - `co` => 🇨🇴
+- `gouv.fr` => 🇫🇷
 - `bzh` => 🌍
 - `eu` => 🇪🇺
 
@@ -352,7 +399,8 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -363,6 +411,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 - `fr` => 🇫🇷
 - `com` => 🌍
 - `co` => 🇨🇴
+- `gouv.fr` => 🇫🇷
 - `bzh` => 🌍
 - `eu` => 🇪🇺
 
@@ -376,7 +425,8 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -387,6 +437,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 - `fr` => 🇫🇷
 - `com` => 🌍
 - `co` => 🇨🇴
+- `gouv.fr` => 🇫🇷
 - `bzh` => 🌍
 - `eu` => 🇪🇺
 
@@ -394,13 +445,130 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 - `ευ` => 🇪🇺
 - `asia` => 🌍
+- `dev`
 
 </div>
 
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 08:00 -->
+
+<div class="flex vertical start">
+
+## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
+
+<div class="horizontal start">
+
+- `fr` => 🇫🇷
+- `com` => 🌍
+- `co` => 🇨🇴
+- `gouv.fr` => 🇫🇷
+- `bzh` => 🌍
+- `eu` => 🇪🇺
+
+<div class="hspacer"></div>
+
+- `ευ` => 🇪🇺
+- `asia` => 🌍
+- `dev` => 🌍
+- `ai`
+
+</div>
+
+</div>
+
+---
+
+<!-- CHECKPOINT < 08:00 -->
+
+<div class="flex vertical start">
+
+## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
+
+<div class="horizontal start">
+
+- `fr` => 🇫🇷
+- `com` => 🌍
+- `co` => 🇨🇴
+- `gouv.fr` => 🇫🇷
+- `bzh` => 🌍
+- `eu` => 🇪🇺
+
+<div class="hspacer"></div>
+
+- `ευ` => 🇪🇺
+- `asia` => 🌍
+- `dev` => 🌍
+- `ai` => 🇦🇮
+- `tv`
+
+</div>
+
+</div>
+
+---
+
+<!-- CHECKPOINT < 08:00 -->
+
+<div class="flex vertical start">
+
+## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
+
+<div class="horizontal start">
+
+- `fr` => 🇫🇷
+- `com` => 🌍
+- `co` => 🇨🇴
+- `gouv.fr` => 🇫🇷
+- `bzh` => 🌍
+- `eu` => 🇪🇺
+
+<div class="hspacer"></div>
+
+- `ευ` => 🇪🇺
+- `asia` => 🌍
+- `dev` => 🌍
+- `ai` => 🇦🇮
+- `tv` => 🇹🇻
+- `radio`
+
+</div>
+
+---
+
+<!-- CHECKPOINT < 08:00 -->
+
+<div class="flex vertical start">
+
+## Quizz : ccTLD 🏳️‍🌈 ou gTLD 🌍 ?
+
+<div class="horizontal start">
+
+- `fr` => 🇫🇷
+- `com` => 🌍
+- `co` => 🇨🇴
+- `gouv.fr` => 🇫🇷
+- `bzh` => 🌍
+- `eu` => 🇪🇺
+
+<div class="hspacer"></div>
+
+- `ευ` => 🇪🇺
+- `asia` => 🌍
+- `dev` => 🌍
+- `ai` => 🇦🇮
+- `tv` => 🇹🇻
+- `radio` => 🌍
+
+</div>
+
+</div>
+
+---
+
+<!-- CHECKPOINT < 08:00 -->
 
 <div class="flex vertical start">
 
@@ -415,7 +583,8 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-<!-- Éric -->
+
+<!-- CHECKPOINT < 08:00 -->
 
 ![bg cover opacity:0.5](./assets/directions.jpg)
 
@@ -428,7 +597,9 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-<!-- Éric -->
+
+<!-- CHECKPOINT < 15:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -439,59 +610,65 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-<!-- Éric -->
 
-<!-- * La différence entre des coordonnées géographiques brutes (difficiles à retenir) et une adresse textuelle (humainement mémorisable). -->
-<!-- * une racine, des maillons intermédiaires (le pays et la ville pour représenter les extensions) et des localisations précises pour les serveurs. -->
-<!-- * Processus de résolution hiérarchique : la racine redirige vers le pays, qui oriente vers la ville, pour aboutir à la localisation finale du serveur. -->
+<!-- CHECKPOINT < 15:00 -->
+<!-- Théo -->
+
 <div class="flex vertical start">
 
-| Adresse      | coordonnées géographiques |
-| ----------- | ----------- |
-| IUT de Saint-Malo, 40 Rue de la Croix Desilles, 35400 Saint-Malo, France      | 48°39'27.0"N 1°58'08.5"W       |
-
-
+![URI height:650px](assets/villea.png)
 
 </div>
 
 ---
-<!-- Éric -->
+
+<!-- CHECKPOINT < 15:00 -->
+
+<!-- Théo -->
 
 <div class="flex vertical start">
 
-![URI height:650px](assets/villea-gps.png)
+![URI height:650px](assets/villeb.png)
 
 </div>
 
 ---
-<!-- Éric -->
+
+<!-- CHECKPOINT < 15:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
-![URI height:650px](assets/villeb-gps.png)
+![URI height:650px](assets/villec.png)
 
 </div>
 
 ---
-<!-- Éric -->
+
+<!-- CHECKPOINT < 15:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
-![URI height:650px](assets/villec-gps.png)
+![URI height:650px](assets/villed.png)
 
 </div>
 
 ---
-<!-- Éric -->
+
+<!-- CHECKPOINT < 15:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
-![URI height:650px](assets/villed-gps.png)
+![URI height:650px](assets/villee.png)
 
 </div>
 
 ---
-<!-- Éric -->
+
+<!-- CHECKPOINT < 15:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -500,7 +677,9 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 </div>
 
 ---
-<!-- Éric -->
+
+<!-- CHECKPOINT < 15:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -530,7 +709,9 @@ mail3         IN  A     192.0.2.5
 </div>
 
 ---
-<!-- Éric -->
+
+<!-- CHECKPOINT < 15:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -541,7 +722,9 @@ mail3         IN  A     192.0.2.5
 </div>
 
 ---
-<!-- Éric -->
+
+<!-- CHECKPOINT < 15:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -549,14 +732,67 @@ mail3         IN  A     192.0.2.5
 
 - www.toto.fr ? 🔍
   DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.fr ✅
+- www.toto.gouv.fr ? 🏛️
 
 </div>
 
 ---
-<!-- Éric -->
 
-<!--  * Centralisation mondiale : la racine principale est sous la gouvernance de l'ICANN, une organisation américaine. --> 
-<!-- * Racines DNS alternatives : exemple d'OpenNIC qui permet de résoudre des extensions non officielles (comme .libre) tout en intégrant un repli (fallback) vers l'ICANN. -->  
+<!-- CHECKPOINT < 15:00 -->
+<!-- Théo -->
+
+<div class="flex vertical start">
+
+## Quizz ❓🧭
+
+- www.toto.fr ? 🔍
+  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.fr ✅
+- www.toto.gouv.fr ? 🏛️
+  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.gouv.fr ✅
+- www.toto.notaires.fr ? 👩‍⚖️
+
+</div>
+
+---
+
+<!-- CHECKPOINT < 15:00 -->
+<!-- Théo -->
+
+<div class="flex vertical start">
+
+## Quizz ❓🧭
+
+- www.toto.gouv.fr ? 🏛️
+  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS toto.gouv.fr ✅
+- www.toto.notaires.fr ? 👩‍⚖️
+  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS notaires.fr 👩‍⚖️
+  -> DNS toto.notaires.fr ✅
+- www.toto.co.uk ? 🇬🇧
+
+</div>
+
+---
+
+<!-- CHECKPOINT < 15:00 -->
+<!-- Théo -->
+
+<div class="flex vertical start">
+
+## Quizz ❓🧭
+
+- www.toto.notaires.fr ? 👩‍⚖️
+  DNS root 🌐 -> DNS fr 🇫🇷 -> DNS notaires.fr 👩‍⚖️
+  -> DNS toto.notaires.fr ✅
+- www.toto.co.uk ? 🇬🇧
+  DNS root 🌐 -> DNS uk 🇬🇧 -> DNS toto.co.uk ✅
+
+</div>
+
+---
+
+<!-- CHECKPOINT < 15:00 -->
+<!-- Théo -->
+
 <div class="flex vertical start">
 
 ## 🌐 Les DNS racines alternatifs
@@ -579,10 +815,9 @@ mail3         IN  A     192.0.2.5
 </div>
 
 ---
-<!-- Éric -->
-<!--  * Extensions dépendantes de logiciels tiers : exemple du .onion accessible uniquement via l'outil et le réseau anonyme Tor. -->
- <!-- * Constat de traçabilité : l'existence de l'anonymat de Tor met en évidence le manque d'anonymat du reste d'Internet, posant la question de l'identification des propriétaires. -->  
 
+<!-- CHECKPOINT < 15:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -601,7 +836,8 @@ mail3         IN  A     192.0.2.5
 </div>
 
 ---
-<!-- Éric -->
+
+<!-- CHECKPOINT < 15:00 -->
 
 ![bg cover opacity:0.3](./assets/phone-book.jpg)
 
@@ -614,14 +850,16 @@ mail3         IN  A     192.0.2.5
 </div>
 
 ---
-<!-- Éric -->
+
+<!-- CHECKPOINT < 17:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
-<!-- * Whois : né en 1982, protocole texte libre, utilisé pour connaître les infos d'un domaine -->
-<!-- * Obsolète (pas de sécurité, pas de structure), non conforme RGPD -->
-<!-- * Mort programmée en 2025 -->
-<!-- * RDAP le remplace : structuré, sécurisé, conforme, arrive en 2015, devient obligatoire en 2025 -->
+<!-- Whois : né en 1982, protocole texte libre, utilisé pour connaître les infos d'un domaine -->
+<!-- Obsolète (pas de sécurité, pas de structure), non conforme RGPD -->
+<!-- Mort programmée en 2025 -->
+<!-- RDAP le remplace : structuré, sécurisé, conforme, arrive en 2015, devient obligatoire en 2025 -->
 
 ## Whois 👶 1982 → ☠️ 2025
 
@@ -629,17 +867,23 @@ mail3         IN  A     192.0.2.5
 - 🤯 Pas de standard pour les clés ni le contenu
 
 ```txt
-Domain Name: IUT-RT.NET
-Registry Domain ID: 162256355_DOMAIN_NET-VRSN
-Registrar URL: https://www.godaddy.com
-Updated Date: 2021-05-23T15:10:10Z
-Creation Date: 2005-05-27T03:23:18Z
+domain:         devlille.fr
+status:         ACTIVE
+holder-c:       CTC3881945-FRNIC
+admin-c:        OVH5-FRNIC
+tech-c:         OVH5-FRNIC
+registrar:      OVH
+Expiry Date:    2026-09-05T16:05:40.120651Z
+created:        2024-09-05T16:05:40.137847Z
+last-update:    2025-10-31T23:17:42.508119Z
 ```
 
 </div>
 
 ---
-<!-- Éric -->
+
+<!-- CHECKPOINT < 17:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -650,12 +894,13 @@ Creation Date: 2005-05-27T03:23:18Z
 
 <div class="spacer"></div>
 
-🔗 <a href="https://client.rdap.org/?type=domain&object=iut-rt.net" target="_blank">Voir RDAP.org pour iut-rt.net</a>
+🔗 <a href="https://client.rdap.org/?type=domain&object=devlille.fr" target="_blank">Voir RDAP pour devlille.fr</a>
 
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 17:00 -->
 
 ![bg cover opacity:0.8](./assets/actors.jpg)
 
@@ -669,7 +914,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 20:00 -->
 
 <div class="flex vertical start">
 
@@ -682,7 +928,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 20:00 -->
 
 <div class="flex vertical start">
 
@@ -694,7 +941,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 20:00 -->
 
 <div class="flex vertical start">
 
@@ -711,7 +959,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Éric -->
+
+<!-- CHECKPOINT < 20:00 -->
 
 ![bg cover opacity:0.7](./assets/countries.jpg)
 
@@ -723,9 +972,38 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 </div>
 
+---
+
+<!-- CHECKPOINT < 25:00 -->
+<!-- Théo -->
+
+<div class="flex vertical start">
+
+## `tv` ?
+
+</div>
 
 ---
-<!-- Éric -->
+
+<!-- CHECKPOINT < 25:00 -->
+<!-- Théo -->
+
+![bg cover opacity:1](./assets/tuvalu.png)
+
+<!-- Source : https://www.openstreetmap.org/?mlat=-8.45&mlon=179.12#map=4/-8.45/179.12 -->
+
+<div class="flex vertical start">
+
+## `tv` : Tuvalu 🇹🇻
+
+<!-- 5,56% du PIB -->
+
+</div>
+
+---
+
+<!-- CHECKPOINT < 25:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -734,7 +1012,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Éric -->
+
+<!-- CHECKPOINT < 25:00 -->
+<!-- Théo -->
 
 ![bg cover opacity:1](./assets/anguilla.png)
 
@@ -751,7 +1031,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Éric -->
+
+<!-- CHECKPOINT < 25:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -760,14 +1042,16 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Éric -->
+
+<!-- CHECKPOINT < 25:00 -->
+<!-- Théo -->
 
 ![bg cover opacity:1](./assets/mayotte.png)
 
 <!-- Source : https://www.openstreetmap.org/?mlat=-12.83&mlon=45.17#map=8/-12.83/45.17 -->
 
-<!-- * ccTLD officiel de Mayotte (France) soumis aux stricts critères d'éligibilité du .fr. -->
-<!-- * Conséquence commerciale : obligation d'être citoyen européen pour l'acquérir, ce qui empêche les acteurs américains (dont YouTube) de le racheter librement. -->  
+<!-- ccTLD officiel de Mayotte (France) soumis aux stricts critères d'éligibilité du .fr. -->
+<!-- Conséquence commerciale : obligation d'être citoyen européen pour l'acquérir, ce qui empêche les acteurs américains (dont YouTube) de le racheter librement. -->
 
 <div class="flex vertical start">
 
@@ -776,7 +1060,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Éric -->
+
+<!-- CHECKPOINT < 25:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -785,11 +1071,16 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Éric -->
+
+<!-- CHECKPOINT < 25:00 -->
+<!-- Théo -->
 
 ![bg cover opacity:1](./assets/libya.png)
 
 <!-- Source : https://www.openstreetmap.org/?mlat=26.34&mlon=17.23#map=5/26.34/17.23 -->
+
+<!-- extension de la Libye historiquement exploitée par le raccourcisseur d'URL Bitly (bit.ly). -->
+<!-- Risque d'infrastructure : l'interruption d'Internet au niveau national par la Libye a causé la coupure instantanée du service, poussant Bitly à migrer vers un .com. -->
 
 <div class="flex vertical start">
 
@@ -798,13 +1089,70 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 <!-- 0,015% du PIB -->
-<!--  * extension de la Libye historiquement exploitée par le raccourcisseur d'URL Bitly (bit.ly). -->  
-<!--  * Risque d'infrastructure : l'interruption d'Internet au niveau national par la Libye a causé la coupure instantanée du service, poussant Bitly à migrer vers un .com. -->  
+
+---
+
+<!-- CHECKPOINT < 25:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
+## `io` ?
+
+</div>
+
 ---
-<!-- Éric -->
+
+<!-- CHECKPOINT < 25:00 -->
+<!-- Théo -->
+
+![bg cover opacity:1](./assets/british-indian-ocean-territory.png)
+
+<!-- Source : https://www.openstreetmap.org/?mlat=-6.30&mlon=71.87#map=7/-6.30/71.87 -->
+
+<div class="flex vertical start">
+
+## `io` : Territoire britannique de l’océan Indien 🇮🇴
+
+<!-- terre UK jusqu'en 2024 -->
+<!-- retrocédé à l'ile Maurice -->
+<!-- 1,7 million de NDD -->
+
+</div>
+
+---
+
+<!-- CHECKPOINT < 25:00 -->
+<!-- Théo -->
+
+<div class="flex vertical start">
+
+## `af` ?
+
+</div>
+
+---
+
+<!-- CHECKPOINT < 25:00 -->
+<!-- Théo -->
+
+![bg cover opacity:1](./assets/afghanistan.png)
+
+<!-- Source : https://www.openstreetmap.org/?mlat=33.81&mlon=66.54#map=5/33.81/66.54 -->
+
+<div class="flex vertical start">
+
+## `af` : Afghanistan 🇦🇫
+
+</div>
+
+<!-- 0,0025% -->
+<!-- interdiction pour entreprise européenne d'envoyer de l'argent -->
+
+---
+
+<!-- CHECKPOINT < 25:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -813,7 +1161,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Éric -->
+
+<!-- CHECKPOINT < 25:00 -->
+<!-- Théo -->
 
 ![bg cover opacity:1](./assets/yougoslavie.png)
 
@@ -834,7 +1184,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Éric -->
+
+<!-- CHECKPOINT < 25:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -843,7 +1195,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Éric -->
+
+<!-- CHECKPOINT < 25:00 -->
+<!-- Théo -->
 
 ![bg cover opacity:1](./assets/ussr.png)
 
@@ -861,7 +1215,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 25:00 -->
 
 ![bg cover opacity:0.8](./assets/earth.jpg)
 
@@ -874,7 +1229,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 40:00 -->
 
 <div class="flex vertical start">
 
@@ -887,7 +1243,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 40:00 -->
 
 <div class="flex vertical start">
 
@@ -909,7 +1266,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 40:00 -->
 
 <div class="flex vertical start">
 
@@ -932,7 +1290,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 40:00 -->
 
 <div class="flex vertical start">
 
@@ -948,7 +1307,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 40:00 -->
 
 <div class="flex vertical start">
 
@@ -969,11 +1329,15 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Éric -->
+
+<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
+
+<!-- Extensions exclusives réservées à un usage interne (ex: .google, .leclerc) pour sanctuariser l'image de marque.-->
+<!-- Eviter le phishing-->
 
 <!-- _backgroundColor: darkslategray -->
-<!-- * Extensions exclusives réservées à un usage interne (ex: .google, .leclerc) pour sanctuariser l'image de marque.-->  
-<!-- * Eviter le phishing-->
+
 <div class="flex vertical start">
 
 ## Extensions d'entreprise
@@ -990,7 +1354,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 40:00 -->
 
 <div class="flex vertical start">
 
@@ -1005,11 +1370,15 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Éric -->
+
+<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
+
+<!-- Suppressions volontaires : abandon du .sncf (anciennement wifi.sncf) au profit de SNCF Connect, désormais cantonné aux usages internes et à authentification.sncf. -->
+<!-- Optimisation budgétaire : demande de suppression complète de l'extension propre de Goodyear pour s'affranchir des redevances annuelles dues à l'ICANN.   -->
 
 <!-- _backgroundColor: darkslategray -->
-<!--  *  suppressions volontaires : abandon du .sncf (anciennement wifi.sncf) au profit de SNCF Connect, désormais cantonné aux usages internes et à authentification.sncf. -->  
-<!--  * Optimisation budgétaire : demande de suppression complète de l'extension propre de Goodyear pour s'affranchir des redevances annuelles dues à l'ICANN.   -->
+
 <div class="flex vertical start">
 
 ## Extensions supprimées
@@ -1020,7 +1389,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 40:00 -->
 
 <div class="flex vertical start">
 
@@ -1031,7 +1401,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Éric -->
+
+<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
 
 <!-- _backgroundColor: darkslategray -->
 
@@ -1044,7 +1416,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 40:00 -->
 
 ## Business model
 
@@ -1055,11 +1428,15 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Éric -->
+
+<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
+
+<!-- Domaines réservés : extensions bloquées par l'ICANN à des fins exclusives de documentation et de tests (.example, .localhost, .test, .invalid). -->
+<!-- Protections anti-collision : rejet en 2012 des extensions .corp et .home pour éliminer les risques de conflit avec les architectures réseaux internes des entreprises. -->
 
 <!-- _backgroundColor: darkslategray -->
-<!-- * Domaines réservés : extensions bloquées par l'ICANN à des fins exclusives de documentation et de tests (.example, .localhost, .test, .invalid). -->  
-<!--  * Protections anti-collision : rejet en 2012 des extensions .corp et .home pour éliminer les risques de conflit avec les architectures réseaux internes des entreprises. -->  
+
 ## Extensions réservées
 
 <div class="flex vertical start">
@@ -1072,7 +1449,11 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 40:00 -->
+
+<!-- Conflit géopolitique du .amazon : contestation par les pays de la région du fleuve Amazone contre l'attribution à la firme technologique. -->
+<!-- Compromis trouvé : octroi d'un droit de préemption local et engagement d'Amazon à restreindre l'extension à un usage purement corporate interne. -->
 
 ## Conflits
 
@@ -1083,10 +1464,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Éric -->
 
-<!--  * Conflit géopolitique du .amazon : contestation par les pays de la région du fleuve Amazone contre l'attribution à la firme technologique. -->  
-<!--  * Compromis trouvé : octroi d'un droit de préemption local et engagement d'Amazon à restreindre l'extension à un usage purement corporate interne. -->
+<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
 
 <!-- _backgroundColor: darkslategray -->
 
@@ -1100,7 +1480,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 40:00 -->
 
 ## Conflits
 
@@ -1113,7 +1494,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 40:00 -->
 
 ## Conflits
 
@@ -1144,14 +1526,20 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
   > Afilias and fellow .web applicant Donuts both approached ICANN before and after the auction, complaining that the NDC/Verisign bid was bogus, in violation of program rules requiring applicants to notify ICANN if there’s any change of control of their applications, including agreements to transfer the gTLD post-contracting.
 
 - https://domainincite.com/28757-verisign-will-get-web-icann-rules : Icann dit que c'est OK
-- https://domainincite.com/28948-web-hit-by-second-icann-complaint / https://domainincite.com/29159-web-fight-back-in-court / https://domainnamewire.com/2023/05/16/web-may-face-more-delays-as-altanovo-fights-on/ : Afilias re-conteste
+- https://domainincite.com/28948-web-hit-by-second-icann-complaint / https://domainincite.com/29159-web-fight-back-in-court / https://domainnamewire.com/2023/05/16/web-may-face-more-delays-as-altanovo-fights-on/ : Afilias (désormais Altanovo) re-conteste
+
+- https://circleid.com/posts/20231219-who-is-really-behind-the-plan-to-block-.web : Verisign contre-attaque (Altanovo serait une entité opaque dont le seul but est d'empêcher ou de retarder la mise à dispo de l'extension)
+
+  > While Altanovo is again raising baseless questions about the ownership of NDC (proven to be baseless according to the first IRP panel and the ICANN Board), the community should be keen to unmask and make transparent the real sources of ownership, control, and funding for Altanovo and its repeat IRPs whose only real goal seems to be to keep .web from entering the market and being available to consumers.
 
 -->
 
 </div>
 
 ---
-<!-- Éric -->
+
+<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -1165,7 +1553,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Éric -->
+
+<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -1181,7 +1571,9 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Éric -->
+
+<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -1206,7 +1598,75 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Éric -->
+
+<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
+
+<div class="flex vertical start">
+
+### Principales enchères gTLD 💰
+
+| Extension | Montant de l'enchère | Candidat gagnant |
+| --------- | -------------------- | ---------------- |
+| **.TECH** | $ 6 760 000          | Dot Tech         |
+
+</div>
+
+---
+
+<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
+
+<div class="flex vertical start">
+
+### Principales enchères gTLD 💰
+
+| Extension | Montant de l'enchère | Candidat gagnant |
+| --------- | -------------------- | ---------------- |
+| **.TECH** | $ 6 760 000          | Dot Tech         |
+| **.BLOG** | $ 8 000 000          | Automattic       |
+
+</div>
+
+---
+
+<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
+
+<div class="flex vertical start">
+
+### Principales enchères gTLD 💰💰
+
+| Extension | Montant de l'enchère | Candidat gagnant |
+| --------- | -------------------- | ---------------- |
+| **.TECH** | $ 6 760 000          | Dot Tech         |
+| **.BLOG** | $ 8 000 000          | Automattic       |
+| **.APP**  | $ 25 001 000         | Google           |
+
+</div>
+
+---
+
+<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
+
+<div class="flex vertical start">
+
+### Principales enchères gTLD 💰💰
+
+| Extension | Montant de l'enchère | Candidat gagnant |
+| --------- | -------------------- | ---------------- |
+| **.TECH** | $ 6 760 000          | Dot Tech         |
+| **.BLOG** | $ 8 000 000          | Automattic       |
+| **.APP**  | $ 25 001 000         | Google           |
+| **.SHOP** | $ 41 500 000         | GMO Registry     |
+
+</div>
+
+---
+
+<!-- CHECKPOINT < 40:00 -->
+<!-- Théo -->
 
 <div class="flex vertical start">
 
@@ -1225,7 +1685,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 40:00 -->
 
 ![bg cover opacity:0.7](./assets/2026.jpg)
 
@@ -1238,7 +1699,8 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 45:00 -->
 
 <div class="flex vertical start">
 
@@ -1246,21 +1708,26 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <!-- Infos : https://newgtldprogram.icann.org/en/resources/ChampionsToolkit -->
 <!-- Dates : https://domainincite.com/31571-icann-maps-out-new-gtld-timeline -->
+<!-- Ouverture : https://domainincite.com/31680-2026-new-gtld-round-has-actually-opened -->
 
 **Pré-requis** : capacité technique, vision long-terme
 
 <div class="spacer"/>
 
-- 🗓️ À partir du 30 avril 2026, pendant ~3 mois
+- 🗓️ Depuis le 30 avril, jusqu'au 12 août 2026
   - 🧰 évaluation technique distincte
-- 💰 **227 000$** (réductions possibles… pour ≃40 organisations)
+- 💰 **227 000$** (réductions possibles… pour ≃75 organisations)
   - +92 000$ pour backend technique
-  - 🔨 enchères internes/externes ? [RFI en cours](https://www.icann.org/fr/announcements/details/icann-rfi-new-gtld-program-next-round-auctions-18-08-2025-fr)
+  - 🔨 enchères internes uniquement
+
+<!-- RFI : https://www.icann.org/fr/announcements/details/icann-rfi-new-gtld-program-next-round-auctions-18-08-2025-fr
+     Conclusion : https://www.icann.org/fr/announcements/details/icann-issues-request-for-proposal-2026-round-auction-01-04-2026-fr -->
 
 </div>
 
 ---
-<!-- Théo -->
+
+<!-- CHECKPOINT < 45:00 -->
 
 <div class="flex vertical start">
 
@@ -1278,6 +1745,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
+
 ![bg cover opacity:0.7](./assets/ideas.jpg)
 
 <!-- Photo de <a href="https://unsplash.com/fr/@impatrickt">Patrick Tomasso</a> sur <a href="https://unsplash.com/fr/photos/ampoules-vintage-allumees-1NTFSnV-KLs">Unsplash</a> -->
@@ -1289,6 +1757,10 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
+
+<!-- CHECKPOINT < 50:00 -->
+<!-- Théo -->
+
 <div class="flex vertical start">
 
 ## #PasAssezDeTempsPourToutDire
@@ -1306,6 +1778,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
+
 ![bg cover](./assets/question.jpg)
 
 <!-- Photo de <a href="https://unsplash.com/fr/@simonesecci">Simone Secci</a> sur <a href="https://unsplash.com/fr/photos/lettres-rouges-neon-49uySSA678U">Unsplash</a> -->
@@ -1318,8 +1791,17 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <div class="flex vertical space-between top-align">
 
+![width:300px](./assets/logo%20devlille.svg)
+
 <div class="footnotes">
 
+Crédits images: [Unsplash](https://unsplash.com) et [Freepik](https://www.freepik.com)
 Slides: [https://github.com/Preovaleo/talk-extensions](https://https://github.com/Preovaleo/talk-extensions/)
+
+</div>
+
+</div>
+
+![width:370px](./assets/qr-feedbacks-devlille.svg)
 
 </div>
