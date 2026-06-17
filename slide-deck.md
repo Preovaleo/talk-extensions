@@ -48,11 +48,13 @@ mv -f slide-deck-ebook.pdf slide-deck.pdf
 
 ### de **noms de domaines**
 
-Théo Bougé & Benoît Masson - ![width:250px](./assets/ovh_white.svg)
+![width:250px](./assets/ovh_blue.png)
+
+Théo Bougé & Benoît Masson
 
 <div class="spacer"></div>
 
-![width:200px](./assets/logo%20devlille.svg)
+![width:300px](./assets/breizhcamp.svg)
 
 </div>
 
@@ -262,7 +264,8 @@ URL : `https://www.ovhcloud.com:8080/mail`
 
 <div class="spacer"></div>
 
-Liste publique (_non officielle_) sur https://publicsuffix.org/list/
+Liste publique (_non officielle_) sur  
+https://publicsuffix.org/list/
 
 </div>
 
@@ -872,15 +875,12 @@ mail3         IN  A     192.0.2.5
 - 🤯 Pas de standard pour les clés ni le contenu
 
 ```txt
-domain:         devlille.fr
-status:         ACTIVE
-holder-c:       CTC3881945-FRNIC
-admin-c:        OVH5-FRNIC
-tech-c:         OVH5-FRNIC
-registrar:      OVH
-Expiry Date:    2026-09-05T16:05:40.120651Z
-created:        2024-09-05T16:05:40.137847Z
-last-update:    2025-10-31T23:17:42.508119Z
+Domain Name:     breizhcamp.org
+status:          ACTIVE
+Registrar:       OVH, SAS
+Updated Date:    2026-06-06T10:16:54Z
+Creation Date:   2010-05-06T10:16:51Z
+Expiration Date: 2027-05-06T12:43:02+02:00
 ```
 
 </div>
@@ -899,7 +899,7 @@ last-update:    2025-10-31T23:17:42.508119Z
 
 <div class="spacer"></div>
 
-🔗 <a href="https://client.rdap.org/?type=domain&object=devlille.fr" target="_blank">Voir RDAP pour devlille.fr</a>
+🔗 <a href="https://client.rdap.org/?type=domain&object=breizhcamp.org" target="_blank">Voir RDAP pour breizhcamp.org</a>
 
 </div>
 
@@ -1801,10 +1801,6 @@ a {
 
 <div class="horizontal space-between bottom-align">
 
-<div class="flex vertical space-between top-align">
-
-![width:300px](./assets/logo%20devlille.svg)
-
 <div class="footnotes">
 
 Crédits images: [Unsplash](https://unsplash.com) et [Freepik](https://www.freepik.com)
@@ -1812,8 +1808,10 @@ Slides: [https://github.com/Preovaleo/talk-extensions](https://https://github.co
 
 </div>
 
-</div>
+<div class="backgroundColorWhite">
 
-![width:370px](./assets/qr-feedbacks-devlille.svg)
+![width:300px](./assets/qr-feedbacks-breizhcamp.svg)
+
+</div>
 
 </div>
