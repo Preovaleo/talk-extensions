@@ -2,8 +2,13 @@
 marp: true
 headingDivider: []
 theme: uncover
-class:
-  - invert
+style: |
+  a, h1 strong, h2 strong, h3 strong, h4 strong {
+    color: #000e9c;
+  }
+  section {
+    text-shadow: none;
+  }
 ---
 
 <!-- markdownlint-disable MD001 MD026 MD033 MD045 -->
@@ -33,7 +38,7 @@ mv -f slide-deck-ebook.pdf slide-deck.pdf
 
 <div class="flex vertical center">
 
-![bg cover opacity:0.7](./assets/network.jpg)
+![bg cover opacity:0.3](./assets/network.jpg)
 
 <!-- Photo de <a href="https://unsplash.com/fr/@choys_">Conny Schneider</a> sur <a href="https://unsplash.com/fr/photos/a-blue-background-with-lines-and-dots-xuTJZ7uD7PI">Unsplash</a> -->
 
@@ -84,7 +89,7 @@ Développeur Domaines
 
 ---
 
-![bg cover opacity:0.5](./assets/dictionary.jpg)
+![bg cover opacity:0.4](./assets/dictionary.jpg)
 
 <!-- Photo de <a href="https://unsplash.com/fr/@joshua_hoehne">Joshua Hoehne</a> sur <a href="https://unsplash.com/fr/photos/papier-dimprimante-blanc-avec-texte-noir-1UDjq8s8cy0">Unsplash</a> -->
 
@@ -586,7 +591,7 @@ Liste publique (_non officielle_) sur https://publicsuffix.org/list/
 
 <!-- CHECKPOINT < 08:00 -->
 
-![bg cover opacity:0.5](./assets/directions.jpg)
+![bg cover opacity:0.4](./assets/directions.jpg)
 
 <!-- Photo de <a href="https://unsplash.com/fr/@j_harris_391">Joshua Harris</a> sur <a href="https://unsplash.com/fr/photos/un-poteau-avec-un-tas-de-panneaux-de-signalisation-jaunes-dessus-BwH31YGYXho">Unsplash</a> -->
 
@@ -902,7 +907,7 @@ last-update:    2025-10-31T23:17:42.508119Z
 
 <!-- CHECKPOINT < 17:00 -->
 
-![bg cover opacity:0.8](./assets/actors.jpg)
+![bg cover opacity:0.4](./assets/actors.jpg)
 
 <!-- Photo de <a href="https://unsplash.com/fr/@kyleunderscorehead">Kyle Head</a> sur <a href="https://unsplash.com/fr/photos/silhouette-de-trois-interprete
 s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
@@ -962,7 +967,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <!-- CHECKPOINT < 20:00 -->
 
-![bg cover opacity:0.7](./assets/countries.jpg)
+![bg cover opacity:0.4](./assets/countries.jpg)
 
 <!-- Photo de <a href="https://unsplash.com/fr/@lemonvlad">Vladislav Klapin</a> sur <a href="https://unsplash.com/fr/photos/pavillon-assorti-YeO44yVTl20">Unsplash</a> -->
 
@@ -1218,7 +1223,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <!-- CHECKPOINT < 25:00 -->
 
-![bg cover opacity:0.8](./assets/earth.jpg)
+![bg cover opacity:0.4](./assets/earth.jpg)
 
 <!-- Photo de <a href="https://unsplash.com/fr/@carl_wang">Carl Wang</a> sur <a href="https://unsplash.com/fr/photos/une-vue-de-la-terre-depuis-lespace-OCe8cTGymSQ">Unsplash</a> -->
 
@@ -1336,7 +1341,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 <!-- Extensions exclusives réservées à un usage interne (ex: .google, .leclerc) pour sanctuariser l'image de marque.-->
 <!-- Eviter le phishing-->
 
-<!-- _backgroundColor: darkslategray -->
+<!-- _backgroundColor: lightgreen -->
 
 <div class="flex vertical start">
 
@@ -1377,7 +1382,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 <!-- Suppressions volontaires : abandon du .sncf (anciennement wifi.sncf) au profit de SNCF Connect, désormais cantonné aux usages internes et à authentification.sncf. -->
 <!-- Optimisation budgétaire : demande de suppression complète de l'extension propre de Goodyear pour s'affranchir des redevances annuelles dues à l'ICANN.   -->
 
-<!-- _backgroundColor: darkslategray -->
+<!-- _backgroundColor: lightgreen -->
 
 <div class="flex vertical start">
 
@@ -1405,7 +1410,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 <!-- CHECKPOINT < 40:00 -->
 <!-- Théo -->
 
-<!-- _backgroundColor: darkslategray -->
+<!-- _backgroundColor: lightgreen -->
 
 ## Tarification
 
@@ -1435,7 +1440,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 <!-- Domaines réservés : extensions bloquées par l'ICANN à des fins exclusives de documentation et de tests (.example, .localhost, .test, .invalid). -->
 <!-- Protections anti-collision : rejet en 2012 des extensions .corp et .home pour éliminer les risques de conflit avec les architectures réseaux internes des entreprises. -->
 
-<!-- _backgroundColor: darkslategray -->
+<!-- _backgroundColor: lightgreen -->
 
 ## Extensions réservées
 
@@ -1468,7 +1473,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 <!-- CHECKPOINT < 40:00 -->
 <!-- Théo -->
 
-<!-- _backgroundColor: darkslategray -->
+<!-- _backgroundColor: lightgreen -->
 
 ## Conflits
 
@@ -1688,7 +1693,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 <!-- CHECKPOINT < 40:00 -->
 
-![bg cover opacity:0.7](./assets/2026.jpg)
+![bg cover opacity:0.4](./assets/2026.jpg)
 
 <!-- Photo de <a href="https://unsplash.com/fr/@simonesecci">Simone Secci</a> sur <a href="https://unsplash.com/fr/photos/lettres-rouges-neon-49uySSA678U">Unsplash</a> -->
 
@@ -1746,7 +1751,7 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 
 ---
 
-![bg cover opacity:0.7](./assets/ideas.jpg)
+![bg cover opacity:0.4](./assets/ideas.jpg)
 
 <!-- Photo de <a href="https://unsplash.com/fr/@impatrickt">Patrick Tomasso</a> sur <a href="https://unsplash.com/fr/photos/ampoules-vintage-allumees-1NTFSnV-KLs">Unsplash</a> -->
 
@@ -1778,6 +1783,13 @@ s-sur-scene-p6rNTdAPbuk">Unsplash</a> -->
 </div>
 
 ---
+
+<!-- class: invert -->
+<style scoped>
+a {
+  color: #33b1dd;
+}
+</style>
 
 ![bg cover](./assets/question.jpg)
 
